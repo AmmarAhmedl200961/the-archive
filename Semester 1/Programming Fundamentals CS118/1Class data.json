@@ -1,0 +1,1306 @@
+{
+  "version": 1,
+  "name": "BDS-B",
+  "section": "B( Prgramming Fundamentals )",
+  "room": "B",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom0053d028@group.calendar.google.com",
+  "videoCallUrl": "https://meet.google.com/lookup/fgwupncsan",
+  "courseFolder": {
+    "id": "0B6lgnLfMnpqyfnl0V3hIdTZyTkxtT1FNNDYyQllpQnMtMG16VjM0VUJrd1FoY3NlSzY2dEU",
+    "name": "BDS-B B",
+    "openUrl": "https://drive.google.com/drive/folders/0B6lgnLfMnpqyfnl0V3hIdTZyTkxtT1FNNDYyQllpQnMtMG16VjM0VUJrd1FoY3NlSzY2dEU?resourcekey\u003d0-fecNQTM5QqxaNN8JE1tKWQ"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_breakfast.jpg",
+  "subject": "Programming Fundamentals",
+  "courseState": "ARCHIVED",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Mohsin Ghaffar Ghouri"
+      },
+      "emailAddress": "mohsin.ghaffar@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-02-22T10:14:10.763Z",
+    "updateTime": "2021-02-22T10:14:36.491Z",
+    "publicationTime": "2021-02-22T10:14:36.439Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "PF Lab Final",
+      "dueTime": "2021-02-22T11:00:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1ObOHDvi_Oyug8OHd0whK_T3gOUkHORT9",
+              "title": "L20_0961.rar",
+              "alternateLink": "https://drive.google.com/file/d/1ObOHDvi_Oyug8OHd0whK_T3gOUkHORT9/view?usp\u003ddrive_web"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2021-02-22T10:50:40.672Z",
+          "updateTime": "2021-02-22T10:50:40.541Z",
+          "comment": "Dear sir, I did not had a lots of preparation, and some programs did not run, please check leniently..\n\n20L-0961",
+          "commentHtml": "\u003cdiv\u003eDear sir, I did not had a lots of preparation, and some programs did not run, please check leniently..\u003cbr\u003e\u003cbr\u003e20L-0961\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2021-01-27T21:05:11.390Z",
+    "updateTime": "2021-01-27T21:05:11.016Z",
+    "publicationTime": "2021-01-27T21:05:10.692Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Chess submission phase 2",
+      "dueTime": "2021-01-31T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1LmR8sPivt0HWTN_smRk30TixTLpcW8Sa",
+              "title": "20L-0961_CHESS_Phase_2.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1LmR8sPivt0HWTN_smRk30TixTLpcW8Sa/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP21JmsMUW6GwP6O_CfMNJXJNCHblyT1Y_km0c3K-BJExG9PmTdix0vDI1MBtKrDUMX_P49D8CiXtSBbzCysc3ysdSR4wK7bL4bFfPLIxKzuyA\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2021-01-27T21:04:50.384Z",
+    "updateTime": "2021-01-27T21:04:50.006Z",
+    "publicationTime": "2021-01-27T21:04:49.747Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Chess submission phase 1",
+      "dueTime": "2021-01-28T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1JgImweRPo1H0rYg2B6z8SPfE2hVBP28t",
+              "title": "20L-0961_CHESS_Phase_1.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1JgImweRPo1H0rYg2B6z8SPfE2hVBP28t/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPgV-h05LIPwF0BQ_JCon2c1ZunCg3hPBtRfRIrsl75xbNDVCIJrHFOW2mRTobXkBt1Iff4uBJbfy4qppZ9cYosA7o53DK-_uLgz59qB5GeRdQ\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2021-01-27T21:04:28.015Z",
+    "updateTime": "2021-01-27T21:04:27.591Z",
+    "publicationTime": "2021-01-27T21:04:27.328Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Chess submission phase 0",
+      "dueTime": "2021-01-28T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1WCmIUCWCKYlHxTBjREPfGobbiFOG_5t6",
+              "title": "20L-0961_CHESS_Phase_0.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1WCmIUCWCKYlHxTBjREPfGobbiFOG_5t6/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMhCSbCxg-TrfE4HH0PgWHTcDZRKR7s3vngpzOcuI2imNE9iNYl90JgRIcfUgpBqCEDB8q5hWYA1frFjPI4BBwGE3dJ0hsbLclnZOSxNf41gA0\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2021-01-01T14:18:04.922Z",
+    "updateTime": "2021-01-01T14:18:04.445Z",
+    "publicationTime": "2021-01-01T14:18:04.077Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Snake submission",
+      "dueTime": "2021-01-01T18:59:50.831Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1NAw9gTvImnaOUelsfBhxrb7k08Kj89fM",
+              "title": "20L-0961.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1NAw9gTvImnaOUelsfBhxrb7k08Kj89fM/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNRF_7ElLdpYj_0_5-6OdU0h0P3hdBL5xEkFdiWJjF6pVYjkU_wTyAyTVo_2AIfPRvvWPTkvBujv0hf5s5aJlbvX4JG6OgmzWch_Cg46XQRCuk\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Dilawar Shabbir"
+      },
+      "emailAddress": "dilawar.shabbir@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-12-28T10:05:20.283Z",
+    "updateTime": "2020-12-28T10:06:16.635Z",
+    "publicationTime": "2020-12-28T10:06:16.242Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Lab 14 Submissions ",
+      "dueTime": "2020-12-28T13:00:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1eTaOnV_tgcBQukKf2mtSOJAlUbBQxRWi",
+              "title": "20L-0961.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1eTaOnV_tgcBQukKf2mtSOJAlUbBQxRWi/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOeNoHdzYmnGpLDmk0BcnLbN7wWPOSJ9RjZToLZlo7EJSN3MZhpYjWhjPPSfGaqA56IGUQ3E7dTr111pal-l95QEkqxD7Sro3GqWzAASUi58JI\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2020-12-22T09:27:51.092Z",
+    "updateTime": "2020-12-28T09:21:20.272Z",
+    "publicationTime": "2020-12-22T09:27:50.446Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Lab 13 Post Lab",
+      "dueTime": "2020-12-23T18:59:51.045Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Dilawar Shabbir"
+      },
+      "emailAddress": "dilawar.shabbir@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-12-21T09:44:07.711Z",
+    "updateTime": "2020-12-21T09:45:00.256Z",
+    "publicationTime": "2020-12-21T09:44:59.845Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Lab 12 Submission",
+      "dueTime": "2020-12-21T13:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1a5xUcp7IbCqVeLbm8o0JqXXzENVb7kqd",
+              "title": "20L-0961.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1a5xUcp7IbCqVeLbm8o0JqXXzENVb7kqd/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNImCloDSAxhRPIcE3OzYEsXj7Mkjr4e71rtgCT4_3UJGWiaun1b-LRYyW7R12LaJbHhOTdUPv8eYjSTeZDNcnGMZNpXyAiR8F-Op0m5P9POCw\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Dilawar Shabbir"
+      },
+      "emailAddress": "dilawar.shabbir@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-12-21T09:00:50.699Z",
+    "updateTime": "2020-12-21T12:09:53.270Z",
+    "publicationTime": "2020-12-21T09:02:30.661Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1QU7nRJcZXu2c9IIKyG-PpyfsCtSZyYS9",
+          "title": "PF - Lab 13.docx",
+          "alternateLink": "https://drive.google.com/file/d/1QU7nRJcZXu2c9IIKyG-PpyfsCtSZyYS9/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNVRC-48py52Iiht8p3ZLDSqe59MSkoQof7_4CsG4EeWIx9BPPYKm8zsdxCZdAh_gUcL88Z2woNzkYGs-RV-1gqzSOy7zLbF1IFpsDtTiN8UA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab 13",
+      "dueTime": "2020-12-21T13:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "15uRegzAryuXicnJlTEB_RwZf59Q8Tb3U",
+              "title": "20L-0961.cpp",
+              "alternateLink": "https://drive.google.com/file/d/15uRegzAryuXicnJlTEB_RwZf59Q8Tb3U/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP3n9fN1FrwGpJQktMSVDzFa9zDKQ0HOrlNp19RnAePThqyOK4VMEoiGaPM5jwFVzz_zyco1nV_6kLFBBhHn7g0r7Z6TZOs7D1Kc2vTdgIy30c\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2020-12-12T15:04:00.653Z",
+    "updateTime": "2020-12-17T16:10:18.164Z",
+    "publicationTime": "2020-12-12T15:03:59.966Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Gomoku Computer vs Human",
+      "dueTime": "2020-12-18T04:01:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1gwsAp_sA8-dKkkmxnuU5RcomXzM7yGMN",
+              "title": "20L-0961.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1gwsAp_sA8-dKkkmxnuU5RcomXzM7yGMN/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMmMeACaZ3hpovAsYjphGrljD6UJWo8BG_szavj28wWTd-rJxg0vnOvWydI1aEMy2q7-fkjvdV-sUC2_KzefHobQLLxj_6Vum44BdIKDsIruEs\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2020-12-09T19:43:03.325Z",
+    "updateTime": "2020-12-10T10:14:34.647Z",
+    "publicationTime": "2020-12-09T19:43:02.413Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Gomoku submission",
+      "dueTime": "2020-12-10T20:00:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1yu-8fDeuBwRUJsc9RukDnHM3Wv7Yhodc",
+              "title": "20L-0961.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1yu-8fDeuBwRUJsc9RukDnHM3Wv7Yhodc/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM8S-0IGK7JbSRpIPJ8C24BfYnj3YY40M6y8LX8ILNNyUIn19yeu_kY1Vaq4CQSUlIvPcdfEDefEH4Ulp27w3P-s-aYPDqY4VRlCV9g2S_cwuM\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Dilawar Shabbir"
+      },
+      "emailAddress": "dilawar.shabbir@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-12-07T10:52:19.631Z",
+    "updateTime": "2020-12-07T12:12:30.928Z",
+    "publicationTime": "2020-12-07T12:11:59.526Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Lab 11 Submission.",
+      "description": "For those students who have not evaluated in-lab.",
+      "descriptionHtml": "\u003cdiv\u003eFor those students who have not evaluated in-lab.\u003c/div\u003e",
+      "dueTime": "2020-12-07T13:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Dilawar Shabbir"
+      },
+      "emailAddress": "dilawar.shabbir@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-12-05T12:17:19.232Z",
+    "updateTime": "2020-12-05T12:20:05.006Z",
+    "publicationTime": "2020-12-05T12:20:04.836Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Lab 10 - Post Lab Submissions",
+      "description": "Follow the appropriate naming convention for submission as it is told to you in the previous labs.",
+      "descriptionHtml": "\u003cdiv\u003eFollow the appropriate naming convention for submission as it is told to you in the previous labs.\u003c/div\u003e",
+      "dueTime": "2020-12-06T12:00:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1SuLcfFcCfe0LSHMqSzD4FHWOh6TUuf8a",
+              "title": "20L-0961.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1SuLcfFcCfe0LSHMqSzD4FHWOh6TUuf8a/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBO46phJVD7TJjccYNT8lm0rzPCjyDDL05VJb0_UfQQfxXL5eGfbe-UHeBQLPL95ZG_LQA38tJsdAWcijepuJos0wFEXmpb2NpAelRcp4uSK12c\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2020-12-03T20:32:11.159Z",
+    "updateTime": "2020-12-03T20:32:10.672Z",
+    "publicationTime": "2020-12-03T20:32:10.445Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "2D arrays problem set",
+      "dueTime": "2020-12-04T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1FR9kWqvrIa-Y0ejT96nRTXTtm9EcxPuC",
+              "title": "20L-0961.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1FR9kWqvrIa-Y0ejT96nRTXTtm9EcxPuC/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM7HMIOfaS-b-0kzaQ1Nnoz3TYDA7z1qC7o5KvIjud1uYOxVS8TAN__Jk6zP-SWh6jjtL-B52qHbAmgsuiWvs8TXlooIpvPtPSINvaP9hpqh5s\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2020-11-29T09:46:44.212Z",
+    "updateTime": "2020-11-29T09:46:43.789Z",
+    "publicationTime": "2020-11-29T09:46:43.553Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Post Lab 9",
+      "dueTime": "2020-12-01T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1d4h87E8YA1QkSuunQWQmRbv5y3QlCmeF",
+              "title": "20L-0961.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1d4h87E8YA1QkSuunQWQmRbv5y3QlCmeF/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNKjuQRZwt-Eb-ifmc-80Vz3goxAUuFK8vkBOJNVRseFUBbib-5isQLC106v9i1gvpaDJ8rjyquGxPXixRiciXDtXotpsQSi80ZhwwMRieprJM\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Mohsin Ghaffar Ghouri"
+      },
+      "emailAddress": "mohsin.ghaffar@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-11-28T09:12:30.885Z",
+    "updateTime": "2020-11-28T09:13:19.551Z",
+    "publicationTime": "2020-11-28T09:13:19.337Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1Rc3LfJqyCH_ZTXsm_Qy3MKFQSKstcWeX",
+          "title": "lab9.docx",
+          "alternateLink": "https://drive.google.com/file/d/1Rc3LfJqyCH_ZTXsm_Qy3MKFQSKstcWeX/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNYCBCJR9HC_My0jVTt2Xpnxw-ljp0VSeftmV71vzLpW2TJx2z0UwWsC0WpcYt9YzAKjgSvfZbkwYXDk8vdQkRuZmMPwnYtvddGhDVhFjn1RQ\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab 9",
+      "dueTime": "2020-11-28T11:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1KJpI0UQkCeLGhpVcrQcwLT8Ob4QHVYIa",
+              "title": "20L-0961.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1KJpI0UQkCeLGhpVcrQcwLT8Ob4QHVYIa/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM4FA0lkP3q0T6bBG1_cJbxUSVW5xMFbfETgqj6TPCM6FGpsTsWjNC-BAk3zC1iKr90fccnC5Lqcerp0Pzv6mjepVdf6Hd6bz4zJRFn5-UY5ww\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2020-11-28T11:19:22.721Z",
+          "updateTime": "2020-11-28T11:19:22.582Z",
+          "comment": "I am very sorry for unfinished work.\nAlso if possible please send me some practice material for those first lectures, as I have completely lost my grasp on this subject.\n\n20L-0961",
+          "commentHtml": "\u003cdiv\u003eI am very sorry for unfinished work.\u003cbr\u003eAlso if possible please send me some practice material for those first lectures, as I have completely lost my grasp on this subject.\u003cbr\u003e\u003cbr\u003e20L-0961\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Dilawar Shabbir"
+            },
+            "emailAddress": "dilawar.shabbir@lhr.nu.edu.pk"
+          },
+          "creationTime": "2020-11-28T12:00:22.564Z",
+          "updateTime": "2020-11-28T12:00:22.003Z",
+          "comment": "Ammar what issue you are facing? You are a good student. Try to be in the race and compete others.",
+          "commentHtml": "\u003cdiv\u003eAmmar what issue you are facing? You are a good student. Try to be in the race and compete others.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2020-11-26T16:33:35.632Z",
+    "updateTime": "2020-11-26T16:33:35.020Z",
+    "publicationTime": "2020-11-26T16:33:34.813Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "CString and Filing...!!!",
+      "dueTime": "2020-11-27T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1nxS6Qm3nydPbd9jWkjFARKktm8NV1CXk",
+              "title": "20L-0961.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1nxS6Qm3nydPbd9jWkjFARKktm8NV1CXk/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMGjtKL-syoDouFgcymh6FaFUUPAqCi72F4dcBd8JiNm8HiIHE7t8aCvbfzNR1WH9Ky0RWf4sm5kbm7ZSzUOteoA1HvByjuo1UyV4vG6xftCUk\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1flk2KRF1n0krHmuRzjms76qWZPdlo8YS",
+              "title": "numbers.txt",
+              "alternateLink": "https://drive.google.com/file/d/1flk2KRF1n0krHmuRzjms76qWZPdlo8YS/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOR0YtHbphkhJE9Uphgiq-cXBUmRi1QHBP5aKCHtNMJeLhZiO_7Vdn-PUDeSPaEIUcIkatUUW5U2iIl9gqzCdTov262uryKs88ChIGm2Ii_q20\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1gqhAV5sN-eKYJiKkUug3fILIpnVaae9s",
+              "title": "output.txt",
+              "alternateLink": "https://drive.google.com/file/d/1gqhAV5sN-eKYJiKkUug3fILIpnVaae9s/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNNyioorWL5ns_kFjhhKnI54mD2pv2G71tiCcvwQuklxxtl9ILPueXQBqUt8DwjBe-IKAACv9OqzLlJXW12v_zMBO73Syr4ZG4Ha_RzDEiQuDY\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1yoYXqdWqEGuFt68YUORoGzWWdSMYHZW3",
+              "title": "sentences.txt",
+              "alternateLink": "https://drive.google.com/file/d/1yoYXqdWqEGuFt68YUORoGzWWdSMYHZW3/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOtwgFuRKj7RAlr2w06QcnNDQZONVtOcVJZyuukpUxLJnzmNcCeSnzf06ydXOOZQjHZkJuGrfgj2LF0iytaNFAWOlFWY09YPvPeajaW2WcJGGk\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2020-11-26T18:24:16.294Z",
+          "updateTime": "2020-11-26T18:24:16.156Z",
+          "comment": "please find attached source file with following files for file streaming: \ntext files containing sentences,\nnumbers\nand the output.",
+          "commentHtml": "\u003cdiv\u003eplease find attached source file with following files for file streaming: \u003cbr\u003etext files containing sentences,\u003cbr\u003enumbers\u003cbr\u003eand the output.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Mohsin Ghaffar Ghouri"
+      },
+      "emailAddress": "mohsin.ghaffar@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-11-21T12:07:34.217Z",
+    "updateTime": "2020-11-21T12:09:41.546Z",
+    "publicationTime": "2020-11-21T12:09:41.327Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Lab Tasks A and B",
+      "description": "Please upload only one cpp file of the tasks",
+      "descriptionHtml": "\u003cdiv\u003ePlease upload only one cpp file of the tasks\u003c/div\u003e",
+      "dueTime": "2020-11-21T13:30:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "14Zqn-2mX1QTaKskhPf0eUv0NoilXY3SH",
+              "title": "20L-0961.cpp",
+              "alternateLink": "https://drive.google.com/file/d/14Zqn-2mX1QTaKskhPf0eUv0NoilXY3SH/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMtrZyFJrv1oVD6VrbNF2DIgzle62Sf69BBaueLmmvquA9MfMkdaFjQVmxRSumw9IQIiUf444VaHzgR3QGvv4B6MweOPogAirZaVYyyjOQdqLE\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Mohsin Ghaffar Ghouri"
+      },
+      "emailAddress": "mohsin.ghaffar@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-11-07T07:38:58.591Z",
+    "updateTime": "2020-11-07T07:39:35.511Z",
+    "publicationTime": "2020-11-07T07:39:35.305Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Lab Mid",
+      "description": "Please submit only cpp files.",
+      "descriptionHtml": "\u003cdiv\u003ePlease submit only cpp files.\u003c/div\u003e",
+      "dueTime": "2020-11-07T11:30:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1vKQUQIG6yKTDhG3-i7_VHZWK0NKXb6kk",
+              "title": "L20_0961.rar",
+              "alternateLink": "https://drive.google.com/file/d/1vKQUQIG6yKTDhG3-i7_VHZWK0NKXb6kk/view?usp\u003ddrive_web"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2020-11-07T11:38:08.780Z",
+          "updateTime": "2020-11-07T11:38:08.633Z",
+          "comment": "Dear sir, I did not had a lots of preparation, and some programs did not run, please check leniently..\n\n20L-0961",
+          "commentHtml": "\u003cdiv\u003eDear sir, I did not had a lots of preparation, and some programs did not run, please check leniently..\u003cbr\u003e\u003cbr\u003e20L-0961\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Mohsin Ghaffar Ghouri"
+      },
+      "emailAddress": "mohsin.ghaffar@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-10-31T11:10:09.068Z",
+    "updateTime": "2020-10-31T11:20:54.605Z",
+    "publicationTime": "2020-10-31T11:11:33.450Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Quiz 1",
+      "description": "Write a program that takes inputs until the user enters -1 and  your program tells the frequency of even and odd numbers.\n\nInput \u003d\u003e 3 \n               7\n              12\n              -1\n\nOutput \u003d\u003e Even Number Count : 1 and Odd Number Count : 2\n",
+      "descriptionHtml": "\u003cdiv\u003eWrite a program that takes inputs until the user enters -1 and  your program tells the frequency of even and odd numbers.\u003cbr\u003e\u003cbr\u003eInput \u003d\u0026gt; 3 \u003cbr\u003e               7\u003cbr\u003e              12\u003cbr\u003e              -1\u003cbr\u003e\u003cbr\u003eOutput \u003d\u0026gt; Even Number Count : 1 and Odd Number Count : 2\u003c/div\u003e",
+      "dueTime": "2020-10-31T11:44:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1dV308_jUKQlzXRen-MJExOKZqUg96kRM",
+              "title": "Source.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1dV308_jUKQlzXRen-MJExOKZqUg96kRM/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN53KIAJ3vjRshyLBxbiWTwOINskx87wyu6092pRK5RN2x0pOT0hvK_20IEIjCif5DRfXd9fw4WrnyyGglS477rLM2XtXXszQzm0r80fysTolY\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Mohsin Ghaffar Ghouri"
+      },
+      "emailAddress": "mohsin.ghaffar@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-10-31T08:38:35.518Z",
+    "updateTime": "2020-10-31T11:58:28.818Z",
+    "publicationTime": "2020-10-31T08:40:37.950Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1qzOKH5zRx5plUIqw-2Ju5xZM_Ua1st5V",
+          "title": "PF - NU -Lab - 7.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1qzOKH5zRx5plUIqw-2Ju5xZM_Ua1st5V/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOikF32dydcmbcW7NA8-nCQCqSC7cqsgNGV6aGjtgRZYW5QyylSFu5xqKbJSnOSQeqxOWBklkh_b0PxFvSpC3Oqq4G0r9s9Xpao4iAbaVoCIS8\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab 7",
+      "description": "Please upload only one cpp file and name of the file should be your roll number_lab_07.",
+      "descriptionHtml": "\u003cdiv\u003ePlease upload only one cpp file and name of the file should be your roll number_lab_07.\u003c/div\u003e",
+      "dueTime": "2020-11-01T09:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1HssQCBpW7g9cAd2FdCj6pSrg9-uih1XL",
+              "title": "20L-0961_lab_07.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1HssQCBpW7g9cAd2FdCj6pSrg9-uih1XL/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNCugFH4MbicBJSz2M0T0SrvFMFZDe9n8oQn7yLIeJ2CaR9ankBD4WByTeX1UiWp7EmCJMWuPbf-WlV6B4JiXUJRoWFZqHfTfkENNcmbuD5I48\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2020-11-01T10:02:23.741Z",
+          "updateTime": "2020-11-01T10:02:23.591Z",
+          "comment": "I have turned in at 3 as i was having some problems and checked books and other materials...\n\n20L-0961",
+          "commentHtml": "\u003cdiv\u003eI have turned in at 3 as i was having some problems and checked books and other materials...\u003cbr\u003e\u003cbr\u003e20L-0961\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2020-10-28T08:11:01.109Z",
+    "updateTime": "2020-10-28T13:18:49.747Z",
+    "publicationTime": "2020-10-28T08:10:59.465Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1mpS0S2Djz2-Clcwu9Ex4v1wOfICWQR_e",
+          "alternateLink": "https://drive.google.com/open?id\u003d1mpS0S2Djz2-Clcwu9Ex4v1wOfICWQR_e"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Functions homework",
+      "dueTime": "2020-10-29T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "143pPvhBAmE7JDXKeofSconrKUus-_DAs",
+              "title": "homework part 1.pdf",
+              "alternateLink": "https://drive.google.com/file/d/143pPvhBAmE7JDXKeofSconrKUus-_DAs/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNGg6h3sTkv0HurpcHxh6v9KTPDJsNm7ioB4fvVtLXDBOevsWdNTBQnX5kvTod9fmFxtsEVNopRRbBHKqUvx8kr3Vm0EIL09pbLvEORnkfHPD8\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1DfGRwnOqscF7P9JWJGEcFrNzcn2dWkTd",
+              "title": "20L-0961.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1DfGRwnOqscF7P9JWJGEcFrNzcn2dWkTd/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPe6q3F_s6uvoBdmpVJIr16e0zC0Ruf6KW1LV-B2NRorBV5AW8lMNWepK8wwUsDAw3IXgC5pr-spF8aSEbWDogsJPgBtoRrJrw7fIhIwNCxb5w\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Mohsin Ghaffar Ghouri"
+      },
+      "emailAddress": "mohsin.ghaffar@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-10-25T05:55:25.462Z",
+    "updateTime": "2020-10-25T17:15:47.733Z",
+    "publicationTime": "2020-10-25T05:59:53.420Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Lab 5 Submission",
+      "description": "Please upload all the tasks of lab5 in single cpp file and make sure that you have created the menu that asked the users which task he wants to run. Name of the cpp file should be your roll number. \n\nNo late submissions will be entertained.",
+      "descriptionHtml": "\u003cdiv\u003ePlease upload all the tasks of lab5 in single cpp file and make sure that you have created the menu that asked the users which task he wants to run. Name of the cpp file should be your roll number. \u003cbr\u003e\u003cbr\u003eNo late submissions will be entertained.\u003c/div\u003e",
+      "dueTime": "2020-10-26T03:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1BuRM4AG8GGAVaHBDb-QUbrTG7BlJoWQw",
+              "title": "20L-0961.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1BuRM4AG8GGAVaHBDb-QUbrTG7BlJoWQw/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOvHfBIdKtfCHH00ST3IByIlwtkaN0U5b4LIinNRoggcdu0XuNsdk5IbNK4phfMxV0HRzK4D0yNDeJt2Sd7xGBD4wKBZfXxKlRmJkh_goFtEik\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Dilawar Shabbir"
+      },
+      "emailAddress": "dilawar.shabbir@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-10-24T12:14:48.740Z",
+    "updateTime": "2020-10-24T12:55:27.209Z",
+    "publicationTime": "2020-10-24T12:19:12.297Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Lab 05 Five Tasks Submission",
+      "description": "Dear Students,\nPlease submit the lab05 five tasks before the due date and time. Late submissions will not be accepted.\nPlease submit only one cpp file with all the tasks. Folder name must be your roll number.",
+      "descriptionHtml": "\u003cdiv\u003eDear Students,\u003cbr\u003ePlease submit the lab05 five tasks before the due date and time. Late submissions will not be accepted.\u003cbr\u003ePlease submit only one cpp file with all the tasks. Folder name must be your roll number.\u003c/div\u003e",
+      "dueTime": "2020-10-24T15:30:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "link": {
+              "url": "https://drive.google.com/folderview?id\u003d1p1WBKjR7o6Eroxae2lqDYAkFjliPZglu",
+              "title": "Error 404 (Not Found)!!1",
+              "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://drive.google.com/folderview?id%3D1p1WBKjR7o6Eroxae2lqDYAkFjliPZglu"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2020-10-24T12:25:58.531Z",
+          "updateTime": "2020-10-24T12:25:58.402Z",
+          "comment": "Find attached file in Google drive link\nAmmar Ahmed",
+          "commentHtml": "\u003cdiv\u003eFind attached file in Google drive link\u003cbr\u003eAmmar Ahmed\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Mohsin Ghaffar Ghouri"
+      },
+      "emailAddress": "mohsin.ghaffar@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-10-11T09:53:09.226Z",
+    "updateTime": "2020-10-11T09:56:40.266Z",
+    "publicationTime": "2020-10-11T09:56:40.168Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Lab 4 Submission",
+      "description": "Dear Students,\nPlease submit the lab4 before the due date and time.\nPlease submit only one cpp file with all the tasks and one document with the screenshots of debugging process.Create the folder with the above two files. Folder name must be your roll number.",
+      "descriptionHtml": "\u003cdiv\u003eDear Students,\u003cbr\u003ePlease submit the lab4 before the due date and time.\u003cbr\u003ePlease submit only one cpp file with all the tasks and one document with the screenshots of debugging process.Create the folder with the above two files. Folder name must be your roll number.\u003c/div\u003e",
+      "dueTime": "2020-10-11T17:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1yVtyBVctjxEDEOvixAIDA_Vx41N6nGZL",
+              "title": "20L-0961_lab4",
+              "alternateLink": "https://drive.google.com/drive/folders/1yVtyBVctjxEDEOvixAIDA_Vx41N6nGZL"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Mohsin Ghaffar Ghouri"
+      },
+      "emailAddress": "mohsin.ghaffar@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-10-04T04:52:04.665Z",
+    "updateTime": "2020-10-04T04:57:36.787Z",
+    "publicationTime": "2020-10-04T04:57:36.691Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1Bt6Sva6ZVi6uwlgH37eVzjGyOTcelwxR",
+          "title": "Programming Fundamentals - Lab 3.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1Bt6Sva6ZVi6uwlgH37eVzjGyOTcelwxR/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNQnMa8zzJNvYMs6SvMytRauJIpdcUsbzzkJoJx3zN3SU8318aG1MkUD5z-UFhtMQ3lPhO0ropAOz8rnatq88cLSLsCVwjGlDaCuXHk3k9SVTA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab-3",
+      "description": "Please submit only on cpp file that will contains all the tasks and one word file that contains screenshots of debugging of each task.Folder name should be your RollNumber_lab3.",
+      "descriptionHtml": "\u003cdiv\u003ePlease submit only on cpp file that will contains all the tasks and one word file that contains screenshots of debugging of each task.Folder name should be your RollNumber_lab3.\u003c/div\u003e",
+      "dueTime": "2020-10-09T08:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1xfiJ1GzzYX3ePeAwvgEds0LEqQuZO8Wl",
+              "title": "20L-0961_lab3-20201007T081155Z-001.zip",
+              "alternateLink": "https://drive.google.com/file/d/1xfiJ1GzzYX3ePeAwvgEds0LEqQuZO8Wl/view?usp\u003ddrive_web"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2020-10-07T08:14:35.707Z",
+          "updateTime": "2020-10-07T08:14:35.657Z",
+          "comment": "I have my folder inside this file containing the cpp file and the word document\n\nClassroom would not let me input the folder",
+          "commentHtml": "\u003cdiv\u003eI have my folder inside this file containing the cpp file and the word document\u003cbr\u003e\u003cbr\u003eClassroom would not let me input the folder\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2020-10-07T08:15:14.165Z",
+          "updateTime": "2020-10-07T08:15:14.120Z",
+          "comment": "*my folder inside this zip file",
+          "commentHtml": "\u003cdiv\u003e*my folder inside this zip file\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Mohsin Ghaffar Ghouri"
+      },
+      "emailAddress": "mohsin.ghaffar@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-09-28T13:52:53.482Z",
+    "updateTime": "2020-09-30T05:30:58.166Z",
+    "publicationTime": "2020-09-28T13:53:49.426Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Assignment 1",
+      "description": "Problem Statements mentioned in the first lab.",
+      "descriptionHtml": "\u003cdiv\u003eProblem Statements mentioned in the first lab.\u003c/div\u003e",
+      "dueTime": "2020-09-30T13:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 88.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "11z4TfdXLqSNrKq5G4TYatovnPPSJ0MwLhPhLFMveRH0",
+              "title": "pf-Homework (Ammar Abdulrafay)",
+              "alternateLink": "https://docs.google.com/document/d/11z4TfdXLqSNrKq5G4TYatovnPPSJ0MwLhPhLFMveRH0/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBPoAg0623e7Hf8O_7zw-wr1U86Wz3uY5Pl3qOQcfgfFG-73x7bQo532QZsVlMnfyLHzcjBMNE6klyGpCkMi0zLz0cW8mTY-0TtPmxaCkiiKj9LhfDbMlmWnuhCzGe4ndolPedc\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Mohsin Ghaffar Ghouri"
+      },
+      "emailAddress": "mohsin.ghaffar@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-09-28T12:54:40.297Z",
+    "updateTime": "2020-09-28T12:57:46.624Z",
+    "publicationTime": "2020-09-28T12:57:46.503Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Lab 2",
+      "description": "Dear Students,\nSubmit the lab2 task ( Game ) before deadline. If any plagiarism found then you will be awarded 0 marks for 3 or 4 labs and you have to also attend and complete the tasks.",
+      "descriptionHtml": "\u003cdiv\u003eDear Students,\u003cbr\u003eSubmit the lab2 task ( Game ) before deadline. If any plagiarism found then you will be awarded 0 marks for 3 or 4 labs and you have to also attend and complete the tasks.\u003c/div\u003e",
+      "dueTime": "2020-09-30T05:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1VGmhj8r_tAbJaRJEg8ExmP_wQmbnEM7R",
+              "title": "Flappy Bird.sb2",
+              "alternateLink": "https://drive.google.com/file/d/1VGmhj8r_tAbJaRJEg8ExmP_wQmbnEM7R/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }]
+}

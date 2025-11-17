@@ -1,0 +1,32 @@
+#include "stdafx.h"
+#include <iostream>
+#include <math.h>
+
+using namespace std;
+
+int main()
+{
+	char arr[]="ABCBA";
+	 int tmp;
+	int size= sizeof(arr)/sizeof(arr[0]);
+	int chk=-1;
+	int start=0, end=size-2;
+	while(start<=end)
+	{
+		if(arr[start]!=arr[end])
+		{
+			chk++;
+			cout<<"Not Palindrome "<<endl;
+			break;
+		}
+		end--;
+		start++;
+	}
+	if(chk==-1)
+	{
+		cout<<"Palindrome\n";
+	}
+	system("pause");
+	return 0;
+}
+

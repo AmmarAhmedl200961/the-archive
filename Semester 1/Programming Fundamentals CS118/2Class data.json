@@ -1,0 +1,411 @@
+{
+  "version": 1,
+  "name": "Programming Fundamentals",
+  "section": "BSE-2C",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom77cd20a8@group.calendar.google.com",
+  "courseFolder": {
+    "id": "0B6lgnLfMnpqyfks3S3Nmd3V2YTNzcEVmNDJWQTlidHRqTjN3eUwtNUl4SXpnSnRPMy1hR2c",
+    "name": "Programming Fundamentals BCS-2G",
+    "openUrl": "https://drive.google.com/drive/folders/0B6lgnLfMnpqyfks3S3Nmd3V2YTNzcEVmNDJWQTlidHRqTjN3eUwtNUl4SXpnSnRPMy1hR2c?resourcekey\u003d0-7etMXO1HGZjxgd4sdoQT7A"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_code.jpg",
+  "courseState": "ARCHIVED",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Muhammad Owais Idrees"
+      },
+      "emailAddress": "owais.idrees@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-06-16T07:48:19.810Z",
+    "updateTime": "2021-06-16T07:48:40.772Z",
+    "publicationTime": "2021-06-16T07:48:40.483Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Home Work"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1LX4eJ5cui9tvi9gy9xp-jqwBjo726kFE",
+          "title": "PF - Home Work No. 3.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1LX4eJ5cui9tvi9gy9xp-jqwBjo726kFE/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOVrjP-XFyBZ9R5vi2WyGw7hKDz0wY4uRCXNBo3uxzize9xbw9VXGsO24WRRHGJiRPZNzTLweU5XruKMki-bnTQStlxCuJMaiF88OBmhUZHm9w\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Home Work -II",
+      "dueTime": "2021-06-19T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 80.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1YGp6f7HFN9x90YhxeBU_Cxh17Z9HEjKM",
+              "title": "20L-0961.zip",
+              "alternateLink": "https://drive.google.com/file/d/1YGp6f7HFN9x90YhxeBU_Cxh17Z9HEjKM/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Muhammad Owais Idrees"
+      },
+      "emailAddress": "owais.idrees@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-06-01T06:48:20.073Z",
+    "updateTime": "2021-06-01T06:58:12.798Z",
+    "publicationTime": "2021-06-01T06:49:12.232Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Project"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1bX2WbUYANZMRpvfh8zQuSVkZ56swiSqf",
+          "title": "PF - Final Project.zip",
+          "alternateLink": "https://drive.google.com/file/d/1bX2WbUYANZMRpvfh8zQuSVkZ56swiSqf/view?usp\u003ddrive_web"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Final Project",
+      "dueTime": "2021-06-16T18:55:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Muhammad Owais Idrees"
+      },
+      "emailAddress": "owais.idrees@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-05-22T04:39:49.550Z",
+    "updateTime": "2021-05-28T06:45:03.635Z",
+    "publicationTime": "2021-05-22T04:40:24.320Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Assignments"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1bQZVDpA7SkDuxwxBUYbNWpUtWY7IEnmA",
+          "title": "PF -- Assignment No. 03.zip",
+          "alternateLink": "https://drive.google.com/file/d/1bQZVDpA7SkDuxwxBUYbNWpUtWY7IEnmA/view?usp\u003ddrive_web"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment No. 3",
+      "dueTime": "2021-05-29T18:55:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 30.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1g9Lit0IgkYwHSjFMxZBkcuIY1n8Itcbh",
+              "title": "20L-0961__C.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1g9Lit0IgkYwHSjFMxZBkcuIY1n8Itcbh/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNq2kyfmtp-yPjyokZFs8ux0ZvrMNsrfzutL7QCt5mmRn7dzosBOa0xPT5NtwMX9L74G31lrx9I9cBrrD_d4DzAeyzgVDt-qV55yygEwqWUQA\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Muhammad Owais Idrees"
+      },
+      "emailAddress": "owais.idrees@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-05-18T06:37:11.964Z",
+    "updateTime": "2021-05-18T06:37:54.232Z",
+    "publicationTime": "2021-05-18T06:37:54.182Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Assignments"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1QzWevQnFwhMnSI31ksVV7peQEnkfS4Ti",
+          "title": "FAST___PF A2.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1QzWevQnFwhMnSI31ksVV7peQEnkfS4Ti/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPi5XgWlF9fsRvm32kaPwbWAUMHih9GJMBL771ffPj8Uni3KjCA6q0VVZpgDUyLRJ0Kl4BrR9iKwQwU64WffxdHISMylkJ-km8E2x4mzolMMyA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment No. 2",
+      "dueTime": "2021-05-22T18:55:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 60.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1HhOiZHQsbQyRjeQYeSMXjjrwWbZe207A",
+              "title": "20L-0961__C.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1HhOiZHQsbQyRjeQYeSMXjjrwWbZe207A/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOh9NWDY3-hjBWCD4q4ZVxZzY8fBKwFsSYRT-WXQLwqyy9LCKNBEP2sia5MWjJg0UrpSMo-vIvArdQEvsbR-ryyDXrWicZEzfLsnLbgO9sYqQ\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1L9Q2LmH9FiMCDT0VX2h9W9-hr6fyC4cs",
+              "title": "file.txt",
+              "alternateLink": "https://drive.google.com/file/d/1L9Q2LmH9FiMCDT0VX2h9W9-hr6fyC4cs/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPSb3Xwqye2iRnezyvD4yjOfAvLm7oixJQwc0HM97hv_UsCnW9dmhQIO2uCVxxh3mN5Yn9vkW0CIWrgAWdh6JIwmC_rFfPybBKTHC9DaXeBWA\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Muhammad Owais Idrees"
+      },
+      "emailAddress": "owais.idrees@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-04-25T23:18:27.400Z",
+    "updateTime": "2021-05-01T10:01:56.187Z",
+    "publicationTime": "2021-04-25T23:22:53.613Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Home Work"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1Jr8SN303Cfx3hwGdNO6OOqY6PpSiWm7n",
+          "title": "HW-1.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1Jr8SN303Cfx3hwGdNO6OOqY6PpSiWm7n/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPwja_FFSo0KpIe9esX07iWOZuUEUUo1PFRFYxHz2vJK6icFrjwW3HLtqWXkKbGfpLm8D_TKYnAtv6UUr3Lfjt__NCv6Nem7kf7mzTMUNiXIxo\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Home Work - I",
+      "dueTime": "2021-05-01T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 50.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "10Bv_AC6oRKNHgVnOsUYKmzMH9eVXSRLm",
+              "title": "20L-0961.zip",
+              "alternateLink": "https://drive.google.com/file/d/10Bv_AC6oRKNHgVnOsUYKmzMH9eVXSRLm/view?usp\u003ddrive_web"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2021-05-09T18:06:03.367Z",
+          "updateTime": "2021-05-09T18:06:03.350Z",
+          "comment": "May 9 - removed q1",
+          "commentHtml": "\u003cdiv\u003eMay 9 - removed q1\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Muhammad Owais Idrees"
+      },
+      "emailAddress": "owais.idrees@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-03-25T10:42:14.126Z",
+    "updateTime": "2021-03-25T10:43:02.794Z",
+    "publicationTime": "2021-03-25T10:42:24.337Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Assignments"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1gR3gRGqPdrIQXkaGTL4TTm4tMFTn2tmE",
+          "title": "A1-PF.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1gR3gRGqPdrIQXkaGTL4TTm4tMFTn2tmE/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP4OgaG-q6VV0kaSO4lj4sq_Izz8yVFDiQSX46L8zxQUqYgQZYMT0XX_7inrSsrtV3wDLoot5d_w3kVTLNAisEap7KPdu4w3cUvVw8_XLhpPeo\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment : 1",
+      "dueTime": "2021-03-29T06:59:00Z",
+      "maxPoints": 75.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 62.5,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1OmmelfN9onOJKVmfkKoXd6p2hLB-g35l",
+              "title": "20L-0961__C.zip",
+              "alternateLink": "https://drive.google.com/file/d/1OmmelfN9onOJKVmfkKoXd6p2hLB-g35l/view?usp\u003ddrive_web"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2021-03-26T18:47:01.593Z",
+          "updateTime": "2021-03-26T18:47:01.486Z",
+          "comment": "I followed the naming scheme for section... is it alright ?",
+          "commentHtml": "\u003cdiv\u003eI followed the naming scheme for section... is it alright ?\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Muhammad Owais Idrees"
+            },
+            "emailAddress": "owais.idrees@lhr.nu.edu.pk"
+          },
+          "creationTime": "2021-03-26T19:08:24.697Z",
+          "updateTime": "2021-03-26T19:08:24.487Z",
+          "comment": "Sorry can you explain it ?",
+          "commentHtml": "\u003cdiv\u003eSorry can you explain it ?\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2021-03-26T19:13:08.883Z",
+          "updateTime": "2021-03-26T19:13:08.715Z",
+          "comment": "The naming scheme for submition... Is it ok ?",
+          "commentHtml": "\u003cdiv\u003eThe naming scheme for submition... Is it ok ?\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Muhammad Owais Idrees"
+            },
+            "emailAddress": "owais.idrees@lhr.nu.edu.pk"
+          },
+          "creationTime": "2021-03-26T19:17:34.078Z",
+          "updateTime": "2021-03-26T19:17:33.920Z",
+          "comment": "Yes, No problem",
+          "commentHtml": "\u003cdiv\u003eYes, No problem\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2021-03-26T20:06:33.918Z",
+          "updateTime": "2021-03-26T20:06:33.740Z",
+          "comment": "Ok, thanks",
+          "commentHtml": "\u003cdiv\u003eOk, thanks\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }]
+}

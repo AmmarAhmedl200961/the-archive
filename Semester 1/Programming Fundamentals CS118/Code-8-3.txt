@@ -1,0 +1,42 @@
+#include "stdafx.h"
+#include <iostream>
+#include <math.h>
+
+using namespace std;
+
+int main()
+{
+	char arr[]="My Name is Owais Idrees";
+	char s[]="is";	
+	int start;
+	int chk=-1;
+	for(int i=0; arr[i]!='\0';i++)
+	{
+		if(arr[i]==s[0])
+		{
+			chk=-1;
+			start=i;
+			for(int j=0; s[j]!='\0'; j++)
+			{
+				if(s[j]!=arr[start])
+				{
+					chk++;
+					break;
+				}
+				start++;
+			}
+			if(chk==-1)
+			{
+				cout<<"Founded at "<<i<<endl;
+			}
+		}
+	
+	}
+	
+		
+
+
+	system("pause");
+	return 0;
+}
+
