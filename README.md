@@ -29,26 +29,6 @@ If I used it to study, revise, or practice, I tried to **put it in here**.
 
 ---
 
-## Duplicate / Repeated Courses
-
-During my degree:
-
-- Some courses were **repeated or retaken**.
-- Some courses appeared as **multiple Google Classroom instances** across semesters.
-- Some files were re-uploaded or re-shared in different places.
-
-Because this archive aims to be a **full snapshot** of what I had access to:
-
-- Not every “repeat” is explicitly marked as “this is a repeat of X”.
-- You may see **the same or very similar material multiple times**.
-- That’s intentional: this is how the data originally existed in my storage and exports.
-
-So if you notice double material:
-
-> That’s expected – it reflects multiple runs/versions of a course, not an error in the-archive.
-
----
-
 ## Folder Structure & Reachability
 
 The structure is designed for **reachability**, so you can quickly get to what you care about.
@@ -71,6 +51,8 @@ Inside those, individual events often get their own folder, for example:
 - `Quiz 01/`
 - `Midterm 1 Solution/`
 - `Lab 03 - Topic Name/`
+
+Any announcement style post or assignment in the GCR will have its MarkDown created faithfully, simulating the GCR experience!
 
 Whenever an item is clearly a quiz, lab, midterm solution, etc., it’s given a **dedicated folder** so it’s easy to navigate.
 
@@ -98,118 +80,17 @@ Have fun exploring the-archive and learning from it.
 
 ---
 
-## Git Workflow (How I Keep `the-archive` Synced)
-
-I’m managing `the-archive` **locally on Windows** using Git and pushing to GitHub. This ensures:
-
-- Every change (added files, reorganized folders, cleaned-up structure) is **tracked over days/weeks**.
-- I can safely **delete old manual folders** once I confirm everything is pushed to GitHub.
-- The repo becomes my **single source of truth**.
-
-### 1. One-Time Setup (after creating the repo on GitHub)
-
-On GitHub (web):
-
-1. Create a new repository named **`the-archive`** under your account.
-2. You can leave it empty or let GitHub create a default README (you can overwrite it later).
-
-On Windows (Terminal / PowerShell / Git Bash), assuming your archive folder is ready:
-
-```bash
-# Go to the folder that contains your archive
-cd "C:\path\to\the-archive"
-
-# Initialize Git in this folder
-git init
-
-# Add the remote pointing to your GitHub repo
-git remote add origin https://github.com/AmmarAhmedl200961/the-archive.git
-```
-
-If you want to confirm the remote:
-
-```bash
-git remote -v
-```
-
-### 2. First Commit and Push
-
-```bash
-# See current status
-git status
-
-# Add all files in the-archive
-git add .
-
-# Create the initial commit
-git commit -m "Initial import of university archive"
-
-# Make sure the main branch is called 'main' and push it
-git branch -M main
-git push -u origin main
-```
-
-Then, open [the repository on GitHub](https://github.com/AmmarAhmedl200961/the-archive) and confirm:
-
-- The folder structure is there.
-- `README.md` renders correctly.
-- File counts look reasonable.
-
-Only after this verification should you start deleting any **separate manual copies** of your old archive.
-
----
-
-## 3. Ongoing Workflow (Daily / Whenever You Change Stuff)
-
-Whenever you:
-
-- Add new files or courses
-- Rearrange folders
-- Clean duplicates
-- Update notes
-
-From your repo folder:
-
-```bash
-cd "C:\path\to\the-archive"
-
-# See what changed
-git status
-
-# Optional: see the actual text differences for tracked files
-git diff
-```
-
-If everything looks good:
-
-```bash
-# Stage all new/modified/deleted files
-git add .
-
-# Commit with a message describing the change
-git commit -m "Reorganize labs and add missing quiz solutions"
-
-# Push to GitHub
-git push
-```
-
-Do this regularly so:
-
-- Every step of your reorganization is saved.
-- You can roll back if something goes wrong.
-- The GitHub copy stays current.
-
----
-
-## 4. Safely Deleting Old Manual Archives
-
-You can safely delete your old scattered notes/slides folders **only after**:
-
-1. Those files/folders have been moved into `the-archive` (this repo’s folder).
-2. You’ve run `git add .`, `git commit`, and `git push`.
-3. You’ve checked GitHub and confirmed the content is visible and correct.
-
-If unsure, keep old folders for a bit longer until you’re confident everything is inside `the-archive` and backed up remotely.
+## Helpful links
+Following resources are updated regularly / occasionaly. Use them to explore recent past papers/materials.
+[Academic-Time-Machine](https://github.com/saleha-muzammil/Academic-Time-Machine)
+[Wondar](https://wondar.site)
+[Wondars drive link](https://drive.google.com/drive/folders/1dKGDm1oVy9K9w50TV9D2wWUZVYZcjaQ_?usp=sharing)
+Following are snapshots and i used some of their material or adapted them to my own liking
+[Fatima's Archive](https://github.com/fatimaazfar/FAST-Data-Science-Material)
+[Ali's Archive](https://github.com/MdAliNoorka/Academic-Resources)
+miscellaneous
+[Timetable generator from Muhammad Ahmad](https://datesheet-analyzer.streamlit.app/)
+[cool extension to see total marks anytime](https://github.com/HashirSaikhani/Flex-Break)
 
 ---
 
