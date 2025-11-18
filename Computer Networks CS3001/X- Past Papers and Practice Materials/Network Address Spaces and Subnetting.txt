@@ -1,0 +1,53 @@
+Address Space: 10.10.0.0/24
+Address Range: 10.10.0.0 --> 10.10.0.255
+
+24: 32 - 24: 8 bit remaining for usage
+
+2^8 = 256
+--------------
+
+/24: 256 (2^8)
+/23: 512 (2^9)
+/22: 1024(2^10)
+/21: 2048(2^11)
+/20: 4096(2^12)
+/19: 8192(2^13)
+
+/19: 8192(2^13)
+Address Space: 10.10.0.0/19: 8192 
+Address Range: 10.10.0.0 -> 10.10.31.255
+
+Address Space: 10.10.0.0/16: 65536
+Address Range: 10.10.0.0 -> 10.10.255.255
+S
+Address Space: 10.10.0.0/15
+Address Range: 10.10.0.0 -> 10.11.255.255 (65536*2)
+
+Address Space: 10.0.0.0/24
+Address Space: 10.0.0.0/16
+Address Space: 10.0.0.0/8
+
+------
+
+Address Space: 10.10.0.0/20: 4096 
+Address Range: 10.10.0.0 -> 10.10.15.255 (Explanation below)
+
+Question: Divide 4096 into 4 address spaces with 512 IP address, and 2 address spaces with 1024 IP addresses.
+ 
+Address Space 1: 10.10.0.0/23
+Address Range 1: 10.10.0.0 -> 10.10.1.255
+
+Address Space 2: 10.10.2.0/23
+Address Range 2: 10.10.2.0 -> 10.10.3.255
+
+Address Space 3: 10.10.4.0/23
+Address Range 3: 10.10.4.0 -> 10.10.5.255
+
+Address Space 4: 10.10.6.0/23
+Address Range 4: 10.10.6.0 -> 10.10.7.255
+
+Address Space 5: 10.10.8.0/22
+Address Range 5: 10.10.8.0 -> 10.10.11.255
+
+Address Space 6: 10.10.12.0/22
+Address Space 6: 10.10.12.0 -> 10.10.15.255
