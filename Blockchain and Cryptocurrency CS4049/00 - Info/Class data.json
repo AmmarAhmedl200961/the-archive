@@ -1,0 +1,409 @@
+{
+  "version": 1,
+  "name": "BDS-8A-Blockchain and Cryptocurrency",
+  "room": "202",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom5719bd0e@group.calendar.google.com",
+  "courseFolder": {
+    "id": "1GNR0jE3lEL6pZ63IthGlXEPT6x1mo17BEVmDo8Z34yY-iJEaAEsbWlwDn9de7yrEjfZ3fCOT",
+    "name": "BDS-8A-Blockchain and Cryptocurrency",
+    "openUrl": "https://drive.google.com/drive/folders/1GNR0jE3lEL6pZ63IthGlXEPT6x1mo17BEVmDo8Z34yY-iJEaAEsbWlwDn9de7yrEjfZ3fCOT"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_read.jpg",
+  "courseState": "ACTIVE",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Tayyaba Bukhari VF 2025"
+      },
+      "emailAddress": "tayyababukhari.visiting2025@lhr.nu.edu.pk"
+    },
+    "creationTime": "2025-05-09T06:01:17.869Z",
+    "updateTime": "2025-05-19T06:04:01.095Z",
+    "publicationTime": "2025-05-09T06:01:16.817Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Class Activities"
+    }],
+    "materials": [{
+      "link": {
+        "url": "https://ieeexplore.ieee.org/abstract/document/10526424",
+        "title": "Secure Storage of Crypto Wallet Seed Phrase Using ECC and Splitting Technique | IEEE Journals \u0026 Magazine | IEEE Xplore",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://ieeexplore.ieee.org/abstract/document/10526424"
+      }
+    }],
+    "courseWork": {
+      "title": "CA-008",
+      "description": "Atleast 1 page HANDWRITTEN summary is required. Name of the file should be your roll number.",
+      "descriptionHtml": "\u003cdiv\u003eAtleast 1 page HANDWRITTEN summary is required. Name of the file should be your roll number.\u003c/div\u003e",
+      "dueTime": "2025-05-09T18:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1aeUbBiB7a5Cb0AS6q1ycXjNiEg_TbJz8",
+              "title": "l200961CA-008.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1aeUbBiB7a5Cb0AS6q1ycXjNiEg_TbJz8/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOMK5VJJLRoBy0Abt07DpKvnp4co_9p6FZkzmci4YbulhNd0NeLmqe-3nR6MKsm8JAtY7JWSKOFpO8eZUnTFPXxh-01wh1_XyTHb-djj1LpPko\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Tayyaba Bukhari VF 2025"
+      },
+      "emailAddress": "tayyababukhari.visiting2025@lhr.nu.edu.pk"
+    },
+    "creationTime": "2025-04-18T10:11:55.425Z",
+    "updateTime": "2025-04-18T16:09:31.113Z",
+    "publicationTime": "2025-04-18T10:12:27.356Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Class Activities"
+    }],
+    "courseWork": {
+      "title": "CA-007",
+      "description": "https://bitcoinmagazine.com/technical/deterministic-wallets-advantages-flaw-1385450276",
+      "descriptionHtml": "\u003cdiv\u003ehttps://bitcoinmagazine.com/technical/deterministic-wallets-advantages-flaw-1385450276\u003c/div\u003e",
+      "dueTime": "2025-04-18T10:40:00Z",
+      "maxPoints": 1.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1vJTwUvT6kG8DZYNoNVu-D2UWbp0R9rOU",
+              "title": "l200961CA-007.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1vJTwUvT6kG8DZYNoNVu-D2UWbp0R9rOU/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMCVaqEHT2z4ouTRCoeDVqbKJwMT_Pf7jd1lW8UN8R5312NvIvFMJGirP6rUAu2JbN7JPjf6m1Jtan1lpkdgmfbAoQnSzuBFFJo2k-lNhUOMuU\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Tayyaba Bukhari VF 2025"
+      },
+      "emailAddress": "tayyababukhari.visiting2025@lhr.nu.edu.pk"
+    },
+    "creationTime": "2025-04-16T11:42:39.926Z",
+    "updateTime": "2025-04-24T15:29:50.982Z",
+    "publicationTime": "2025-04-16T11:43:21.686Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Assignments"
+    }],
+    "courseWork": {
+      "title": "ASM-003-Election-DApp",
+      "description": "Implementation of Voting System Dapp \nhttps://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial\n\nVideo Tutorial of implementation with missing code:\nhttps://youtu.be/UHjKUIYwFtw\nSubmission:\n-\u003e Submit the complete code folder in zipped format.\n-\u003e Also share the link of screen recording in which you are casting the vote.",
+      "descriptionHtml": "\u003cdiv\u003eImplementation of Voting System Dapp \u003cbr\u003ehttps://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial\u003cbr\u003e\u003cbr\u003eVideo Tutorial of implementation with \u003cb\u003emissing code\u003c/b\u003e:\u003cbr\u003ehttps://youtu.be/UHjKUIYwFtw\u003cbr\u003eSubmission:\u003cbr\u003e-\u0026gt; Submit the complete code folder in zipped format.\u003cbr\u003e-\u0026gt; Also share the link of screen recording in which you are casting the vote.\u003c/div\u003e",
+      "dueTime": "2025-04-25T18:59:00Z",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1roBfhxFK9ZEN1OOeFRP8nUtXsrHKLu7i",
+              "title": "l200961_A3.zip",
+              "alternateLink": "https://drive.google.com/file/d/1roBfhxFK9ZEN1OOeFRP8nUtXsrHKLu7i/view?usp\u003ddrive_web"
+            }
+          }, {
+            "driveFile": {
+              "id": "1CbuRiTqJWDl2EXDWyUrneJAECSm08-ax",
+              "title": "Screen Recording 2025-04-17 005509.mp4",
+              "alternateLink": "https://drive.google.com/file/d/1CbuRiTqJWDl2EXDWyUrneJAECSm08-ax/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMReTx9LjJtY9UjnSf3MOM0Jpu2tpGeSTONLas0pG1VngB-DeKeQ2POIvep8tfjdt0G-FByH-P_Q1BYw2jdjObVYoMiK_bdh969WYAhGj9HfIw\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Tayyaba Bukhari VF 2025"
+      },
+      "emailAddress": "tayyababukhari.visiting2025@lhr.nu.edu.pk"
+    },
+    "creationTime": "2025-03-22T10:45:08.679Z",
+    "updateTime": "2025-03-22T10:46:35.578Z",
+    "publicationTime": "2025-03-22T10:45:07.655Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Class Activities"
+    }],
+    "courseWork": {
+      "title": "CA-006",
+      "description": "Read the paper:\n\"How to Time-Stamp a Digital Document\" by  Stuart Haber, W. Scott Stornetta\n\n\nSubmission instruction (s):\nSubmit 1 page HANDWRITTEN summary.\nScan you work and submit .pdf file. File Name: --yourRollNumber--",
+      "descriptionHtml": "\u003cdiv\u003eRead the paper:\u003cbr\u003e\u0026quot;How to Time-Stamp a Digital Document\u0026quot; by  Stuart Haber, W. Scott Stornetta\u003cbr\u003e\u003cbr\u003e\u003cbr\u003eSubmission instruction (s):\u003cbr\u003eSubmit 1 page HANDWRITTEN summary.\u003cbr\u003eScan you work and submit .pdf file. File Name: --yourRollNumber--\u003c/div\u003e",
+      "dueTime": "2025-03-22T18:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1HHr5lOycOD6jS4_Wj9LWW2jrLBOlZK_o",
+              "title": "l200961CA-006.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1HHr5lOycOD6jS4_Wj9LWW2jrLBOlZK_o/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNhpjCeWFUH6k1fR_mYsTFaDyVHdyP7yQRB_jhW77spB18PZDPizA8RCNXph_pY7QfNLasTfPzqqR_6HArFQpNhpfV6n6SKrxxybBu_m2b9H8U\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Tayyaba Bukhari VF 2025"
+      },
+      "emailAddress": "tayyababukhari.visiting2025@lhr.nu.edu.pk"
+    },
+    "creationTime": "2025-03-09T17:17:51.628Z",
+    "updateTime": "2025-03-15T17:47:15.128Z",
+    "publicationTime": "2025-03-09T17:18:34.812Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Assignments"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1TITzpARTmlf_7al_jtA14ghjwUudcOty",
+          "title": "ASM-002.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1TITzpARTmlf_7al_jtA14ghjwUudcOty/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOwRjLzAmlHNytBVC_S4nD9_wZuFbid2hTn05xA2t8CoUgW7zOLiG9injARmUQi7fRwkien2fElPP_lgIvAFLDtzRNXNxLFrKUsL0fv1aRNnzY\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "ASM-002-DApp",
+      "description": "PFA",
+      "descriptionHtml": "\u003cdiv\u003ePFA\u003c/div\u003e",
+      "dueTime": "2025-03-18T18:59:00Z",
+      "maxPoints": 25.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1MoNqfSRITDoEB3FdjfocTuhBluStagrp",
+              "title": "l200961.docx",
+              "alternateLink": "https://drive.google.com/file/d/1MoNqfSRITDoEB3FdjfocTuhBluStagrp/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMQSN-byEh0GHOAAYOTYDi8bNgKO2E_HSHgd_zZlDj0M86Kc_9hYist3D3eK0_s4GP0cH3PpwdtDB2tsvd9rz8iOf7DPMu50ChnUTfoAKu6OX0\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Tayyaba Bukhari VF 2025"
+      },
+      "emailAddress": "tayyababukhari.visiting2025@lhr.nu.edu.pk"
+    },
+    "creationTime": "2025-02-28T09:08:24.951Z",
+    "updateTime": "2025-02-28T16:11:34.736Z",
+    "publicationTime": "2025-02-28T09:08:55.293Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Class Activities"
+    }],
+    "courseWork": {
+      "title": "CA-005",
+      "description": "Bitcoin: A Peer-to-Peer Electronic Cash System  \nhttps://bitcoin.org/bitcoin.pdf\n\nInstructions:\nWrite minimum one page “HANDWRITTEN” summary of above article.\nTake snapshots of your work using CamScanner or other scanning app and submit single .pdf file. Name of the file should be your roll number.",
+      "descriptionHtml": "\u003cdiv\u003eBitcoin: A Peer-to-Peer Electronic Cash System  \u003cbr\u003ehttps://bitcoin.org/bitcoin.pdf\u003cbr\u003e\u003cbr\u003eInstructions:\u003cbr\u003eWrite minimum one page “HANDWRITTEN” summary of above article.\u003cbr\u003eTake snapshots of your work using CamScanner or other scanning app and submit single .pdf file. Name of the file should be your roll number.\u003c/div\u003e",
+      "dueTime": "2025-02-28T18:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1whK70ZjDYyezeFwDwgn8qsoZL58umNW-",
+              "title": "l200961CA-005.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1whK70ZjDYyezeFwDwgn8qsoZL58umNW-/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNe-2rpidU4YX5ggdNOa7H63ciaMUd52AjZ_BSdUenXh5nCVEXOcGD_IQDQ5kC1HZWnCpmdObjgpLGhjWqlyLdGNnfByAZOvam5xHOGYxZLBNE\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Tayyaba Bukhari VF 2025"
+      },
+      "emailAddress": "tayyababukhari.visiting2025@lhr.nu.edu.pk"
+    },
+    "creationTime": "2025-02-28T09:07:08.835Z",
+    "updateTime": "2025-02-28T16:11:23.248Z",
+    "publicationTime": "2025-02-28T09:07:51.739Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Class Activities"
+    }],
+    "courseWork": {
+      "title": "CA-004",
+      "description": "Read the article:\nhttps://www.buybitcoinworldwide.com/mining/pools/\n\nInstructions:\nWrite minimum 1 page “HANDWRITTEN” summary of above article.\nTake snapshots of your work using CamScanner or anyother scanning app and submit single .pdf file. Name of the file should be your roll number.",
+      "descriptionHtml": "\u003cdiv\u003eRead the article:\u003cbr\u003ehttps://www.buybitcoinworldwide.com/mining/pools/\u003cbr\u003e\u003cbr\u003eInstructions:\u003cbr\u003eWrite minimum 1 page “HANDWRITTEN” summary of above article.\u003cbr\u003eTake snapshots of your work using CamScanner or anyother scanning app and submit single .pdf file. Name of the file should be your roll number.\u003c/div\u003e",
+      "dueTime": "2025-02-28T18:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1HzE3dkif-d-t-ZZSjxReOfTSt1glrRgr",
+              "title": "l200961CA-004.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1HzE3dkif-d-t-ZZSjxReOfTSt1glrRgr/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM_fo71XTSMuFBpfz6IY4GX9qirzA7t0ftEAz1MXXq0OZxHO2XtwHQdmrZO3EJgxSpS0LA0ydAWFIj8NdPVXbu3jMNQvgusQVG_pYIt-61-qvY\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Tayyaba Bukhari VF 2025"
+      },
+      "emailAddress": "tayyababukhari.visiting2025@lhr.nu.edu.pk"
+    },
+    "creationTime": "2025-02-01T13:49:37.412Z",
+    "updateTime": "2025-02-01T13:49:35.745Z",
+    "publicationTime": "2025-02-01T13:49:35.470Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Assignments"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1QztM-EVNUM59w-gr62aGRYtOw0CxEDlr",
+          "title": "Introduction to Golang.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1QztM-EVNUM59w-gr62aGRYtOw0CxEDlr/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNn9hjs88fIg51Nw8k_uI9YwDX8TwFwXkmFpamIeaXaac4fPa4dem6xTsAIWncRrfarjNixQ1cYHAlHXiX6P3yI6QXp5uGkyZZXb6O-TSVhIbc\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1BqvSTSNrzYx0cTUvHB37vQX0PLZqt6qX",
+          "title": "assignment01IBC.go",
+          "alternateLink": "https://drive.google.com/file/d/1BqvSTSNrzYx0cTUvHB37vQX0PLZqt6qX/view?usp\u003ddrive_web"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "ASM-001-GoLang",
+      "description": "Below is the code file of Assignment 1 with required functions with comments that explains what you have to write inside the function. \nProgramming Language: Go\nGoLang Tutorial is also attached.\nSubmit a single .go file. Name of the file should be your Roll number.\n----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nIn case of any query, please contact to your TA by keeping me in CC. Queries, one day before submission deadline, will not be entertained.\n-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nNOTE:\nDeadline will not be extended. Even 1 minute late will NOT be considered.",
+      "descriptionHtml": "\u003cdiv\u003eBelow is the code file of Assignment 1 with required functions with comments that explains what you have to write inside the function. \u003cbr\u003eProgramming Language: Go\u003cbr\u003eGoLang Tutorial is also attached.\u003cbr\u003eSubmit a single .go file. Name of the file should be your Roll number.\u003cbr\u003e----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\u003cbr\u003eIn case of any query, please contact to your TA by keeping me in CC. Queries, one day before submission deadline, will not be entertained.\u003cbr\u003e-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\u003cbr\u003eNOTE:\u003cbr\u003e\u003cb\u003eDeadline will not be extended. Even 1 minute late will NOT be considered.\u003c/b\u003e\u003c/div\u003e",
+      "dueTime": "2025-02-09T18:59:00Z",
+      "maxPoints": 50.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1iZdBe9cUTHBC69RbLMU5MGS-e5Pk_F4M",
+              "title": "assignment01IBC.go",
+              "alternateLink": "https://drive.google.com/file/d/1iZdBe9cUTHBC69RbLMU5MGS-e5Pk_F4M/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }]
+}
