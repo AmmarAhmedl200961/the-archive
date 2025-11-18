@@ -1,0 +1,349 @@
+{
+  "version": 1,
+  "name": "BDS-1B2",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom1e1b9c44@group.calendar.google.com",
+  "courseFolder": {
+    "id": "0B6lgnLfMnpqyflpTS2M1R0JPbk9mU1dpV0d6Z1ptZDUwQ3RBaXJVdllaZVB3Rmw1Vmhjekk",
+    "name": "BDS-1B2",
+    "openUrl": "https://drive.google.com/drive/folders/0B6lgnLfMnpqyflpTS2M1R0JPbk9mU1dpV0d6Z1ptZDUwQ3RBaXJVdllaZVB3Rmw1Vmhjekk?resourcekey\u003d0-ykJuHdpauka132CTAxebIA"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_code.jpg",
+  "subject": "English Composition \u0026Comprehension",
+  "courseState": "ARCHIVED",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Zahida Mansoor"
+      },
+      "emailAddress": "zahida.mansoor@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-12-29T06:46:29.189Z",
+    "updateTime": "2020-12-30T18:34:57.885Z",
+    "publicationTime": "2020-12-29T06:47:09.311Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Critical analysis ",
+      "description": "Critically analyze any ONE of the assigned articles.\n1. The year that was      https://www.dawn.com/news/1598441/the-year-that-was\n2. The year of living anxiously   https://www.dawn.com/news/1598275/the-year-of-living-anxiously\n3. www.newyorker.com%2Fmagazine%2F2016%2F11%2F14%2Fof-windows-and-doors\nThe analysis must not exceed 250 words.\nThe analysis  must include all components as outlined in the Rubric\n",
+      "descriptionHtml": "\u003cdiv\u003eCritically analyze any ONE of the assigned articles.\u003cbr\u003e1. The year that was      https://www.dawn.com/news/1598441/the-year-that-was\u003cbr\u003e2. The year of living anxiously   https://www.dawn.com/news/1598275/the-year-of-living-anxiously\u003cbr\u003e3. www.newyorker.com%2Fmagazine%2F2016%2F11%2F14%2Fof-windows-and-doors\u003cbr\u003eThe analysis must not exceed 250 words.\u003cbr\u003eThe analysis  must include all components as outlined in the Rubric\u003c/div\u003e",
+      "dueTime": "2020-12-29T13:00:00Z",
+      "maxPoints": 25.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 21.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1SLjG-jX_XfiACVKd3YuDN2exLhGmSVYojPhFSvh0OQY",
+              "title": "Ammar Ahmed - Critical analysis ",
+              "alternateLink": "https://docs.google.com/document/d/1SLjG-jX_XfiACVKd3YuDN2exLhGmSVYojPhFSvh0OQY/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBMAIqQ-B_BiXh3y7C2_KektWsaZw_Hv3jkMQpqgKJBrh2o6E2Pil2i58W5mVuY186NswlnK01-aVHyVAJYmpvITH_KlTWok18m5mcEzVe2swl5C5I4BmXAQYVai5GZ23N5H_f4\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2020-12-30T11:24:41.105Z",
+          "updateTime": "2020-12-30T11:24:40.963Z",
+          "comment": "I was outside yesterday, and did the work today, as I also fell sick last night, so kindly check.",
+          "commentHtml": "\u003cdiv\u003eI was outside yesterday, and did the work today, as I also fell sick last night, so kindly check.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Zahida Mansoor"
+      },
+      "emailAddress": "zahida.mansoor@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-12-22T06:17:41.023Z",
+    "updateTime": "2020-12-22T06:18:18.973Z",
+    "publicationTime": "2020-12-22T06:18:18.760Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Argumentative essay",
+      "description": " Should English be the official language of Pakistan?\nReaders hook -anecdote\nword limit 350-400 words",
+      "descriptionHtml": "\u003cdiv\u003eShould English be the official language of Pakistan?\u003cbr\u003eReaders hook -anecdote\u003cbr\u003eword limit 350-400 words\u003c/div\u003e",
+      "dueTime": "2020-12-22T08:00:00Z",
+      "maxPoints": 25.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 18.5,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "13Zhb78d6m8BA0HEeckVyDLK5Oh_H09oC0v7OKbEiT1I",
+              "title": "Ammar Ahmed - Argumentative essay",
+              "alternateLink": "https://docs.google.com/document/d/13Zhb78d6m8BA0HEeckVyDLK5Oh_H09oC0v7OKbEiT1I/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBMSEy2ejKBVfKEOYAP_XgSWREn6XhEoqX7jJua_6TS7jxEQoqtS7ZHKUZXNpha2GuJYBu2cs-nNxHzRp1wcQyGgVeR_R0gAHzCTYGyfXXd1XvxaNOSODCahMGwoMD-NMn5zwkg\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Zahida Mansoor"
+      },
+      "emailAddress": "zahida.mansoor@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-12-17T09:14:07.643Z",
+    "updateTime": "2020-12-17T09:15:12.944Z",
+    "publicationTime": "2020-12-17T09:15:12.731Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Thesis statement",
+      "description": "Create thesis statements using the thesis builder \n        1. war journalism\n\t2. advertisements / commercials\n\t3. reality programs\n\t4. radio programs\n\t5. the government\n\t6. newspapers",
+      "descriptionHtml": "\u003cdiv\u003eCreate thesis statements using the thesis builder \u003cbr\u003e        1. war journalism\u003cbr\u003e\t2. advertisements / commercials\u003cbr\u003e\t3. reality programs\u003cbr\u003e\t4. radio programs\u003cbr\u003e\t5. the government\u003cbr\u003e\t6. newspapers\u003c/div\u003e",
+      "maxPoints": 15.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 14.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1ErhDnC2YN5tmqhI_6ZTdOC_L-gfcK3sHDdO8rJtaab4",
+              "title": "Ammar Ahmed - Thesis statement",
+              "alternateLink": "https://docs.google.com/document/d/1ErhDnC2YN5tmqhI_6ZTdOC_L-gfcK3sHDdO8rJtaab4/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBMxoEcRARETi0m7JeqtTPIgzn0FbzobciNkJ0-Nev73WSL0eIZKMMei8bbaokE7nw-0bm_L9wN0BG8i75FGf1-f-5tfJFeng1zkPMC2K7GtiCjttmfROb8yY1CxadAjZvH1jpU\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Zahida Mansoor"
+      },
+      "emailAddress": "zahida.mansoor@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-12-17T08:31:19.069Z",
+    "updateTime": "2020-12-17T08:52:33.531Z",
+    "publicationTime": "2020-12-17T08:52:33.316Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Argumentative Essay",
+      "description": "Write an essay on the given topic: Should Facebook, WhatsApp and Twitter be banned permanently?\nArgue for or against\nWord Limit : 350 words\n Microsoft word.",
+      "descriptionHtml": "\u003cdiv\u003eWrite an essay on the given topic: Should Facebook, WhatsApp and Twitter be banned permanently?\u003cbr\u003eArgue for or against\u003cbr\u003eWord Limit : 350 words\u003cbr\u003e Microsoft word.\u003c/div\u003e",
+      "dueTime": "2020-12-19T13:00:00Z",
+      "maxPoints": 25.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 18.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1kCK6FzgwxOlpfNc6Jjhf1vb246tLLj7tcZoJdt3rtQI",
+              "title": "Ammar Ahmed - Argumentative Essay",
+              "alternateLink": "https://docs.google.com/document/d/1kCK6FzgwxOlpfNc6Jjhf1vb246tLLj7tcZoJdt3rtQI/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBOMzzaJc6iVYyoX4L-4vvZsr1V6dqz_X5WJzVmORWQjjz0F93hgkkrUEptdodqFn5qGLcsFWabWIdFGIMvT58NSB_tsNZNf5NK4cv5GtEHhZGQbsrecrEEBJehzTCvfqMD7nsw\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Zahida Mansoor"
+      },
+      "emailAddress": "zahida.mansoor@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-12-10T12:37:26.311Z",
+    "updateTime": "2020-12-30T18:04:46.143Z",
+    "publicationTime": "2020-12-10T12:38:35.780Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Cause and Effect Essay",
+      "description": "Write a 320-350 words essay on \"Examine the results of the pandemic on education\".\nNarrow down the education to a more specific level e.g. school children- online- -college etc.\nBegin your essay with an anecdote as a readers\u0027 hook followed by a lead in and a three point thesis statement.",
+      "descriptionHtml": "\u003cdiv\u003eWrite a 320-350 words essay on \u0026quot;Examine the results of the pandemic on education\u0026quot;.\u003cbr\u003eNarrow down the education to a more specific level e.g. school children- online- -college etc.\u003cbr\u003eBegin your essay with an anecdote as a readers\u0026#39; hook followed by a lead in and a three point thesis statement.\u003c/div\u003e",
+      "dueTime": "2020-12-10T13:30:00Z",
+      "maxPoints": 25.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 20.5,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1SmnufBl5NbneWMZNkYW1MxG3taI87_-9gNzT3tq6Bqw",
+              "title": "Ammar Ahmed - Cause and Effect Essay",
+              "alternateLink": "https://docs.google.com/document/d/1SmnufBl5NbneWMZNkYW1MxG3taI87_-9gNzT3tq6Bqw/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBOrSAFBka43XQV18gYkHO0-RBGEtVyYoB2DFvCZaZQgfpcRCUyvuKY0xSDc4pkkkrVbhgec494gNKxCbdv-UbVD3XRVDTKALWC_-ikw8_enLc5qSHGrXQne34MNxcCx0sKvMXo\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Zahida Mansoor"
+      },
+      "emailAddress": "zahida.mansoor@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-12-01T07:33:24.721Z",
+    "updateTime": "2020-12-30T18:04:53.759Z",
+    "publicationTime": "2020-12-01T07:37:09.801Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Introductory paragraph",
+      "description": "Narrow down the topic Gaming\nWrite an introductory paragraph Of not more than 120 words\nUse the readers hook- Question (red)\nLead in -2-3 sentences (black)\nThesis statement (green)",
+      "descriptionHtml": "\u003cdiv\u003eNarrow down the topic Gaming\u003cbr\u003eWrite an introductory paragraph Of not more than 120 words\u003cbr\u003eUse the readers hook- Question (red)\u003cbr\u003eLead in -2-3 sentences (black)\u003cbr\u003eThesis statement (green)\u003c/div\u003e",
+      "dueTime": "2020-12-02T14:00:00Z",
+      "maxPoints": 15.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 11.5,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "16_W-QRmwsIPOX1BuCEvNjjiI5vkAX-gbic-vmVXCoEM",
+              "title": "Ammar Ahmed - Introductory paragraph",
+              "alternateLink": "https://docs.google.com/document/d/16_W-QRmwsIPOX1BuCEvNjjiI5vkAX-gbic-vmVXCoEM/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBMbnfrc2YF_Mz77ucz-_7CfHoU0eZMT4vLeTZRljD1N1M9w5fUqxQqyE6wD2gVkIMmoKvVEf3L8AJMvhf-pyRZVIbIvnGGiESWOwS_Cl4R6eCe87nYZmhr5r-TTG367IUPXTno\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2020-12-02T14:20:25.868Z",
+          "updateTime": "2020-12-02T14:20:25.739Z",
+          "comment": "I had submitted early ma\u0027am but did some last changes at 7 15 so that\u0027s why it says submitted late",
+          "commentHtml": "\u003cdiv\u003eI had submitted early ma\u0026#39;am but did some last changes at 7 15 so that\u0026#39;s why it says submitted late\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Zahida Mansoor"
+      },
+      "emailAddress": "zahida.mansoor@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-12-01T05:44:43.745Z",
+    "updateTime": "2020-12-01T05:48:21.265Z",
+    "publicationTime": "2020-12-01T05:48:21.069Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Paraphrasing"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1c4NqN_ULJyvSBq8vmhPoiIjbU_JqTPQjWVYBy6VbhJU",
+          "title": " English or first language",
+          "alternateLink": "https://docs.google.com/document/d/1c4NqN_ULJyvSBq8vmhPoiIjbU_JqTPQjWVYBy6VbhJU/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNAZ8s2Bev1EbtpjGToG4c48rgDmf2ttXFl4zEX2pLafv_rxymXusgNzPYhdi6Td-hz9B1iihD9Hfn4HTtcCXNzqfqRaJQ5Qpv66aGfGd9hc9HO_vygh4smx0G7fdahZdCfLoo\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "English or First Language",
+      "description": "Paraphrase the text   \n",
+      "descriptionHtml": "\u003cdiv\u003eParaphrase the text\u003c/div\u003e",
+      "dueTime": "2020-12-01T06:45:00Z",
+      "maxPoints": 15.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 12.5,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1SWJ_Ph9HbvJijO7JYdidlRz-h3q8OtwELqo4Zkn3cyU",
+              "title": "Ammar Ahmed - English or First Language",
+              "alternateLink": "https://docs.google.com/document/d/1SWJ_Ph9HbvJijO7JYdidlRz-h3q8OtwELqo4Zkn3cyU/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNc7ukTnmDiLaQ28oiTSRyrN7Sb4ie2clWohI82e1MH4bdpqtvd36sOd9bC9ZSJh1UiHCuchXq268j-sM01uDR4Vf-hBtJODRzKD6pgNV0KajFGnH9DrPL5qU9GtL5vrIw0WQ8\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }]
+}

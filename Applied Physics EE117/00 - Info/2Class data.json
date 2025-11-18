@@ -1,0 +1,182 @@
+{
+  "version": 1,
+  "name": "Ms. Sidra Zawar BCS-1A Applied Physics Class",
+  "section": "BCS 1A",
+  "room": "CE 1",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroomd6065c96@group.calendar.google.com",
+  "courseFolder": {
+    "id": "1qxYtnnJLLeECXD-jkuxS4Hp-HVV8h_GmkfUsdWvCpJZ35IfKZkwyrJ7yZJyT_nsGTvXjUGzE",
+    "name": "Ms. Sidra Zawar BCS-1A Applied Physics Class BCS 1A",
+    "openUrl": "https://drive.google.com/drive/folders/1qxYtnnJLLeECXD-jkuxS4Hp-HVV8h_GmkfUsdWvCpJZ35IfKZkwyrJ7yZJyT_nsGTvXjUGzE"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_breakfast.jpg",
+  "subject": "Applied Physics",
+  "courseState": "ACTIVE",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2021-12-20T04:51:32.050Z",
+    "updateTime": "2021-12-20T04:52:28.122Z",
+    "publicationTime": "2021-12-20T04:52:27.977Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1Wkazh1flLgGqGD_bcVV1c1XTUEwIXfN4",
+          "alternateLink": "https://drive.google.com/open?id\u003d1Wkazh1flLgGqGD_bcVV1c1XTUEwIXfN4"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment # 3",
+      "dueTime": "2021-12-24T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2021-11-19T17:49:29.424Z",
+    "updateTime": "2021-11-19T17:52:43.907Z",
+    "publicationTime": "2021-11-19T17:52:43.878Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1YOc18E2ykOuLoHOmgyvfz41vh61AE2JP",
+          "alternateLink": "https://drive.google.com/open?id\u003d1YOc18E2ykOuLoHOmgyvfz41vh61AE2JP"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 2",
+      "description": "Assignment # 2 is a word file; you may set the space between the questions as per your requirement.",
+      "descriptionHtml": "\u003cdiv\u003eAssignment # 2 is a word file; you may set the space between the questions as per your requirement.\u003c/div\u003e",
+      "dueTime": "2021-11-24T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2021-11-22T15:26:20.884Z",
+          "updateTime": "2021-11-22T15:26:20.813Z",
+          "comment": "mam for the matlab question we just need to write code ? Nothing else ? as it is 10 marks...",
+          "commentHtml": "\u003cdiv\u003emam for the matlab question we just need to write code ? Nothing else ? as it is 10 marks...\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Unknown user"
+            }
+          },
+          "creationTime": "2021-11-23T07:05:34.576Z",
+          "updateTime": "2021-11-23T07:05:34.304Z",
+          "comment": "You need to write program code for given statement.",
+          "commentHtml": "\u003cdiv\u003eYou need to write program code for given statement.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2021-11-23T07:51:01.398Z",
+          "updateTime": "2021-11-23T07:51:01.369Z",
+          "comment": "Ok mam",
+          "commentHtml": "\u003cdiv\u003eOk mam\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2021-09-22T09:01:24.596Z",
+    "updateTime": "2021-09-22T09:02:52.978Z",
+    "publicationTime": "2021-09-22T09:02:52.858Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1uYXpGDParL1km_0dwwXLlLx31zPYaCQ6",
+          "alternateLink": "https://drive.google.com/open?id\u003d1uYXpGDParL1km_0dwwXLlLx31zPYaCQ6"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment #1",
+      "description": "Please read the instructions given on the assignment first.",
+      "descriptionHtml": "\u003cdiv\u003ePlease read the instructions given on the assignment first.\u003c/div\u003e",
+      "dueTime": "2021-09-29T05:00:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1PK1BtKVzqss9NBPb9n4B4kaJknZ0SmuU",
+              "alternateLink": "https://drive.google.com/open?id\u003d1PK1BtKVzqss9NBPb9n4B4kaJknZ0SmuU"
+            }
+          }]
+        }
+      }]
+    }
+  }]
+}

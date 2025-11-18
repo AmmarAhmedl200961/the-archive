@@ -1,0 +1,1675 @@
+{
+  "version": 1,
+  "name": "ECC BSDS",
+  "section": "DS B1",
+  "room": "Virtual",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom2cac9a87@group.calendar.google.com",
+  "courseFolder": {
+    "id": "0B6lgnLfMnpqyflBwaWlFT05MWDJNSGZJVnc4TWR4MFZqampIbU40bW8tUktnM0RzQXFMTW8",
+    "name": "ECC BSDS DS B1",
+    "openUrl": "https://drive.google.com/drive/folders/0B6lgnLfMnpqyflBwaWlFT05MWDJNSGZJVnc4TWR4MFZqampIbU40bW8tUktnM0RzQXFMTW8?resourcekey\u003d0-MAkSKUeLs9oaMl7SL9i3_w"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_code.jpg",
+  "subject": "ECC LAB",
+  "courseState": "ACTIVE",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Ms. Muqades Shafiq"
+      },
+      "emailAddress": "muqades.shafiq@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-12-28T11:17:16.212Z",
+    "updateTime": "2020-12-28T11:18:59.728Z",
+    "publicationTime": "2020-12-28T11:18:59.475Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1RGdWcCYUntqlJR_ZDTmFExSKBV_IulU9",
+          "title": "Worksheet-3.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1RGdWcCYUntqlJR_ZDTmFExSKBV_IulU9/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNn5mGP5IX4Uf9eu8pTrVitRr-VbCuKZwUI95BmoOamRqXL0KM8alX1OWYmgS_FTQfSl49FwJ-lT5yC0EJ9jwbQZWNEzgDqILAeO2l6E-vAGsc\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Implied Main Idea, Stated Main Idea, Supporting Details and Author’s Purpose",
+      "description": "send me the picture of this worksheet.",
+      "descriptionHtml": "\u003cdiv\u003esend me the picture of this worksheet.\u003c/div\u003e",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1Cyg8nhfxVtvCQZiLZOEfSXW6rOdsLXON",
+              "title": "Implied Main Idea, Stated Main Idea, Supporting Details and Author’s Purpose (Dec 30, 2020 2:49:45 PM).jpeg",
+              "alternateLink": "https://drive.google.com/file/d/1Cyg8nhfxVtvCQZiLZOEfSXW6rOdsLXON/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOW7RvQcrBsM2wjvmbjz39zOMpKK9Dtz8BEbZkljST11vpyZNkqz0q8oklVfOR3Y_IBXASV_qhHFALoOHN6Dp_ST_nhd2ZoQjpBPByI5hwGfqo\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2020-12-28T11:41:48.726Z",
+          "updateTime": "2020-12-28T11:41:48.597Z",
+          "comment": "Ma\u0027am I\u0027ll I have done these worksheets and the they are back at my home.\nI\u0027ll attach these when I arrive in a day.",
+          "commentHtml": "\u003cdiv\u003eMa\u0026#39;am I\u0026#39;ll I have done these worksheets and the they are back at my home.\u003cbr\u003eI\u0026#39;ll attach these when I arrive in a day.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ms. Muqades Shafiq"
+      },
+      "emailAddress": "muqades.shafiq@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-12-28T11:14:27.637Z",
+    "updateTime": "2020-12-28T11:16:33.298Z",
+    "publicationTime": "2020-12-28T11:16:33.046Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1dzYUzE6rE2E4T_WM5WCKPlrvGFrCdkpK",
+          "title": "OnCampus Worksheet.docx",
+          "alternateLink": "https://drive.google.com/file/d/1dzYUzE6rE2E4T_WM5WCKPlrvGFrCdkpK/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOVHyJd2kFJwirQg_w-gzr97v_wmrrYZHCd_ViF2eXh0zf4hfHkmFa1X4CCIsyNl3p9j-bfm5X9vGlD_VEBFEpmsJFSb1NVTWHtnV7fhVLHIkU\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Stated \u0026 Implied Main Idea, Supporting Details, Tone and Pattern of Organization",
+      "description": "send me the picture of this worksheet",
+      "descriptionHtml": "\u003cdiv\u003esend me the picture of this worksheet\u003c/div\u003e",
+      "maxPoints": 17.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "13hlfgHpqWNQs_G5Snm88HvKNGEYis_nC",
+              "title": "Stated \u0026 Implied Main Idea, Supporting Details, Tone and Pattern of Organization (Dec 30, 2020 2:56:25 PM).jpeg",
+              "alternateLink": "https://drive.google.com/file/d/13hlfgHpqWNQs_G5Snm88HvKNGEYis_nC/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMyh3-LWwbClZscgctj9KARvHBNmxI44EX-Ae_4vUQ5Sve_022azJQ4-9UYL45eyQShL23G91Z7Sb_FpI6GQ8H6a2oX51CYs3EZKkDX8hh7_Uc\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1TKfwxz5AAgh6OJTSY_a4gFL0URwLRuAk",
+              "title": "Stated \u0026 Implied Main Idea, Supporting Details, Tone and Pattern of Organization (Dec 30, 2020 2:57:06 PM).jpeg",
+              "alternateLink": "https://drive.google.com/file/d/1TKfwxz5AAgh6OJTSY_a4gFL0URwLRuAk/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPDrZP_46PT2r4YjoSUCLWN8ldsLu02LgGkty5LhuGOKQXd2waOO1WCcs44nNfyGol0trL292Lit-1jH0Fs_PObLKbxL9c4Y3MkcQH7DenG1ys\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ms. Muqades Shafiq"
+      },
+      "emailAddress": "muqades.shafiq@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-12-28T05:47:58.694Z",
+    "updateTime": "2020-12-28T05:50:09.713Z",
+    "publicationTime": "2020-12-28T05:48:42.907Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1kwKOvl5VF3KzH3Fnk_OYxyIDg_5N5rXB",
+          "title": "Stated Main idea supporting details Purpoe Tone-Nostalgic-Sad .pdf",
+          "alternateLink": "https://drive.google.com/file/d/1kwKOvl5VF3KzH3Fnk_OYxyIDg_5N5rXB/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNNE2Lx_OCoDuvQe1yhpUBgRJPnZS0A3pc8DiR_dd3f-gFk21_es8yAZo6w--C6JJRUvzE1WMIzK77pL_DUojtxaFJ4n_Xc04m2FAzIDI_f6RU\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Stated Main Idea, Supporting Details, Author’s Purpose, Tone \u0026 Patten of Organization",
+      "description": "send me the pic of this worksheet under the post.",
+      "descriptionHtml": "\u003cdiv\u003esend me the pic of this worksheet under the post.\u003c/div\u003e",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1Lmj_qahgdfM2qZ9HvlcjkqeFoFwquxwS",
+              "title": "Stated Main Idea, Supporting Details, Author’s Purpose, Tone \u0026 Patten of Organization (Dec 30, 2020 2:52:43 PM).jpeg",
+              "alternateLink": "https://drive.google.com/file/d/1Lmj_qahgdfM2qZ9HvlcjkqeFoFwquxwS/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOo5oeuB1aWktmYXOwwh1O2uY5Yc_T83WHwp2rc07InvW2KNptUo43k7q26ZTfuuTu7TF_W7M5MXnkFchsQea2fd7HJhA-3AWkqaOXNoH7enLc\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1uWSQt5Xd_jLcGNQ-ROjWJKL8gGo6Oomd",
+              "title": "Stated Main Idea, Supporting Details, Author’s Purpose, Tone \u0026 Patten of Organization (Dec 30, 2020 2:54:16 PM).jpeg",
+              "alternateLink": "https://drive.google.com/file/d/1uWSQt5Xd_jLcGNQ-ROjWJKL8gGo6Oomd/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPt3dHCw64lxp1BwIX6PSsi88h5TL908c4F45apVl5ft0sQBiWyKAeAF1C4X93Bsjw12pvbifrbIP9eNvsrbLs6IwtzBlEAv0Tzj2uOwRHB_i8\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ms. Muqades Shafiq"
+      },
+      "emailAddress": "muqades.shafiq@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-12-28T04:35:57.820Z",
+    "updateTime": "2020-12-28T04:37:02.381Z",
+    "publicationTime": "2020-12-28T04:37:02.111Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Cause and Effect of Popularity of Fast Food Resturents.",
+      "description": "write a complete essay on given topic.",
+      "descriptionHtml": "\u003cdiv\u003ewrite a complete essay on given topic.\u003c/div\u003e",
+      "maxPoints": 25.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 16.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1xbpGuqOtrqAWbBzxsHlqbLFlKMtOHcz_pnhYKC7a2iQ",
+              "title": "Ammar Ahmed - Cause and Effect of Popularity of Fast Food Resturents.",
+              "alternateLink": "https://docs.google.com/document/d/1xbpGuqOtrqAWbBzxsHlqbLFlKMtOHcz_pnhYKC7a2iQ/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBONjIuWcExwAWdX9gvoHF5Pip0BoH1GANjfJcCTEcJjWRdHOdIOPVuURfyBDxJhoSdnmvFxXI4AyGy2LvElEK3nNEHYi4-oTyhvTSbsFllletyMyg_UnkmY_KNG3Av_QC4-6VA\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Ms. Muqades Shafiq"
+            },
+            "emailAddress": "muqades.shafiq@lhr.nu.edu.pk"
+          },
+          "creationTime": "2020-12-28T11:22:34.516Z",
+          "updateTime": "2020-12-28T11:22:33.750Z",
+          "comment": "concluding remarks are missing.",
+          "commentHtml": "\u003cdiv\u003econcluding remarks are missing.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2020-12-28T11:23:18.912Z",
+          "updateTime": "2020-12-28T11:23:18.712Z",
+          "comment": "I\u0027ll add them miss",
+          "commentHtml": "\u003cdiv\u003eI\u0026#39;ll add them miss\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Ms. Muqades Shafiq"
+            },
+            "emailAddress": "muqades.shafiq@lhr.nu.edu.pk"
+          },
+          "creationTime": "2020-12-28T12:27:35.036Z",
+          "updateTime": "2020-12-28T12:27:34.558Z",
+          "comment": "punctuation errors\nsimple snetence structure",
+          "commentHtml": "\u003cdiv\u003epunctuation errors\u003cbr\u003esimple snetence structure\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ms. Muqades Shafiq"
+      },
+      "emailAddress": "muqades.shafiq@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-12-21T04:31:35.012Z",
+    "updateTime": "2020-12-21T04:32:35.112Z",
+    "publicationTime": "2020-12-21T04:32:34.847Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Powerpoint presentation on \u0027Can social media destroy real life communication?\u0027",
+      "description": "Lab 2 Task: Make and present powerpoint presentations on given topic.",
+      "descriptionHtml": "\u003cdiv\u003eLab 2 Task: Make and present powerpoint presentations on given topic.\u003c/div\u003e",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1ECUSeexp-upYV7R-8kl29VCze_ytSOMb-lq3cLe9dpc",
+              "title": "Ammar -- Abdullah - Powerpoint presentation on \u0027Can social media destroy real life communication?\u0027",
+              "alternateLink": "https://docs.google.com/presentation/d/1ECUSeexp-upYV7R-8kl29VCze_ytSOMb-lq3cLe9dpc/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBMf_bcwzka2pnVBMEalpvetCQtY4MBYCX7F8ArBSaSeUsVF6pwxi4qb_EIiP9EQZ3KPGfLXunEYAoep9-4rn-A9_CbJstTTdpu3y22orA1HTnVbPV7Jhj3ghJzzANXHtB4HN8Y\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ms. Muqades Shafiq"
+      },
+      "emailAddress": "muqades.shafiq@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-12-21T04:30:49.390Z",
+    "updateTime": "2020-12-21T04:31:17.554Z",
+    "publicationTime": "2020-12-21T04:31:17.297Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Can social media destroy real life communication?",
+      "description": "write an essay on given topic in pairs.",
+      "descriptionHtml": "\u003cdiv\u003ewrite an essay on given topic in pairs.\u003c/div\u003e",
+      "maxPoints": 25.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 19.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "17fZx09UZpP-lvp-eF9WWqSCved9KsASJmqPo5oP1edE",
+              "title": "Ammar --Abdullah - Can social media destroy real life communication?",
+              "alternateLink": "https://docs.google.com/document/d/17fZx09UZpP-lvp-eF9WWqSCved9KsASJmqPo5oP1edE/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNsJyRFUFo8CPVpVHL5lB-7ZjzbCf8ToD_6Hp7zmlCxuOn9_1fKEFVpbl5AqGzpAqNjZvhdvhXLUJBSfLKDIh_6LIvDdSKZ4-bFVS2toQ6MIDhR_352Z9Ut9MEB1p2k9G3GRok\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Ms. Muqades Shafiq"
+            },
+            "emailAddress": "muqades.shafiq@lhr.nu.edu.pk"
+          },
+          "creationTime": "2020-12-21T13:48:52.845Z",
+          "updateTime": "2020-12-21T13:48:52.557Z",
+          "comment": "Who is your group member??\nUse transition words within paragraphs to connect details.\nIn conclusion paraphrase or restate thesis do not write in a same manner.",
+          "commentHtml": "\u003cdiv\u003eWho is your group member??\u003cbr\u003eUse transition words within paragraphs to connect details.\u003cbr\u003eIn conclusion paraphrase or restate thesis do not write in a same manner.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2020-12-21T14:00:46.539Z",
+          "updateTime": "2020-12-21T14:00:46.473Z",
+          "comment": "Abdullah Irfan is my group member\n\nOr restate thesis means?\nYes I will change my conclusion",
+          "commentHtml": "\u003cdiv\u003eAbdullah Irfan is my group member\u003cbr\u003e\u003cbr\u003eOr restate thesis means?\u003cbr\u003eYes I will change my conclusion\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ms. Muqades Shafiq"
+      },
+      "emailAddress": "muqades.shafiq@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-12-17T04:38:36.099Z",
+    "updateTime": "2020-12-17T04:40:31.752Z",
+    "publicationTime": "2020-12-17T04:40:31.505Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1mTlnc-OSXX6D28JrPyLIrqJ2KaqMOHJy",
+          "title": "transitionwordsargue.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1mTlnc-OSXX6D28JrPyLIrqJ2KaqMOHJy/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMFXbDD1TD3U9wxx8lYFeCR4mIg6GcmKiGlBM0MSfvNH9ietQ3knBGRBtFj7Tw04rio5EOZWnzrOASI-bY5OIAME4e0u54RWboJCq3SQ9V5xgc\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Argumentative Essay",
+      "description": "write a complete essay on any one of the topics on which you worked previously ",
+      "descriptionHtml": "\u003cdiv\u003ewrite a complete essay on any one of the topics on which you worked previously\u003c/div\u003e",
+      "maxPoints": 25.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 15.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1QTlzlyf0SqwRvJrZ9qNnImH_qGjFT_f3QIOwj79cXPQ",
+              "title": "Ammar Ahmed - Argumentative Essay",
+              "alternateLink": "https://docs.google.com/document/d/1QTlzlyf0SqwRvJrZ9qNnImH_qGjFT_f3QIOwj79cXPQ/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNTfvn4hCoQ5ALzZ75q7kuwzaQSbI-rTVBW0CCLd9F04ccLhcLMqI3oBe22LDOuLiK9pwO-NVA7s9tS_nYEeYOr5e03WwOcUy3usgkOlOLprHEPvj46kSzfYJbydC1OaHteiLM\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ms. Muqades Shafiq"
+      },
+      "emailAddress": "muqades.shafiq@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-12-14T04:53:43.030Z",
+    "updateTime": "2020-12-14T04:54:45.022Z",
+    "publicationTime": "2020-12-14T04:54:44.819Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1KjZqXOkFGot9qp0V5QSirtOKbEMkw5Z2",
+          "title": "argumentative thesis.pptx",
+          "alternateLink": "https://drive.google.com/file/d/1KjZqXOkFGot9qp0V5QSirtOKbEMkw5Z2/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOJc7yEfGxKgCLnCCjOobZx6DKoQr4D4CPXiSVvnh0z_2VqkGlpOq_ANV9d3A2vrYMYle0Mffi6_N3xO0OdqE_xINTTkS99vCtt4JigzX51tHY\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "13U9mWtdk-jtprJRt_mfPcqR-7dMNvc2N",
+          "title": "argumentative thesis.pptx",
+          "alternateLink": "https://drive.google.com/file/d/13U9mWtdk-jtprJRt_mfPcqR-7dMNvc2N/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNobasXAGhgop9FX-HLCpOOcTf16YNmsqguchInnk5LIfQ-y_a-V5R3U0D3Il_5MR2pBI8bg48uwGzIhctJqOvUDXanJNKgFl2-WbjB2vbzMIs\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Argumentative Intro paragraph",
+      "description": "write two intro paragraphs on given topics.",
+      "descriptionHtml": "\u003cdiv\u003ewrite two intro paragraphs on given topics.\u003c/div\u003e",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1zc-X84JnQZ8DJ260pP8dEkkXGGXJaflp6n_OhAQfZlA",
+              "title": "Ammar Ahmed - Argumentative Intro paragraph",
+              "alternateLink": "https://docs.google.com/document/d/1zc-X84JnQZ8DJ260pP8dEkkXGGXJaflp6n_OhAQfZlA/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBPbFZhk-ULROX2E0pKtS2v0Y-b-qDB1ybl6og63CpcGgVYLjCZWpYoibQ3yn3YxSLws6aK-DlwZrZnLYC6PZ2W-d3TRNhQmfU7qghHzk9o2CPp9OuNKfQQN8DHJvOa8uGFgLxo\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ms. Muqades Shafiq"
+      },
+      "emailAddress": "muqades.shafiq@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-12-10T04:45:46.542Z",
+    "updateTime": "2020-12-10T04:47:08.986Z",
+    "publicationTime": "2020-12-10T04:47:08.784Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "cause and effect essay: Effects of online shoping",
+      "description": "pair work: write complete essay on given topic",
+      "descriptionHtml": "\u003cdiv\u003epair work: write complete essay on given topic\u003c/div\u003e",
+      "dueTime": "2020-12-10T05:45:00Z",
+      "maxPoints": 25.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 16.5,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1QB7WZYZZkpZVFh8mAVG_QARPJjC7zTIS8hwY4u2C2BE",
+              "title": "Ammar - Yousuf - cause and effect essay: Effects of online shoping",
+              "alternateLink": "https://docs.google.com/document/d/1QB7WZYZZkpZVFh8mAVG_QARPJjC7zTIS8hwY4u2C2BE/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBPYUzyrKz-0ezQx5WecqF2VB4Mwgboc-yXJT25NR3Iiyk2uW0SxRZhxSQZ2pbdcFstP-WSLaPmCzhWJqrJTxzpDSPkU8XEk3uw_heU7lXl3xnISfZ6O2bN3Mv90m3VNeJ93bMY\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Ms. Muqades Shafiq"
+            },
+            "emailAddress": "muqades.shafiq@lhr.nu.edu.pk"
+          },
+          "creationTime": "2020-12-28T13:31:48.789Z",
+          "updateTime": "2020-12-28T13:31:47.846Z",
+          "comment": "reader\u0027s hook is inappropriate.\nask the questions in the beginning then answer the questions before writing thesis statement.\ncontrolling idea is missing in thesis\nconclusion is also inappropriate.",
+          "commentHtml": "\u003cdiv\u003ereader\u0026#39;s hook is inappropriate.\u003cbr\u003eask the questions in the beginning then answer the questions before writing thesis statement.\u003cbr\u003econtrolling idea is missing in thesis\u003cbr\u003econclusion is also inappropriate.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ms. Muqades Shafiq"
+      },
+      "emailAddress": "muqades.shafiq@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-12-05T05:32:10.626Z",
+    "updateTime": "2020-12-05T05:32:55.303Z",
+    "publicationTime": "2020-12-05T05:32:55.100Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Powerpoint Presentations on Essay",
+      "description": "Guidelines for powerpoint presntations\n1. first slide (topic and the name of presentor)\n2. overview of your presentation\n3. introductory paragraph \n4. first body para\n5. second body para\n6.body para\n7.conclusion\nNote: Five to six Bullet points with phrases only for each slide.\nHeading size \u003d 36-38 (Times New Roman Bold)\nText size \u003d 26-28 (Times New Roman)\nAvoid bringing two sections of essay in one slide (i.e. introduction and first body para)",
+      "descriptionHtml": "\u003cdiv\u003eGuidelines for powerpoint presntations\u003cbr\u003e1. first slide (topic and the name of presentor)\u003cbr\u003e2. overview of your presentation\u003cbr\u003e3. introductory paragraph \u003cbr\u003e4. first body para\u003cbr\u003e5. second body para\u003cbr\u003e6.body para\u003cbr\u003e7.conclusion\u003cbr\u003eNote: Five to six Bullet points with phrases only for each slide.\u003cbr\u003eHeading size \u003d 36-38 (Times New Roman Bold)\u003cbr\u003eText size \u003d 26-28 (Times New Roman)\u003cbr\u003eAvoid bringing two sections of essay in one slide (i.e. introduction and first body para)\u003c/div\u003e",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1xogJQMpQwffmenZcS3O1GCN-0f58om9IyUaOPGOUUPs",
+              "title": "Ammar Ahmed - Powerpoint Presentations on Essay",
+              "alternateLink": "https://docs.google.com/presentation/d/1xogJQMpQwffmenZcS3O1GCN-0f58om9IyUaOPGOUUPs/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBMcyExmpTkjSavoSWt_CIrDTVpq0KB2UJZ0yXbs8aXOWS9q7NYam_FilTajv269rrH5yBbnqMXc2Xyzn-u_JnC9bcgAjdD0kgYllzhSt0yfOAkbIdwLkn3B4jEI2UeQE2xKW9E\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ms. Muqades Shafiq"
+      },
+      "emailAddress": "muqades.shafiq@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-12-05T04:37:19.687Z",
+    "updateTime": "2020-12-05T04:37:32.650Z",
+    "publicationTime": "2020-12-05T04:37:32.445Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Essay writting",
+      "maxPoints": 25.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 20.5,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1KOtDn_sM9hG-g5MOys8F_IioNMJ2pjrNiegqDCFAW8Q",
+              "title": "Ammar Ahmed - Essay writting",
+              "alternateLink": "https://docs.google.com/document/d/1KOtDn_sM9hG-g5MOys8F_IioNMJ2pjrNiegqDCFAW8Q/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBN_U2xSDMIm6AH3YW4co0QjOjwE_fpyt3EVc-lDtx9e4u9Lfqf779er6JctD1eSD0bOQN_ncmMaoG7C2D4RAUm9yxeXYthvTosebBBpV0jtSc7oQ-pDxwuVR49YBmvN_YMVRE4\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ms. Muqades Shafiq"
+      },
+      "emailAddress": "muqades.shafiq@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-12-02T18:57:02.966Z",
+    "updateTime": "2020-12-03T04:51:54.978Z",
+    "publicationTime": "2020-12-03T04:51:54.781Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1cNMUQmva4r2OaI-qfCMJmPA1hi4hyoOJ",
+          "title": "Expository Essay Writing outline and activity.pptx",
+          "alternateLink": "https://drive.google.com/file/d/1cNMUQmva4r2OaI-qfCMJmPA1hi4hyoOJ/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNKhfgSe3CoWM8Ob_9MOLQttuiI37prF3ar6NKwiLozlgBQX7BrjMIkn1xi0weplE-zTUry5S4joEOY6rz2RfxcMRfwWtKFjPPWzS_HXc2wqeQ\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Expository Essay Activity",
+      "maxPoints": 30.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1dGOSfGMBe_cZTcEEHAgymK5v0NYIrzjs0eBRRJBbA4w",
+              "title": "Ammar Ahmed - Expository Essay Activity",
+              "alternateLink": "https://docs.google.com/document/d/1dGOSfGMBe_cZTcEEHAgymK5v0NYIrzjs0eBRRJBbA4w/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBPOGcUWE0OMzUaedgw0Z7rZWqKq5lfVpKp5ylLkXpU7Z_WiMR9Z40FWtPi9kZ0FAgwTNZL6r8v9brrHxUbTNWi2y0ytjPj4rDZ3kZClHaPI_Mx8RuOTxG8zdoWx8nzMAUUZD6E\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ms. Muqades Shafiq"
+      },
+      "emailAddress": "muqades.shafiq@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-11-27T20:00:42.222Z",
+    "updateTime": "2020-11-28T05:15:31.479Z",
+    "publicationTime": "2020-11-28T05:14:31.632Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Write an application to your  Lab Instructor requesting him/her to Extend the Date of Assignment.",
+      "description": "write an application on google docs on the given topic.",
+      "descriptionHtml": "\u003cdiv\u003ewrite an application on google docs on the given topic.\u003c/div\u003e",
+      "maxPoints": 15.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1wXnnwN_TwOCNKGS9YWDM_6-ck5h4jlVLjwBnCejV7LI",
+              "title": "Ammar Ahmed - Write an application to your  Lab Instructor requesting him/her to Extend the Date of Assignment.",
+              "alternateLink": "https://docs.google.com/document/d/1wXnnwN_TwOCNKGS9YWDM_6-ck5h4jlVLjwBnCejV7LI/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNzWrkD_-5KqCnNRoDCBzAoA6ltcZgFZbjYu14hb23YLHZEt37d6MLgFmK0FcBdm6K3GyeNDa1OBjug4jf63dZdRrGUIAirhqRWmbAYQoOMiobeu8KncO4u6LVJTvLcBokFUuI\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ms. Muqades Shafiq"
+      },
+      "emailAddress": "muqades.shafiq@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-11-28T04:39:08.777Z",
+    "updateTime": "2020-11-28T04:39:36.790Z",
+    "publicationTime": "2020-11-28T04:39:36.589Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "18mXVLlC6vBhfnLOaizCbI9xdlPtkDRf8",
+          "title": "WritingThesisStatements worksheet.docx",
+          "alternateLink": "https://drive.google.com/file/d/18mXVLlC6vBhfnLOaizCbI9xdlPtkDRf8/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPLEAejcyF--dsh9l6Bp0whqnNHW4DnKqq0zKZr-njEwsX1sVUpnSPVoEZi8e0dT8N_LGx-f0eTHKFNy4H2NOwL1ZDLQg4FBk4W2HcgS5upSV0\u003ds200"
+        },
+        "shareMode": "EDIT"
+      }
+    }],
+    "courseWork": {
+      "title": "Thesis Statement worksheet",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ms. Muqades Shafiq"
+      },
+      "emailAddress": "muqades.shafiq@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-11-26T04:36:44.338Z",
+    "updateTime": "2020-11-26T04:36:51.479Z",
+    "publicationTime": "2020-11-26T04:36:51.281Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Write an application about semester freeze to Manager  Acdemics Mr.Saifullah.",
+      "maxPoints": 15.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 9.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "18EPMiDn7IWf2pLPF0UCcybRlB8bktD8kx8IaIqfJVrY",
+              "title": "Ammar Ahmed - Write an application about semester freeze to Manager  Academics Mr.Saifullah.",
+              "alternateLink": "https://docs.google.com/document/d/18EPMiDn7IWf2pLPF0UCcybRlB8bktD8kx8IaIqfJVrY/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBOcHvdVd_Ggv_DJCBWe_fj2AspomwJJ2PKxD1NJiSj08HQW6czcRINi49Optm6KofbUtS1fuIuXDEg6K6oB_xqiRkgQD4cFkFlYd6-Is5Wpz8eOpoUxO4vZkImFNAH9fU3PBp4\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ms. Muqades Shafiq"
+      },
+      "emailAddress": "muqades.shafiq@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-11-23T03:53:37.478Z",
+    "updateTime": "2020-11-23T03:54:11.264Z",
+    "publicationTime": "2020-11-23T03:54:11.063Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Write an application to request Manager Academics (Mr. Saifullah) for re-registering course which you have mistakenly dropped ",
+      "description": "send the picture with feedback and marks under this post.",
+      "descriptionHtml": "\u003cdiv\u003esend the picture with feedback and marks under this post.\u003c/div\u003e",
+      "maxPoints": 15.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 9.5,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1PvyqLWsq6L3xSxES0wgRAuzvmPPvyQDD",
+              "title": "Write an application to request Manager Academics (Mr. Saifullah) for re-registering course which you have mistakenly dropped  (Nov 23, 2020 1:27:41 PM).jpeg",
+              "alternateLink": "https://drive.google.com/file/d/1PvyqLWsq6L3xSxES0wgRAuzvmPPvyQDD/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPANhh4ly4XKbEo6i0smUigtA9BZWokvMPVO0efBGvoFQk3ahPGXnUm9hSNtcMBG9LQZ83Gd447tHPS38ZnP-MSIfwBdj0LgtYYhdgWGqSjmCo\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1ewu3IURYXXHJdQ3r6QokRdv4T2uUt8OM",
+              "title": "Write an application to request Manager Academics (Mr. Saifullah) for re-registering course which you have mistakenly dropped  (Nov 23, 2020 1:29:19 PM).jpeg",
+              "alternateLink": "https://drive.google.com/file/d/1ewu3IURYXXHJdQ3r6QokRdv4T2uUt8OM/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBML-vb2L28moFeR9Yug25vSvM7HiOymc5k-uw3P_ZZVY6klL1BljGTzTaQeUxVm3CPGXP1Ch1tdEV5h6hri3-CulhnJNvCvQN2XnezKMR75Eic\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ms. Muqades Shafiq"
+      },
+      "emailAddress": "muqades.shafiq@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-11-23T03:52:38.259Z",
+    "updateTime": "2020-11-23T03:53:07.347Z",
+    "publicationTime": "2020-11-23T03:53:07.149Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Write an email to your English lab instructor requesting him to provide further practice material for some specific content",
+      "description": "if it is unmarked send me the picture under this post.",
+      "descriptionHtml": "\u003cdiv\u003eif it is unmarked send me the picture under this post.\u003c/div\u003e",
+      "maxPoints": 15.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 9.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1lhtAHcREVuAy1tJSDVEWE3sst_UXSofU",
+              "title": "Screenshot_20201123-141145~2.png",
+              "alternateLink": "https://drive.google.com/file/d/1lhtAHcREVuAy1tJSDVEWE3sst_UXSofU/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMcsGZJKDjvszVzcT0xTzEAdhxvCJG7Bi9zLaLR4hV9rKlAgeH4etsZ5NYuhDZvPUB7DKUHzhFojzCQiICQoOgRAwMXaTsOTE2ef_eyy2raHUM\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ms. Muqades Shafiq"
+      },
+      "emailAddress": "muqades.shafiq@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-11-23T03:51:29.099Z",
+    "updateTime": "2020-11-23T03:52:10.857Z",
+    "publicationTime": "2020-11-23T03:52:10.660Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Write an email to Director Mr. Hamid Hassan for holding an academic event in the university",
+      "description": "send the picture of your email with my feedback and marks under this post",
+      "descriptionHtml": "\u003cdiv\u003esend the picture of your email with my feedback and marks under this post\u003c/div\u003e",
+      "maxPoints": 15.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 8.25,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1vRnnmsuJQZV3AohpbaOBOBoad9qtK0w5",
+              "title": "Write an email to Director Mr. Hamid Hassan for holding an academic event in the university (Nov 23, 2020 1:24:03 PM).jpeg",
+              "alternateLink": "https://drive.google.com/file/d/1vRnnmsuJQZV3AohpbaOBOBoad9qtK0w5/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPCF4e1W9PfZ1HXp1QL7RbFETAlak7Vk9fT2Sg1ZKg3111MtVZiuX6ZWrUsj0d0hRoD7rqZKyG9ib2rj5A8lY9xtjJySUKuLSooZhbZp6Gyhwo\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ms. Muqades Shafiq"
+      },
+      "emailAddress": "muqades.shafiq@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-11-21T14:10:08.885Z",
+    "updateTime": "2020-11-23T03:05:33.528Z",
+    "publicationTime": "2020-11-21T14:11:17.892Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1Cgh37LA9F2WybbPlMqsEPe__CXvkIn0O",
+          "title": "types of paragraphs.pptx",
+          "alternateLink": "https://drive.google.com/file/d/1Cgh37LA9F2WybbPlMqsEPe__CXvkIn0O/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN_J5f472MeIOmVxOhIaTJpFu-4XqWU5flFLoIuLS1sez6IiqI7tNbVVX1sfi2-nbPK9k_ta9kBPwUlEPMsYUXauDMfm0g5E5xCg5NV-iR4XVE\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "paragraph: Space X Plan",
+      "description": "if it is unchecked, paste the picture under this post till tonight",
+      "descriptionHtml": "\u003cdiv\u003eif it is unchecked, paste the picture under this post till tonight\u003c/div\u003e",
+      "maxPoints": 15.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 0.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2020-11-23T09:04:32.963Z",
+          "updateTime": "2020-11-23T09:04:32.845Z",
+          "comment": "Miss please check my essay...my essay is with you.\nIt\u0027s here ungraded",
+          "commentHtml": "\u003cdiv\u003eMiss please check my essay...my essay is with you.\u003cbr\u003eIt\u0026#39;s here ungraded\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Ms. Muqades Shafiq"
+            },
+            "emailAddress": "muqades.shafiq@lhr.nu.edu.pk"
+          },
+          "creationTime": "2020-11-23T10:40:06.487Z",
+          "updateTime": "2020-11-23T10:40:06.174Z",
+          "comment": "whic essay??",
+          "commentHtml": "\u003cdiv\u003ewhic essay??\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2020-11-23T11:22:24.764Z",
+          "updateTime": "2020-11-23T11:22:24.643Z",
+          "comment": "This one",
+          "commentHtml": "\u003cdiv\u003eThis one\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ms. Muqades Shafiq"
+      },
+      "emailAddress": "muqades.shafiq@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-11-21T14:08:29.457Z",
+    "updateTime": "2020-11-21T14:09:36.677Z",
+    "publicationTime": "2020-11-21T14:09:36.474Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "paragraph: Describe things you like about pakistan",
+      "description": "post the picture of your paragraph under this post till tonight.",
+      "descriptionHtml": "\u003cdiv\u003epost the picture of your paragraph under this post till tonight.\u003c/div\u003e",
+      "maxPoints": 15.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1kMBd2LkpIhS0DTxxJW5kj28rR-Csc_a8",
+              "title": "paragraph: Describe things you like about pakistan (Nov 21, 2020 11:34:29 PM).jpeg",
+              "alternateLink": "https://drive.google.com/file/d/1kMBd2LkpIhS0DTxxJW5kj28rR-Csc_a8/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNoGKySpfFtxaYP5pF7-JK1c6U5Gwljz4fTT7n2y6DY4kMkjEGTdHgtaU4ljSjZhSripZtnq2Yt6RDAXgQc_GUcu7GyHxcEc2hObDrQjFChbwA\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ms. Muqades Shafiq"
+      },
+      "emailAddress": "muqades.shafiq@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-11-21T04:33:04.383Z",
+    "updateTime": "2020-11-21T04:34:26.912Z",
+    "publicationTime": "2020-11-21T04:34:26.705Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Expository Essay",
+      "description": "Pair work: write expository essay by using facct as a reader\u0027s hook.",
+      "descriptionHtml": "\u003cdiv\u003ePair work: write expository essay by using facct as a reader\u0026#39;s hook.\u003c/div\u003e",
+      "maxPoints": 25.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 11.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "138HX1w2Geg-wxG5YtNg9z0usBwRVIaBqtrmVczAW99Q",
+              "title": "Ammar and Yousuf - Expository Essay",
+              "alternateLink": "https://docs.google.com/document/d/138HX1w2Geg-wxG5YtNg9z0usBwRVIaBqtrmVczAW99Q/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBOZyRODVENfZ5q9pOrLOwXS_4NL9cyupNE4ylIorYZ9e0hCAw0tw05KehLVhoU88o91WPP9WRO_s8c-bK7Q_79_hkLgxZoAruB37DZeIOpiSOMRM2fMoCQKSq3F_2Bf7JrOcPg\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ms. Muqades Shafiq"
+      },
+      "emailAddress": "muqades.shafiq@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-11-18T20:25:47.483Z",
+    "updateTime": "2020-11-19T05:09:42.261Z",
+    "publicationTime": "2020-11-19T05:09:42.055Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1mNWwSWPFXTvZBB1eMRkSExlGW4zSvUDQ",
+          "title": "intro para.pptx",
+          "alternateLink": "https://drive.google.com/file/d/1mNWwSWPFXTvZBB1eMRkSExlGW4zSvUDQ/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNSGG9iBtNorIvgJbjdv3m4a6fKUKkpUJ0bmEJYxhT69SEaF6Bs0Ezfa0JRP3B6sbQhseyPkXOqpD9jTIjzpTWNm8_pL7uuH0adJrAS2nPe91U\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "introductory paragraph",
+      "description": "Pair work:write three introductory paragraphs with three readers hooks.",
+      "descriptionHtml": "\u003cdiv\u003ePair work:write three introductory paragraphs with three readers hooks.\u003c/div\u003e",
+      "maxPoints": 30.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 19.5,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "10iN2R8SjlwWObr7MTmBA1ESJ50oJbOdDOdPzXNxbYCE",
+              "title": "Ammar and Yousuf - introductory paragraph",
+              "alternateLink": "https://docs.google.com/document/d/10iN2R8SjlwWObr7MTmBA1ESJ50oJbOdDOdPzXNxbYCE/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBPoRNFDa4sJgT_2oJL5ooS1NqcjPRNOKEuYEoyr9GTuVewH0lVK_lfttII12b9JZh2k9rwSRll3xHbFjB23XMDZDSH4c5hQ9bfKpUqoDRNihxu6BKAPUHBk3gS7-v2oNCtc0P8\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ms. Muqades Shafiq"
+      },
+      "emailAddress": "muqades.shafiq@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-11-18T20:25:01.264Z",
+    "updateTime": "2020-11-19T04:42:54.201Z",
+    "publicationTime": "2020-11-19T04:42:54.004Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1AhVEIHMIbqANbs-sRHXvkx1Uamz___UK",
+          "title": "para 3.pptx",
+          "alternateLink": "https://drive.google.com/file/d/1AhVEIHMIbqANbs-sRHXvkx1Uamz___UK/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOLUEmXom8SqZYBqr6XyqAqH_SzwJEeBhDR4bfymi-wh9Aul5MkYinC48-kgv4Esikj0Yu9BWYRVupQDYfKsLK8RlddwKUcrpEDLURZFGshKls\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "paraphrasing",
+      "maxPoints": 18.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 11.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1VRx0tPBOuotBOGrhKZKsvxg2IujjEkhfLfwI-DI_1zw",
+              "title": "Ammar Ahmed - paraphrasing",
+              "alternateLink": "https://docs.google.com/document/d/1VRx0tPBOuotBOGrhKZKsvxg2IujjEkhfLfwI-DI_1zw/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNXP_puScqUZaXXNbp7sd1ZVvSvGFuOKEFAXcur6uTkBi30Rqf1w_Vp8VqMrmpBKDdSIA66cLEZWDxWkN9cj4mmfdFAA_DgDtBZYUGmyiZ69IfyGwRJ7U2HUamgUPAxpcV_aMM\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ms. Muqades Shafiq"
+      },
+      "emailAddress": "muqades.shafiq@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-11-15T08:37:03.295Z",
+    "updateTime": "2020-11-15T08:37:45.173Z",
+    "publicationTime": "2020-11-15T08:37:44.940Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Critical Analysis: Chair for Granted",
+      "description": "send the critical analysis under this post",
+      "descriptionHtml": "\u003cdiv\u003esend the critical analysis under this post\u003c/div\u003e",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RECLAIMED_BY_STUDENT",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "13QYrP01eHzABR5VrM6aqCKTwA0QkkXwdAjF6gc9cbFM",
+              "title": "Ammar \u0026 Yousuf - Critical Analysis: Chair for Granted",
+              "alternateLink": "https://docs.google.com/document/d/13QYrP01eHzABR5VrM6aqCKTwA0QkkXwdAjF6gc9cbFM/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBMoDUdoewAvbqiQ1Odo3zI7Jo3A7_rPKcjJQFfjOsMrXZGTHp3fW-4Y7rfP-TihgSZe2rq9Tmi7JOxs3P6FHvlWtsqawGADlph-pjtmv2YYq6g_w0RVG7VQmmgvnuMyoRlV54w\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "12Dpyg4HS_HEBGsDlnE-HywVg6otWEC4Y",
+              "title": "Class Activity# 1.pdf",
+              "alternateLink": "https://drive.google.com/file/d/12Dpyg4HS_HEBGsDlnE-HywVg6otWEC4Y/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPGc05DwpVNk47IhPzH_ezC2FbesLvyz8Zy1PInxvAANx1z3ax-mWNxn0s6bOBM_siAG860Q_Y775g8SilaDeVgD9rdAF1kgWZm09RxxR73tqw\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Ms. Muqades Shafiq"
+            },
+            "emailAddress": "muqades.shafiq@lhr.nu.edu.pk"
+          },
+          "creationTime": "2020-11-23T09:27:55.584Z",
+          "updateTime": "2020-11-23T09:27:55.243Z",
+          "comment": "see the changes in google docs",
+          "commentHtml": "\u003cdiv\u003esee the changes in google docs\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2020-11-23T09:39:49.029Z",
+          "updateTime": "2020-11-23T09:39:48.912Z",
+          "comment": "ok ma\u0027am",
+          "commentHtml": "\u003cdiv\u003eok ma\u0026#39;am\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ms. Muqades Shafiq"
+      },
+      "emailAddress": "muqades.shafiq@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-10-29T03:55:31.691Z",
+    "updateTime": "2020-11-12T05:00:55.131Z",
+    "publicationTime": "2020-11-12T05:00:54.909Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1e34pNuqDJiqv-I3gZ5D2WZsUyjwNswfjf2ZkvZhzQ9k",
+          "title": "Comma Practice",
+          "alternateLink": "https://docs.google.com/presentation/d/1e34pNuqDJiqv-I3gZ5D2WZsUyjwNswfjf2ZkvZhzQ9k/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNMc0Rz_UDBStuMaH3qh7QxGcaveYBlEqeLEttL6n73qoTLKdAmb5FldKdFpan7AowhVFgh2RoWwOLPmWJFH16-bfRoFI2-qeQLtoUPTRZi72yoEJD7NAmkLKj7H2zbE9pA1iw\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "comma practice",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ms. Muqades Shafiq"
+      },
+      "emailAddress": "muqades.shafiq@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-11-06T18:50:19.810Z",
+    "updateTime": "2020-11-07T02:45:45.179Z",
+    "publicationTime": "2020-11-07T02:45:44.895Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1My5iifiVvX2z6Kcd6BZRrneBGPQp9AiT",
+          "title": "4compound.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1My5iifiVvX2z6Kcd6BZRrneBGPQp9AiT/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN-I2BJHodr_VAnAsQU1WFNJ3fNfA_8JrMJRU2COtU2nxGzIW82NPVCb57madxEGJln3VFWh92ewR3t-DBgYQABaclGNkqT4vAFjEEBIqhq-Q\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1IalQ98fpcFsGaJnMc7D3S-M81LYFQQsQ",
+          "title": "Sentence Types.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1IalQ98fpcFsGaJnMc7D3S-M81LYFQQsQ/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBO34RFjSw23yEmk4oqBAmwKxCscl1mTt6UAqKE_OpZgzSLeKpRwdSs5NGUT-qNiDWluEBV7uUjccT-kMAqRhF1qFxXbmrqVj340Zv_O0f7plw\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "sentence structure",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1kN73v233th3kCyeSg7PyfNPc2XfIjWktPX8AdtE2Rsw",
+              "title": "sentence structure  \u0026 compound Ammar Ahmed",
+              "alternateLink": "https://docs.google.com/document/d/1kN73v233th3kCyeSg7PyfNPc2XfIjWktPX8AdtE2Rsw/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBO1tr3krF6IX2FHrjKA2z2dYOICSpGL4YWyDFRt2YYvxkKSEq7_P11o26gxsKtl0qyM931YCy0JfLTyWorMJUt7rPORdXCQGNibnAlKafEMQRKFBUFeKBxhH21RVaJfET1rexs\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ms. Muqades Shafiq"
+      },
+      "emailAddress": "muqades.shafiq@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-11-05T04:51:59.993Z",
+    "updateTime": "2020-11-05T04:52:03.803Z",
+    "publicationTime": "2020-11-05T04:52:03.607Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "14Dv6PDCvhgj7UbXopmcHWtdSfzLQV75R",
+          "title": "Critical Analysis Rubric 20.docx",
+          "alternateLink": "https://drive.google.com/file/d/14Dv6PDCvhgj7UbXopmcHWtdSfzLQV75R/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNmlnbuXxok48xjomQg66k2dApfufishVHF-8ndTurgIQCLINFrRI7rFeKs6DcDa0As_6sfucHlN6owSixMfnSAiX2Q3oXZmIGTz7gS4cxeXg\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1n6R_YEDk2n_Hat3gBleLDoov_AH01piE",
+          "title": "Depression Article.docx",
+          "alternateLink": "https://drive.google.com/file/d/1n6R_YEDk2n_Hat3gBleLDoov_AH01piE/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOu77I8l2_dFJwpv0xKoxBWVbJGnPhPlpyFa7T3gC7kfrg4CQLIt8zfv_9lkC5xcCKhSA8cR7C8IsMZAsm8VsbjA5sveDqSzaK7l8vQIZ8nUA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1utbkpS4ydJUnsv0PyLANLp3PYHCzHPiE",
+          "title": "Guidelines for Powerpoint Presentation.pptx",
+          "alternateLink": "https://drive.google.com/file/d/1utbkpS4ydJUnsv0PyLANLp3PYHCzHPiE/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNqnC-LGgs5r7zStYkVbyCze31FmEA_cl4XA3M1hfUoRE_QDi6SmReRRHftS34uIhmXsmNcnuU3NlOOIjl-HFI65-UccERek90ovcOgP0_LNg\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "critical analysis",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ms. Muqades Shafiq"
+      },
+      "emailAddress": "muqades.shafiq@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-10-31T03:37:42.154Z",
+    "updateTime": "2020-10-31T04:49:18.715Z",
+    "publicationTime": "2020-10-31T04:49:18.515Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1lPLREDRBQDwLkJ_Sv7pDdhZtRL0GOZLQ",
+          "title": "Paragraph Writng comapre and contrast.pptx",
+          "alternateLink": "https://drive.google.com/file/d/1lPLREDRBQDwLkJ_Sv7pDdhZtRL0GOZLQ/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBO7w9PKocG3b7UD6jdTB2qGlyholauzVPg0v6gnFnQkrXQsYks4jSQ8zMqn2UXXKURhKBb4aTxcTQGCTdUTZzLXlZqiOCUgy-Np3KPvK60T5w\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "compare and contrast paragraph",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ms. Muqades Shafiq"
+      },
+      "emailAddress": "muqades.shafiq@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-10-31T03:35:39.370Z",
+    "updateTime": "2020-10-31T04:48:23.466Z",
+    "publicationTime": "2020-10-31T04:48:23.268Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1V94jQ2wK_i3YjDhR8s3v1jGWEGb9sK1x",
+          "title": "Pattern of Organization and clue words.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1V94jQ2wK_i3YjDhR8s3v1jGWEGb9sK1x/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMQ41H7QhaVPRa8vjMED2t4pKMkJ4sa5gwx9UP7PoqB5hrj-4mfCn8NJ-3WriMo8k1Pq9wSPZOmdJGutkxKKa1dmKytAomAROOcwr86kRT2qQ\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "transition words/clue words",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ms. Muqades Shafiq"
+      },
+      "emailAddress": "muqades.shafiq@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-10-28T19:57:54.635Z",
+    "updateTime": "2020-10-29T05:18:21.946Z",
+    "publicationTime": "2020-10-29T05:18:21.748Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfK6Xs4gQcqrdChOUhwmtYKmPC_OQrvKB1QTXSwDJapXOCflQ/viewform?hr_submission\u003dChkI0qDAq50EEhAIxYKfseoFEgcIhJHql_UEEAE",
+        "title": "Implied Main Idea, Pattern of organization,Tone and Author’s Style",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/PcyiAsG0GVSD5LggDpqfOQ6hvi_kIGzA6w3LxF2mK0wx0NLZ3Zig2soCm8wh3e-34yxvUyWwy1s8Zog\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Implied, pattern of organization and tone",
+      "dueTime": "2020-10-29T05:45:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ms. Muqades Shafiq"
+      },
+      "emailAddress": "muqades.shafiq@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-10-28T19:56:19.260Z",
+    "updateTime": "2020-10-29T05:02:31.347Z",
+    "publicationTime": "2020-10-29T05:02:31.149Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc45VnukJl1PxeJw29925sl8DsCPQr09myO_JGz-Pbs6i3lmw/viewform?hr_submission\u003dChkI0qDAq50EEhAIhIKfseoFEgcIhJHql_UEEAE",
+        "title": "Stated main idea, Tone and Types of writing",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/N5ZdzB9JvulGVT2D_zxtIAsIbddK5DWHtbSF1uMzeRs6AcKyd-OIHSnrgkjLmSYB19VUGBKHQR8djwU\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Stated main idea,tone , types of writing",
+      "dueTime": "2020-10-29T05:15:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ms. Muqades Shafiq"
+      },
+      "emailAddress": "muqades.shafiq@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-10-07T18:17:02.806Z",
+    "updateTime": "2020-10-08T04:51:47.111Z",
+    "publicationTime": "2020-10-08T04:51:46.929Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSceHUmNeN9ogu2slfcpi3dCg18sL8YzDfgHneL87Og4bBbr0w/viewform?hr_submission\u003dChkI0qDAq50EEhAItcbkma8EEgcIhJHql_UEEAE",
+        "title": "Implied Main Idea,Tone and Pattern",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/zuDFEedHxQQKkxMdBdYAhjaaoSeK5IxLkl9Z4FxQ59txwFvpU0dfVj6geYg-DJGe8jQ3IJDQvBioWCM\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Implied Main Idea,Tone and Pattern",
+      "description": "Read the instruction carefully and then answers the questions.",
+      "descriptionHtml": "\u003cdiv\u003eRead the instruction carefully and then answers the questions.\u003c/div\u003e",
+      "dueTime": "2020-10-08T04:20:00Z",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ms. Muqades Shafiq"
+      },
+      "emailAddress": "muqades.shafiq@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-09-30T14:28:09.912Z",
+    "updateTime": "2020-12-29T16:17:48.620Z",
+    "publicationTime": "2020-10-01T04:55:00.402Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc3gC83CXBEs_cQwDUu2ewQFBrG3ttjA-ld7OG1UwHL1952Uw/viewform?hr_submission\u003dChkI0qDAq50EEhAI9f6fxaMEEgcIhJHql_UEEAE",
+        "title": "Worksheet-1Stated Main Idea, Supporting Details and Author’s Purpose",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/JdbzKb0ccERLuJ5ZRzSYF1qOFC9AEea-CiPHYiuee5L9ebQoass1FurYO2c7kTJ1amt8yiufBUgUG1k\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Worksheet-1Stated Main Idea, Supporting Details and Author’s Purpose\n",
+      "description": "Directions: Read the paragraphs carefully and answer the correct option",
+      "descriptionHtml": "\u003cdiv\u003eDirections: Read the paragraphs carefully and answer the correct option\u003c/div\u003e",
+      "dueTime": "2020-10-01T05:25:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }]
+}
