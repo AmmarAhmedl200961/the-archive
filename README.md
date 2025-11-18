@@ -10,6 +10,8 @@ The goal is to:
 
 This is **not** an official course mirror and has no affiliation with the university or any instructor.
 
+> **Note:** This is a WIP archive. expect it to be incomplete or being worked on as of now! You can however, still explore through it
+
 ---
 
 ## What’s Included
@@ -22,6 +24,7 @@ I’ve tried to include **every resource I actually used**, including (but not l
 - Lab sheets, lab code, datasets, and supporting files  
 - Google Classroom exports and Google Drive materials  
 - Any extra materials that helped me understand the content
+- ✨ My tips and tricks that helped me stay ahead of the competetion
 
 If I used it to study, revise, or practice, I tried to **put it in here**.
 
@@ -35,16 +38,15 @@ The structure is designed for **reachability**, so you can quickly get to what y
 
 A typical layout looks like:
 
-- `Semester X/`
-  - `Course - Course Name/`
-    - `00 - Info/`  
-      - syllabus, grading policies, general course info, exports (e.g. Classroom snapshots)
-    - `01 - Lectures/`
-    - `02 - Labs/`
-    - `03 - Quizzes/`
-    - `04 - Midterms/`
-    - `05 - Final/`
-    - `99 - Misc/`
+- `Course - Course Name/`
+	- `00 - Info/`  
+		- syllabus, grading policies, general course info, exports (e.g. Classroom snapshots)
+- `01 - Lectures/`
+- `02 - Labs/`
+- `03 - Quizzes/`
+- `04 - Midterms/`
+- `05 - Final/`
+- `99 - Misc/`
 
 Inside those, individual events often get their own folder, for example:
 
