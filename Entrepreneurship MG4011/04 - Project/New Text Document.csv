@@ -1,0 +1,10 @@
+Opening Inventory/Stock,,,,,Purchases Inventory/Stock In,,,,,Sales Inventory/Stock Out,,,,,Current Status of Inventory/Stock,,,,
+# ,Item Code,Item Name,Price/unit,Units,Total Inventory Value,,# ,Date,Item Code,Item Name,Price/unit,Units,Total Inventory Value,,# ,Date,Item Code,Item Name,Price/unit,Units,Total Inventory Value,,# ,Item Code,Item Name,Price/unit,Opening Inventory,Purchases,Sales,Closing Inventory,Total Inventory Value
+1,SL001,React Native License,5000,10,50000,,1,45139,SL005,Cloud Credits,1000,20,20000,,1,45139,SL005,Cloud Credits,1000,5,5000,,1,SL001,React Native License,5000,10,0,0,10,50000
+2,SL002,Firebase License,3000,15,45000,,2,45140,SL006,App Template A,2000,10,20000,,2,45141,SL003,Node.js License,2000,3,6000,,2,SL002,Firebase License,3000,15,0,0,15,45000
+3,SL003,Node.js License,2000,20,40000,,3,45141,SL007,App Template B,2000,5,10000,,3,45142,SL006,App Template A,2000,2,4000,,3,SL003,Node.js License,2000,20,0,3,17,34000
+4,SL004,UI/UX Toolkit,1500,25,37500,,4,45142,SL005,Cloud Credits,1000,15,15000,,4,45143,SL005,Cloud Credits,1000,5,5000,,4,SL004,UI/UX Toolkit,1500,25,0,0,25,37500
+5,SL005,Cloud Credits,1000,30,30000,,5,45143,SL006,App Template A,2000,5,10000,,5,45144,SL006,App Template A,2000,3,6000,,5,SL005,Cloud Credits,1000,30,50,15,65,65000
+6,SL006,App Template A,2000,10,20000,,6,45144,SL007,App Template B,2000,5,10000,,6,45145,SL007,App Template B,2000,2,4000,,6,SL006,App Template A,2000,10,20,7,23,46000
+7,SL007,App Template B,2000,5,10000,,,,0,,,,0,,,,0,,7,SL007,App Template B,2000,5,10,4,11,22000
+,,,,165,232500,,,,,,,0,,,,,,,0,,,,,,,181,347500
