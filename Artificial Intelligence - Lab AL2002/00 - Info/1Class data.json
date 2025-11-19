@@ -1,0 +1,638 @@
+{
+  "version": 1,
+  "name": "Artificial Intelligence LAB",
+  "section": "7B",
+  "room": "LAB CS-1",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom057d845c@group.calendar.google.com",
+  "courseFolder": {
+    "id": "1mZTEPl53Nfs57D-kvBjmPszOUS23kbCjNTZnzKkPIQEv3JB02S2Y2Ex_M1jwRbhsUto624RM",
+    "name": "Artificial Intelligence LAB 7B",
+    "openUrl": "https://drive.google.com/drive/folders/1mZTEPl53Nfs57D-kvBjmPszOUS23kbCjNTZnzKkPIQEv3JB02S2Y2Ex_M1jwRbhsUto624RM"
+  },
+  "subject": "Artificial Intelligence",
+  "courseState": "ACTIVE",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Syed Mujtaba Hassan Rizvi"
+      },
+      "emailAddress": "mujtaba.hassan@lhr.nu.edu.pk"
+    },
+    "creationTime": "2023-12-14T12:39:53.645Z",
+    "updateTime": "2023-12-14T14:56:58.805Z",
+    "publicationTime": "2023-12-14T12:40:29.648Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "KNN and K-Means",
+      "dueTime": "2023-12-14T07:00:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1OLHbLSpRazjPsb2tNz89_-UcgmnxazI7",
+              "title": "l11.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1OLHbLSpRazjPsb2tNz89_-UcgmnxazI7/view?usp\u003ddrive_web"
+            }
+          }, {
+            "driveFile": {
+              "id": "1KFB7JeC1CGtQrbEUlycqGRa1V4AFh43U",
+              "title": "column_2C_weka.csv",
+              "alternateLink": "https://drive.google.com/file/d/1KFB7JeC1CGtQrbEUlycqGRa1V4AFh43U/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Syed Mujtaba Hassan Rizvi"
+      },
+      "emailAddress": "mujtaba.hassan@lhr.nu.edu.pk"
+    },
+    "creationTime": "2023-12-07T13:44:41.763Z",
+    "updateTime": "2023-12-07T13:44:46.118Z",
+    "publicationTime": "2023-12-07T13:44:45.986Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Ann Scratch",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1OIUwnXHnJSTplxbzwMDh9mtw1n5tt8uf",
+              "title": "l10.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1OIUwnXHnJSTplxbzwMDh9mtw1n5tt8uf/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Syed Mujtaba Hassan Rizvi"
+      },
+      "emailAddress": "mujtaba.hassan@lhr.nu.edu.pk"
+    },
+    "creationTime": "2023-11-23T13:09:15.225Z",
+    "updateTime": "2023-11-23T13:09:17.769Z",
+    "publicationTime": "2023-11-23T13:09:17.614Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "ANN",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "15EAhrOKLeK3xDh8GCQeSxkgEM6iLe3Dr",
+              "title": "model.png",
+              "alternateLink": "https://drive.google.com/file/d/15EAhrOKLeK3xDh8GCQeSxkgEM6iLe3Dr/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMJrxgyg7_Y_xO92E6lB-l6G8HRcA49x8sZlgpMeFlL7m7NaE0quWdPLUvrEVR67X78O6KWfsJFlmxtqBkHKUEiKozBu2A9sVNo2151UybiIb0\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1GXcjHZjAjvCPiLUNHqlamZmNe-p12Mkb",
+              "title": "AI_ANN_Lab.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1GXcjHZjAjvCPiLUNHqlamZmNe-p12Mkb/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Syed Mujtaba Hassan Rizvi"
+      },
+      "emailAddress": "mujtaba.hassan@lhr.nu.edu.pk"
+    },
+    "creationTime": "2023-11-04T04:17:41.527Z",
+    "updateTime": "2023-11-18T05:44:08.374Z",
+    "publicationTime": "2023-11-04T04:17:45.632Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "LAB Regression",
+      "dueTime": "2023-11-19T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1F22g3XqdGDPwxRMspjS8NDlIoiMPl0Lg",
+              "title": "Regression.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1F22g3XqdGDPwxRMspjS8NDlIoiMPl0Lg/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Syed Mujtaba Hassan Rizvi"
+      },
+      "emailAddress": "mujtaba.hassan@lhr.nu.edu.pk"
+    },
+    "creationTime": "2023-11-02T12:39:55.010Z",
+    "updateTime": "2023-11-02T12:40:23.338Z",
+    "publicationTime": "2023-11-02T12:40:23.282Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Assignment 2",
+      "description": "Enroll in the following course with your fast ID. Submit your completion certificate . The certificate should have your full name on it.\n\n\nhttps://cognitiveclass.ai/courses/course-v1:CognitiveClass+DA0101EN+v2",
+      "descriptionHtml": "\u003cdiv\u003eEnroll in the following course with your fast ID. Submit your completion certificate . The certificate should have your full name on it.\u003cbr\u003e\u003cbr\u003e\u003cbr\u003ehttps://cognitiveclass.ai/courses/course-v1:CognitiveClass+DA0101EN+v2\u003c/div\u003e",
+      "dueTime": "2023-11-18T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1RnkZlVaYzePa0RokALo76PKYyzpFzFR3",
+              "title": "IBM DA0101EN Certificate Cognitive Class.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1RnkZlVaYzePa0RokALo76PKYyzpFzFR3/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNTy4dglGnwRP1iu_UazOOkoz6nmEDSA7fzLQmZqe_If4HUgdVPeyCUdO1vZqdYRX2QAkA3ujDtgZJkf86AehAraN7aeY8QZQon8EB89FSdrHk\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Syed Mujtaba Hassan Rizvi"
+      },
+      "emailAddress": "mujtaba.hassan@lhr.nu.edu.pk"
+    },
+    "creationTime": "2023-10-28T04:51:24.018Z",
+    "updateTime": "2023-10-28T06:58:25.556Z",
+    "publicationTime": "2023-10-28T04:51:43.713Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Mid exam",
+      "dueTime": "2023-10-28T06:55:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1wxtPjZNJfgT32eBHk025DtcZ4AmGoZF7",
+              "title": "a.PNG",
+              "alternateLink": "https://drive.google.com/file/d/1wxtPjZNJfgT32eBHk025DtcZ4AmGoZF7/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMTKYoVWWi4rjccePWOPTOl9ypzp_N5kg2cJxMHeG0WU7b3t9SB6R3k7APbsLOAehZWSUgitm6hf9DrQ8wSmF-xBYM2fhQuKZgh-h47wKAyoQ\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1uB_DwA1XQNYkMrFLarL_7aPxy72I7UGv",
+              "title": "20L-0961 .ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1uB_DwA1XQNYkMrFLarL_7aPxy72I7UGv/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Syed Mujtaba Hassan Rizvi"
+      },
+      "emailAddress": "mujtaba.hassan@lhr.nu.edu.pk"
+    },
+    "creationTime": "2023-10-21T04:05:35.190Z",
+    "updateTime": "2023-10-21T04:05:56.581Z",
+    "publicationTime": "2023-10-21T04:05:56.316Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "LAB 6 Submisssion",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1C7A4rGRXf0Ok7-QdoCZjhcXBKXlBY3U7",
+              "title": "12.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1C7A4rGRXf0Ok7-QdoCZjhcXBKXlBY3U7/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOUJr-kHoIl4XRJN-6ErBXBhXGQgmv5ZAo-jLKimhSEtYjvTHOSU0JQsTwi2aymPqAb4dx8tCNj2J6_ZN5my-7EsOvnu2ROQOpr5K9tZ3OL380\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1afBU13xjM32TJdCp6KpT9IZpfN17Dy-N",
+              "title": "lab6.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1afBU13xjM32TJdCp6KpT9IZpfN17Dy-N/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Syed Mujtaba Hassan Rizvi"
+      },
+      "emailAddress": "mujtaba.hassan@lhr.nu.edu.pk"
+    },
+    "creationTime": "2023-10-14T04:30:17.208Z",
+    "updateTime": "2023-10-14T04:31:12.756Z",
+    "publicationTime": "2023-10-14T04:31:12.511Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "LAB 5 Submission",
+      "dueTime": "2023-10-15T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1HHWdQrKoIn9TSWS9y6bvxTwKtxSL15KF",
+              "title": "lab5.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1HHWdQrKoIn9TSWS9y6bvxTwKtxSL15KF/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Syed Mujtaba Hassan Rizvi"
+      },
+      "emailAddress": "mujtaba.hassan@lhr.nu.edu.pk"
+    },
+    "creationTime": "2023-09-23T05:36:06.820Z",
+    "updateTime": "2023-09-23T05:36:52.118Z",
+    "publicationTime": "2023-09-23T05:36:33.680Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Lab 4 Submissions 23/09/2023",
+      "dueTime": "2023-09-23T06:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1sMp1Xhv0HGC0NC8bnwW7UNUyD0dkm5Ps",
+              "title": "l200961.csv",
+              "alternateLink": "https://drive.google.com/file/d/1sMp1Xhv0HGC0NC8bnwW7UNUyD0dkm5Ps/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNyE2lI7dx4HNxinRg3uKsb8c448_tPzzNFmLVazb_MvRDVeNE4P3CK2n_dAZoXXLN8KPMLZB6hXCY0s5nRGgx9aTje2x1se0fKhQHhg8Z5l8k\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1Am655aU8YKmTYzviy8vEJqx9EEqn0Lal",
+              "title": "lab4.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1Am655aU8YKmTYzviy8vEJqx9EEqn0Lal/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Syed Mujtaba Hassan Rizvi"
+      },
+      "emailAddress": "mujtaba.hassan@lhr.nu.edu.pk"
+    },
+    "creationTime": "2023-09-23T05:17:29.343Z",
+    "updateTime": "2023-09-23T05:19:08.706Z",
+    "publicationTime": "2023-09-23T05:19:08.452Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "AI project Proposal",
+      "dueTime": "2023-10-06T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1AdO04jO2QPkwS5PlpbuNNv9hOWeFPnMY",
+              "title": "AI_PROPOSAL.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1AdO04jO2QPkwS5PlpbuNNv9hOWeFPnMY/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBO9xfOgQT4XZkJunQ0YuAa830eaDWb2a5tCgP_5nyatcVIZUK9q4Cla6GzF2hDEKmMH1X4Ru2EHgaO-9ldSnIBQxpU4DICof0ZDTg1fOaM5dec\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2023-09-27T07:00:35.888Z",
+          "updateTime": "2023-09-27T07:00:35.888Z",
+          "comment": "Sir ! Is it a group project or individual? I didn\u0027t came last lab for your explanation",
+          "commentHtml": "\u003cdiv\u003eSir ! Is it a group project or individual? I didn\u0026#39;t came last lab for your explanation\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Syed Mujtaba Hassan Rizvi"
+      },
+      "emailAddress": "mujtaba.hassan@lhr.nu.edu.pk"
+    },
+    "creationTime": "2023-09-16T03:54:04.733Z",
+    "updateTime": "2023-09-16T03:54:27.684Z",
+    "publicationTime": "2023-09-16T03:54:27.428Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "LAB 3 SUBMISSION",
+      "dueTime": "2023-09-16T18:20:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1GVXR5LfPaM0a3g37t3dnk7j4p6CbrbsH",
+              "title": "l200961 pract.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1GVXR5LfPaM0a3g37t3dnk7j4p6CbrbsH/view?usp\u003ddrive_web"
+            }
+          }, {
+            "driveFile": {
+              "id": "1ZrmFtq1SC-7RGxI6fbe0nLCtwL8zPQzi",
+              "title": "lab3.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1ZrmFtq1SC-7RGxI6fbe0nLCtwL8zPQzi/view?usp\u003ddrive_web"
+            }
+          }, {
+            "driveFile": {
+              "id": "1h30AJVie3gNex_jJUpoYASH-Oni1m_1m",
+              "title": "dfs working and solution.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1h30AJVie3gNex_jJUpoYASH-Oni1m_1m/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMrzx81y0vJ-k_td0DB7j1cUdBM4dAihQJB8hqlYv7C3pbwHEbC4a0Bis0gtkniGwE056cbO1pH5dyMQCF8mLtebkjvDxEheXoWOFLpPORl28M\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2023-09-16T18:43:14.720Z",
+          "updateTime": "2023-09-16T18:43:14.720Z",
+          "comment": "Added written solution",
+          "commentHtml": "\u003cdiv\u003eAdded written solution\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Syed Mujtaba Hassan Rizvi"
+      },
+      "emailAddress": "mujtaba.hassan@lhr.nu.edu.pk"
+    },
+    "creationTime": "2023-09-09T03:55:44.321Z",
+    "updateTime": "2023-09-09T03:56:51.113Z",
+    "publicationTime": "2023-09-09T03:56:50.867Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "LAB 2 Submission",
+      "dueTime": "2023-09-09T18:30:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1h_YijBGzyv3u1mjaIQURtJIjhEsdW73i",
+              "title": "l200961 pract.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1h_YijBGzyv3u1mjaIQURtJIjhEsdW73i/view?usp\u003ddrive_web"
+            }
+          }, {
+            "driveFile": {
+              "id": "1XeNRDEElAZqlcEtQLPz0wgxetk7qpmff",
+              "title": "lab2.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1XeNRDEElAZqlcEtQLPz0wgxetk7qpmff/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Hassan Abbas Enver"
+      },
+      "emailAddress": "l202263@lhr.nu.edu.pk"
+    },
+    "creationTime": "2023-09-02T12:06:02.437Z",
+    "updateTime": "2023-09-09T03:58:18.187Z",
+    "publicationTime": "2023-09-02T12:06:34.944Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Assignment 1",
+      "description": "https://cognitiveclass.ai/courses/python-for-data-science\n\n\nComplete this python course using your fast ID. It would take only 3-4 hours Submit your completion certificate which should have your full name on it.",
+      "descriptionHtml": "\u003cdiv\u003ehttps://cognitiveclass.ai/courses/python-for-data-science\u003cbr\u003e\u003cbr\u003e\u003cbr\u003eComplete this python course using your fast ID. It would take only 3-4 hours Submit your completion certificate which should have your full name on it.\u003c/div\u003e",
+      "dueTime": "2023-09-18T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "18K3HBSXFlVm9Ug0ApLdVweSwwGtw5sLO",
+              "title": "IBM PY0101EN Certificate Cognitive Class.pdf",
+              "alternateLink": "https://drive.google.com/file/d/18K3HBSXFlVm9Ug0ApLdVweSwwGtw5sLO/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMgvPNeF9OHSNP3srrpD3-IrCaFIVd_5IKgmxdjLT7iYYKLLU0d3YYvJve-Z5AlmsZas7eejM5uuQBMlAWtB6ATBCgNC1rC1-Ywns_W3yiS9MA\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Syed Mujtaba Hassan Rizvi"
+      },
+      "emailAddress": "mujtaba.hassan@lhr.nu.edu.pk"
+    },
+    "creationTime": "2023-09-01T17:51:31.107Z",
+    "updateTime": "2023-09-02T12:08:24.772Z",
+    "publicationTime": "2023-09-01T17:52:06.074Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "LAB 1 Submission",
+      "dueTime": "2023-09-08T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1I79HLE7_-s___avtGHwFihg9YogpBczv",
+              "title": "l200961 pract.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1I79HLE7_-s___avtGHwFihg9YogpBczv/view?usp\u003ddrive_web"
+            }
+          }, {
+            "driveFile": {
+              "id": "1HsYGBnNJAEJIiyGTrZkm-pwuvSXgGz0r",
+              "title": "lab1.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1HsYGBnNJAEJIiyGTrZkm-pwuvSXgGz0r/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }]
+}
