@@ -1,0 +1,217 @@
+{
+  "version": 1,
+  "name": "Artificial Intelligence (Spr\u00272023)",
+  "section": "A, B",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroomb2387c3e@group.calendar.google.com",
+  "videoCallUrl": "https://meet.google.com/zfx-otts-qvp",
+  "courseFolder": {
+    "id": "1WJhWFdwj_DQpWJEGNwCsDT2eStvU9arBFM2AEHHhksCgHjM2u6Kb6JhRT8neHTXsdu-b2Z8f",
+    "name": "Artificial Intelligence (Spr\u00272023) A, B",
+    "openUrl": "https://drive.google.com/drive/folders/1WJhWFdwj_DQpWJEGNwCsDT2eStvU9arBFM2AEHHhksCgHjM2u6Kb6JhRT8neHTXsdu-b2Z8f"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_arts.jpg",
+  "courseState": "ARCHIVED",
+  "posts": [{
+    "creationTime": "2023-04-24T09:14:49.438Z",
+    "updateTime": "2023-05-09T12:28:20.661Z",
+    "publicationTime": "2023-04-24T09:39:44.615Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Project Final Deliverable",
+      "description": "Dear Students,\n\nPlease follow these important guidelines for the submission of your project:\nEnsure that you submit the complete code of the project. Only one member per group needs to submit the files.\nAlong with the project, submit the Report (.md file) that includes a detailed description of the project and workflow, along with the description of each module. The report will have a weightage of 30-35% in the evaluation. You can use GitHub to create your report (.md file).\nIt is important to use charts, diagrams, or tables in the report, as applicable to your project.\nIn case you have taken any external help or references for your project (dataset, algorithm, library), please cite them appropriately in your report.\nPlease note that plagiarism will result in zero marks for the project. We will soon be having Project phase 2 evaluations.",
+      "descriptionHtml": "\u003cdiv\u003eDear Students,\u003cbr\u003e\u003cbr\u003ePlease follow these important guidelines for the submission of your project:\u003cbr\u003eEnsure that you submit the complete code of the project. Only one member per group needs to submit the files.\u003cbr\u003eAlong with the project, submit the Report (.md file) that includes a detailed description of the project and workflow, along with the description of each module. The report will have a weightage of 30-35% in the evaluation. You can use GitHub to create your report (.md file).\u003cbr\u003eIt is important to use charts, diagrams, or tables in the report, as applicable to your project.\u003cbr\u003eIn case you have taken any external help or references for your project (dataset, algorithm, library), please cite them appropriately in your report.\u003cbr\u003ePlease note that plagiarism will result in zero marks for the project. We will soon be having Project phase 2 evaluations.\u003c/div\u003e",
+      "dueTime": "2023-05-15T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1gLIJx-C0FR5dy-wpl0qnQdENvvdSLDyv",
+              "title": "project_deliverable_2_,20L_1339,20L_0961.ipynb",
+              "alternateLink": "https://colab.research.google.com/drive/1gLIJx-C0FR5dy-wpl0qnQdENvvdSLDyv?ouid\u003d109311395302908517622"
+            }
+          }, {
+            "driveFile": {
+              "id": "1J7l89tg7aQQ8jFcUGUHeJ6WL-OpgFnsb",
+              "title": "project.md",
+              "alternateLink": "https://drive.google.com/file/d/1J7l89tg7aQQ8jFcUGUHeJ6WL-OpgFnsb/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creationTime": "2023-03-27T07:24:37.613Z",
+    "updateTime": "2023-03-27T07:24:36.998Z",
+    "publicationTime": "2023-03-27T07:24:36.826Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Project Deliverable II",
+      "description": "In this phase, you will be submitting 30-40 percent working code of your project. You will be evaluated according to the provided timeline and description in your proposal.",
+      "descriptionHtml": "\u003cdiv\u003eIn this phase, you will be submitting 30-40 percent working code of your project. You will be evaluated according to the provided timeline and description in your proposal.\u003c/div\u003e",
+      "dueTime": "2023-04-07T18:59:36.743Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creationTime": "2023-03-26T14:27:46.667Z",
+    "updateTime": "2023-03-26T14:40:15.499Z",
+    "publicationTime": "2023-03-26T14:40:15.394Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1CoEUlOGKg-qcjuVckuOIDVuMoviTPiFj",
+          "alternateLink": "https://drive.google.com/open?id\u003d1CoEUlOGKg-qcjuVckuOIDVuMoviTPiFj"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 2",
+      "dueTime": "2023-03-31T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creationTime": "2023-03-06T05:36:12.600Z",
+    "updateTime": "2023-03-07T03:24:32.721Z",
+    "publicationTime": "2023-03-06T05:36:12.009Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Project Proposal",
+      "description": "Document (pdf form) will have the following:\n\n1. Title of the project\n2. Group members along with Roll#\n3. Brief description of the project (What is the project, which issue you are going to solve, why its challenging, why its important etc.)\n4. Dataset availability (Source from where you\u0027ll get the data)\n5. How you will solve the problem (i.e., through which AI technique, and why you\u0027ve selected that particular technique)\n6. Is the code for the project already available?  If so, provide link. And outline why/how you\u0027ll be different from the available code\n7. Timeline for the project\n\nNote that: This is a firm deadline, pls do not ask for extension.\n\nThanks,\nAsma",
+      "descriptionHtml": "\u003cdiv\u003eDocument (pdf form) will have the following:\u003cbr\u003e\u003cbr\u003e1. Title of the project\u003cbr\u003e2. Group members along with Roll#\u003cbr\u003e3. Brief description of the project (What is the project, which issue you are going to solve, why its challenging, why its important etc.)\u003cbr\u003e4. Dataset availability (Source from where you\u0026#39;ll get the data)\u003cbr\u003e5. How you will solve the problem (i.e., through which AI technique, and why you\u0026#39;ve selected that particular technique)\u003cbr\u003e6. Is the code for the project already available?  If so, provide link. And outline why/how you\u0026#39;ll be different from the available code\u003cbr\u003e7. Timeline for the project\u003cbr\u003e\u003cbr\u003eNote that: This is a firm deadline, pls do not ask for extension.\u003cbr\u003e\u003cbr\u003eThanks,\u003cbr\u003eAsma\u003c/div\u003e",
+      "dueTime": "2023-03-09T18:59:31.168Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creationTime": "2023-02-17T07:42:07.936Z",
+    "updateTime": "2023-02-17T09:25:28.479Z",
+    "publicationTime": "2023-02-17T07:45:33.256Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1blt-sqr9o6Uz9B-3QxLS_P0dvOLdtyNO",
+          "alternateLink": "https://drive.google.com/open?id\u003d1blt-sqr9o6Uz9B-3QxLS_P0dvOLdtyNO"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 1- Maze Solver",
+      "dueTime": "2023-02-24T18:59:43.211Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "16GTVfjDAJ0EOduflTCNWPr_LnIxS4Hnx",
+              "title": "l200961.py",
+              "alternateLink": "https://drive.google.com/file/d/16GTVfjDAJ0EOduflTCNWPr_LnIxS4Hnx/view?usp\u003ddrive_web"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2023-03-01T16:45:27.060Z",
+          "updateTime": "2023-03-01T16:45:27.013Z",
+          "comment": "aoa, i did code all of assignment in single python file, with 2 options for two parts.\n\n\n\n\ni want to know that is my submission according to guidelines or should i zip it ?",
+          "commentHtml": "\u003cdiv\u003eaoa, i did code all of assignment in single python file, with 2 options for two parts.\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e\u003cbr\u003ei want to know that is my submission according to guidelines or should i zip it ?\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creationTime": "2023-03-01T16:49:31.900Z",
+          "updateTime": "2023-03-01T16:49:31.812Z",
+          "comment": "Ammar, it was mentioned in guidelines to zip your code file or files. It\u0027s fine now, but you should zip the file(s) next time.",
+          "commentHtml": "\u003cdiv\u003eAmmar, it was mentioned in guidelines to zip your code file or files. It\u0026#39;s fine now, but you should zip the file(s) next time.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2023-03-01T16:57:02.846Z",
+          "updateTime": "2023-03-01T16:57:02.793Z",
+          "comment": "ok, sure will do",
+          "commentHtml": "\u003cdiv\u003eok, sure will do\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }]
+}

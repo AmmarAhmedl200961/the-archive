@@ -1,0 +1,258 @@
+{
+  "version": 1,
+  "name": "AI - FALL 23",
+  "section": "B",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroomb5cfd3e5@group.calendar.google.com",
+  "courseFolder": {
+    "id": "1ddncvPhHa_345oHHjODJrDFqbQyqeMP4phs6eJeCnpilZ7v3VIS5JD0zFMJIOn1cf_pvA07m",
+    "name": "AI - FALL 24 B",
+    "openUrl": "https://drive.google.com/drive/folders/1ddncvPhHa_345oHHjODJrDFqbQyqeMP4phs6eJeCnpilZ7v3VIS5JD0zFMJIOn1cf_pvA07m"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_code.jpg",
+  "courseState": "ARCHIVED",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Hajra Waheed"
+      }
+    },
+    "creationTime": "2023-11-28T06:43:58.658Z",
+    "updateTime": "2023-11-28T06:43:57.788Z",
+    "publicationTime": "2023-11-28T06:43:57.625Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Assignment"
+    }],
+    "courseWork": {
+      "title": "Project Submission",
+      "description": "The project is to be submitted by 6th December, 12 PM. \nUpload your slides and code files.\n\nPresentations schedule will be shared soon.",
+      "descriptionHtml": "\u003cdiv\u003eThe project is to be submitted by 6th December, 12 PM. \u003cbr\u003eUpload your slides and code files.\u003cbr\u003e\u003cbr\u003ePresentations schedule will be shared soon.\u003c/div\u003e",
+      "dueTime": "2023-12-06T07:00:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1wg8ycp9nJPs5488sxAYljAj3cA2jyyyq",
+              "title": "AI.zip",
+              "alternateLink": "https://drive.google.com/file/d/1wg8ycp9nJPs5488sxAYljAj3cA2jyyyq/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Abbas Haider BSDS 2020 FAST NU LHR"
+      },
+      "emailAddress": "l201058@lhr.nu.edu.pk"
+    },
+    "creationTime": "2023-11-15T17:36:50.006Z",
+    "updateTime": "2023-11-15T17:36:49.391Z",
+    "publicationTime": "2023-11-15T17:36:49.171Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1vN_FKtvvmLP9NNogA5ilYdAopTcHoj3vHtBu1b_OfxA",
+          "title": "AI Project Details",
+          "alternateLink": "https://docs.google.com/spreadsheets/d/1vN_FKtvvmLP9NNogA5ilYdAopTcHoj3vHtBu1b_OfxA/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBMfch2w_v9dIberdm6j6Sw_UM9ks9Yg8m7ur7ooY1uHyOEngkiRpuJypKMtY_XJxRy5vVGLXdVWlJ4EXS2pYY2mv_scGmz6sjjZ_HzZQSXszLqHdgX5FKwiZ4CywHXk3EBl8D0\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Project Details",
+      "description": "Heyy Guys, \n\nAs told Earlier, Kindly Fill in Project Name and Group Members in the sheet below.\n\nDeadline is this Friday, after which marks will be detected.",
+      "descriptionHtml": "\u003cdiv\u003eHeyy Guys, \u003cbr\u003e\u003cbr\u003eAs told Earlier, Kindly Fill in Project Name and Group Members in the sheet below.\u003cbr\u003e\u003cbr\u003eDeadline is this Friday, after which marks will be detected.\u003c/div\u003e",
+      "dueTime": "2023-11-17T18:59:04.198Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Abbas Haider BSDS 2020 FAST NU LHR"
+      },
+      "emailAddress": "l201058@lhr.nu.edu.pk"
+    },
+    "creationTime": "2023-11-15T17:00:11.193Z",
+    "updateTime": "2023-11-15T17:33:10.442Z",
+    "publicationTime": "2023-11-15T17:14:40.001Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Assignment"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "11yI_f98QhD9alv1yIYrfpdI-aVg42eRd6_o7dfY_flA",
+          "title": "AI - Assignment 3",
+          "alternateLink": "https://docs.google.com/document/d/11yI_f98QhD9alv1yIYrfpdI-aVg42eRd6_o7dfY_flA/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNJiCCUBElpc1DExMcoDvehTeeVHsHe1NxL6t0p7pC3nKSyLvh8c7fTqFvsYQkR3TB9gY0x7sKwH5txlKHoJTa3rdmSIfYOBeTt3iDrPFpLYrX9tHoePYRjmHS-vUSduOhqeXg\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 3",
+      "description": "Hey Guys, \n\nHope your mids went well, if not you can always recover from assignments, quizes and final.\n\nAttached below is the assignment on Neural Network, How machines think like humans, kindly do it within the deadline,\nif there is any ambiguity do contact me.\n\nThank you, Best of luck  : )",
+      "descriptionHtml": "\u003cdiv\u003eHey Guys, \u003cbr\u003e\u003cbr\u003eHope your mids went well, if not you can always recover from assignments, quizes and final.\u003cbr\u003e\u003cbr\u003eAttached below is the assignment on Neural Network, How machines think like humans, kindly do it within the deadline,\u003cbr\u003eif there is any ambiguity do contact me.\u003cbr\u003e\u003cbr\u003eThank you, Best of luck  : )\u003c/div\u003e",
+      "dueTime": "2023-11-26T18:59:49.596Z",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1Cn-m4CxMK6TCDppSkbiFedSs0lAVt2xv",
+              "title": "A3_20L-0961.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1Cn-m4CxMK6TCDppSkbiFedSs0lAVt2xv/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Abbas Haider BSDS 2020 FAST NU LHR"
+      },
+      "emailAddress": "l201058@lhr.nu.edu.pk"
+    },
+    "creationTime": "2023-09-26T00:23:32.699Z",
+    "updateTime": "2023-10-11T09:20:48.491Z",
+    "publicationTime": "2023-09-26T00:37:35.389Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Assignment"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "11yI_f98QhD9alv1yIYrfpdI-aVg42eRd6_o7dfY_flA",
+          "title": "AI - Assignment 3",
+          "alternateLink": "https://docs.google.com/document/d/11yI_f98QhD9alv1yIYrfpdI-aVg42eRd6_o7dfY_flA/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNJiCCUBElpc1DExMcoDvehTeeVHsHe1NxL6t0p7pC3nKSyLvh8c7fTqFvsYQkR3TB9gY0x7sKwH5txlKHoJTa3rdmSIfYOBeTt3iDrPFpLYrX9tHoePYRjmHS-vUSduOhqeXg\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 2",
+      "description": "Hey Guys, \n\nHope you are preparing well for mids.\n\nAttached is your assignment 2, although the deadline is after mids (11 Oct), but you should go through the assignment for better preparation of mids.\n\nAlso following is a great website for past papers do check it out as well for your preparation.\n\nhttps://github.com/saleha-muzammil/Academic-Time-Machine.\n\nBest of Luck (^_^).",
+      "descriptionHtml": "\u003cdiv\u003eHey Guys, \u003cbr\u003e\u003cbr\u003eHope you are preparing well for mids.\u003cbr\u003e\u003cbr\u003eAttached is your assignment 2, although the deadline is after mids (11 Oct), but you should go through the assignment for better preparation of mids.\u003cbr\u003e\u003cbr\u003eAlso following is a great website for past papers do check it out as well for your preparation.\u003cbr\u003e\u003cbr\u003ehttps://github.com/saleha-muzammil/Academic-Time-Machine.\u003cbr\u003e\u003cbr\u003eBest of Luck (^_^).\u003c/div\u003e",
+      "dueTime": "2023-10-14T18:59:00Z",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1cwUJTAVx2I-PgSeV54yCwfd_rG3MDfSa",
+              "title": "A2_20L-0961.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1cwUJTAVx2I-PgSeV54yCwfd_rG3MDfSa/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Hajra Waheed"
+      }
+    },
+    "creationTime": "2023-09-08T04:48:35.842Z",
+    "updateTime": "2023-09-17T19:23:10.203Z",
+    "publicationTime": "2023-09-08T04:50:35.944Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Assignment"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "14IeuEQzBw1IkAOvqd3RR_q5otHy8Pa1h",
+          "title": "AI Assignment-01.pdf",
+          "alternateLink": "https://drive.google.com/file/d/14IeuEQzBw1IkAOvqd3RR_q5otHy8Pa1h/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP-cSKVWZJN2Fza88oMEFwdRqAlVzwfUDJtsPYx82OJQO3Xdm8wPqfwCM1Bs_mVByXNAbPqk-Kp_NupvR3NFcfu_CLz8bv4_YRnFBVhMCX9_9g\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 1",
+      "dueTime": "2023-09-17T18:59:00Z",
+      "maxPoints": 55.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1GLUIskC6tY1T3UgsOrypbWhuDc3zjX9B",
+              "title": "A1_20L-0961.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1GLUIskC6tY1T3UgsOrypbWhuDc3zjX9B/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }]
+}
