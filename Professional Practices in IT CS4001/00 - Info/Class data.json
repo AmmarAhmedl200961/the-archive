@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "name": "PPIT-C Fall-2024",
+  "section": "BDS-7C",
+  "room": "CS-4",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroome37adb65@group.calendar.google.com",
+  "videoCallUrl": "https://meet.google.com/ifp-gcqk-hgr",
+  "courseFolder": {
+    "id": "19E-_xb-yofHDNUmtCeC0RSLHxL0WdlhRhICp46Q3mXqeOTZVjWJlchf5kznMTmmrV8wqauKX",
+    "name": "PPIT-C Fall-2024 BDS-7C",
+    "openUrl": "https://drive.google.com/drive/folders/19E-_xb-yofHDNUmtCeC0RSLHxL0WdlhRhICp46Q3mXqeOTZVjWJlchf5kznMTmmrV8wqauKX"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/Honors.jpg",
+  "subject": "Professional Practices in IT ",
+  "courseState": "ACTIVE",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Amjad Hussain"
+      },
+      "emailAddress": "amjad.hussain@lhr.nu.edu.pk"
+    },
+    "creationTime": "2024-11-25T05:06:30.421Z",
+    "updateTime": "2024-11-25T05:08:36.550Z",
+    "publicationTime": "2024-11-25T05:07:48.519Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Computer Crime and Privacy"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1W9ZlOIiuEfpNZ0M5vs_O9E68yQTcB_Gi",
+          "title": "Assingment No. 3 PPIT BDS-7C Fall-2024.docx",
+          "alternateLink": "https://drive.google.com/file/d/1W9ZlOIiuEfpNZ0M5vs_O9E68yQTcB_Gi/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMR382POeD1_5dSW47xyj-T-TBG0Cmf07Hzc-ntceJyRNcgJocFS-ScYQCiIpvDPHMq4oL6CbrGmKcfRCLy5_PB-eWk15VCTj6kyRuWmcnmWw\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment No. 3",
+      "description": "Only written report. Minimum 3 pages. Maximum 4 pages.\nGroup of maximum two students. Group of a single student is acceptable. Group of three or more students is not acceptable.",
+      "descriptionHtml": "\u003cdiv\u003eOnly written report. Minimum 3 pages. Maximum 4 pages.\u003cbr\u003eGroup of maximum two students. Group of a single student is acceptable. Group of three or more students is not acceptable.\u003c/div\u003e",
+      "dueTime": "2024-12-01T18:59:00Z",
+      "maxPoints": 115.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Amjad Hussain"
+      },
+      "emailAddress": "amjad.hussain@lhr.nu.edu.pk"
+    },
+    "creationTime": "2024-10-26T17:12:53.362Z",
+    "updateTime": "2024-10-26T17:18:15.841Z",
+    "publicationTime": "2024-10-26T17:18:15.708Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Top 10 future skills"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "19wOiN9aGXFmgU9JczbRwFZHJLf0zXwXc",
+          "title": "Assignment No.1 PPIT BDS-7C Fall-2024.docx",
+          "alternateLink": "https://drive.google.com/file/d/19wOiN9aGXFmgU9JczbRwFZHJLf0zXwXc/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMafZrTzgwYoZSkSI8GUGVQ8ASBFzk1_WcQ2oJv3z5S9eznTJiev1DJADRrIXrb0ikdG3GiCrwk93b1DL9-ZV_ariKVYWWGOcxocE063_oEJw\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment No. 1",
+      "description": "Submit a soft copy in the Google classroom\nSubmission date is extended till Sunday October-27, 2024.",
+      "descriptionHtml": "\u003cdiv\u003eSubmit a soft copy in the Google classroom\u003cbr\u003eSubmission date is extended till Sunday October-27, 2024.\u003c/div\u003e",
+      "dueTime": "2024-10-27T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 100.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }]
+}
