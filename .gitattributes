@@ -3,3 +3,4 @@
 *.PDF filter=lfs diff=lfs merge=lfs -text
 *.CSV filter=lfs diff=lfs merge=lfs -text
 *.pptx filter=lfs diff=lfs merge=lfs -text
+*.[[:space:]]PPTX filter=lfs diff=lfs merge=lfs -text
