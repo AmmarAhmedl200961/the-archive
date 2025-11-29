@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "name": "Probability \u0026 Statistics (Ms. Huma Akbar)",
+  "section": "BCS-4D",
+  "room": "E\u0026M 3",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroomd369b2e5@group.calendar.google.com",
+  "courseFolder": {
+    "id": "1TH460BJ4XSf5XDpw5KfmFLpSwp_VtSGw9ddtLFJVJXQ74cqhPU3fdv4rjue_dsVJGTi82ark",
+    "name": "Probability \u0026 Statistics (Ms. Huma Akbar) BCS-4D",
+    "openUrl": "https://drive.google.com/drive/folders/1TH460BJ4XSf5XDpw5KfmFLpSwp_VtSGw9ddtLFJVJXQ74cqhPU3fdv4rjue_dsVJGTi82ark"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/Math.jpg",
+  "subject": "Probability \u0026 Statistics",
+  "courseState": "ARCHIVED",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2022-05-20T19:29:12.368Z",
+    "updateTime": "2022-05-20T19:31:40.697Z",
+    "publicationTime": "2022-05-20T19:31:40.590Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1PaR7stJhdgpqE9SYxvAxZtccP66Y7N2m",
+          "alternateLink": "https://drive.google.com/open?id\u003d1Wd6I9he7ud1dpEQ2jffmtNUYbYK1_Pq8"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 3",
+      "dueTime": "2022-05-25T18:59:00Z",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1HMZL1GIko1qfb0l_04rfqVQOk9nMBf42",
+              "alternateLink": "https://drive.google.com/open?id\u003d1HMZL1GIko1qfb0l_04rfqVQOk9nMBf42"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2022-04-14T15:39:06.277Z",
+    "updateTime": "2022-04-14T15:45:03.432Z",
+    "publicationTime": "2022-04-14T15:45:03.308Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1eHiZVq_KyDNgnxdkNPc87HhKUKU-ADaY",
+          "alternateLink": "https://drive.google.com/open?id\u003d1R7ebAY6Umgl3lbeDS_BK59CO18ERt1Xz"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 2",
+      "dueTime": "2022-04-20T18:59:00Z",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1QtosaO37jqcftzOq1IWbWxIxSD7VvyEr",
+              "alternateLink": "https://drive.google.com/open?id\u003d1QtosaO37jqcftzOq1IWbWxIxSD7VvyEr"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2022-03-03T18:25:48.539Z",
+    "updateTime": "2022-03-11T19:18:31.817Z",
+    "publicationTime": "2022-03-03T18:30:37.283Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1nEsM9AKMfgNt1vj5HFgiz6JtarjWZUBf",
+          "alternateLink": "https://drive.google.com/open?id\u003d1e2rB8MrS5j6aJCfKoS7cL6pvq71N1wOW"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 1",
+      "dueTime": "2022-03-09T18:59:00Z",
+      "maxPoints": 15.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1jXKXnRZay3EmVHOQyEBBxgtH44y0mV0e",
+              "alternateLink": "https://drive.google.com/open?id\u003d1jXKXnRZay3EmVHOQyEBBxgtH44y0mV0e"
+            }
+          }]
+        }
+      }]
+    }
+  }]
+}
