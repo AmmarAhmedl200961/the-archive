@@ -1,0 +1,1281 @@
+{
+  "version": 1,
+  "name": "DAV-Fall 2024-5A",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom087ffe70@group.calendar.google.com",
+  "videoCallUrl": "https://meet.google.com/ies-gnfp-wne",
+  "courseFolder": {
+    "id": "1N7Fod2l3vrfqU7Jq9bF37ASZJq8DBx9bMn8JgZnlY6jHKgMOGMq40Qt-vvLHxfOON0cRSNUR",
+    "name": "DAV-Fall 2024-5A",
+    "openUrl": "https://drive.google.com/drive/folders/1N7Fod2l3vrfqU7Jq9bF37ASZJq8DBx9bMn8JgZnlY6jHKgMOGMq40Qt-vvLHxfOON0cRSNUR"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_code.jpg",
+  "courseState": "ACTIVE",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Mateen Fatima VF 2024"
+      },
+      "emailAddress": "mateenfatima.visiting2024@lhr.nu.edu.pk"
+    },
+    "creationTime": "2024-12-06T06:18:43.646Z",
+    "updateTime": "2024-12-06T06:37:55.647Z",
+    "publicationTime": "2024-12-06T06:19:43.313Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1MpINR4WOLrkg9-Kkt7H1u6Z1LoxRNB-Q",
+          "title": "Quiz-2.docx",
+          "alternateLink": "https://drive.google.com/file/d/1MpINR4WOLrkg9-Kkt7H1u6Z1LoxRNB-Q/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBO2eygIfQ1Xs_LZ6WXvX4rJupIp8A1k9PBfKW1hFHfKTITF3LZOt_h_Z5rn1lVvxxvOChIUFuGP3jP54Ni2EigADEKCt8iboTLGSges870Sjgo\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1PCT2E1CXZdh6Bx6ySC4bVMXtRa0o11sZ",
+          "title": "fifa_data (1).csv",
+          "alternateLink": "https://drive.google.com/file/d/1PCT2E1CXZdh6Bx6ySC4bVMXtRa0o11sZ/view?usp\u003ddrive_web"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Quiz 2",
+      "dueTime": "2024-12-06T06:45:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "14kuRBUdVI_FK7tJk09L5-TdTChjTSKpR",
+              "title": "l200961.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/14kuRBUdVI_FK7tJk09L5-TdTChjTSKpR/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Mateen Fatima VF 2024"
+      },
+      "emailAddress": "mateenfatima.visiting2024@lhr.nu.edu.pk"
+    },
+    "creationTime": "2024-12-05T08:39:05.102Z",
+    "updateTime": "2024-12-05T08:40:44.980Z",
+    "publicationTime": "2024-12-05T08:40:44.478Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1P0cBY-zTXZwXHzinCavU31nISZ9vc3sp",
+          "title": "Starter_Code(1)(1).ipynb",
+          "alternateLink": "https://drive.google.com/file/d/1P0cBY-zTXZwXHzinCavU31nISZ9vc3sp/view?usp\u003ddrive_web"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1sDesxbRTLlT5lKU9cCK065dUxO2OQZ8Y",
+          "title": "SVM(1).docx",
+          "alternateLink": "https://drive.google.com/file/d/1sDesxbRTLlT5lKU9cCK065dUxO2OQZ8Y/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOZys-T1qhZ1DpaaIU5wvh5w8xiLIA72J0nkgBIAN2Sg4pIGHj-DwqLof9k19ZUYKtoY3XYMUn4dagKsx1bNhFuRfFIrMNcbxNDr7zhAlpTlqY\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Home task",
+      "dueTime": "2024-12-06T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1br0Y_mJ5a4qvUh-CgE7Lp3UCr1LeV_oW",
+              "title": "l200961.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1br0Y_mJ5a4qvUh-CgE7Lp3UCr1LeV_oW/view?usp\u003ddrive_web"
+            }
+          }, {
+            "driveFile": {
+              "id": "1w64FA-fEFcftHvh4Df3gEFR1pAuK1Hv6",
+              "title": "l200961.docx",
+              "alternateLink": "https://drive.google.com/file/d/1w64FA-fEFcftHvh4Df3gEFR1pAuK1Hv6/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOo3t63_ADyQAmbvUuzYziZjCdc-scjVTPl3dFkSiIxgz1PYQ8SbNUAYTIsxCmEvgweIKb84mip1N7LkNiCiB_y_Bcbw0R8cDQRZrhFsVxo3fg\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Usman Anwer"
+      }
+    },
+    "creationTime": "2024-11-29T05:01:37.098Z",
+    "updateTime": "2024-11-29T06:49:04.442Z",
+    "publicationTime": "2024-11-29T05:02:44.612Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1-ddASpOP-cir9cqy1dX9ujtCcRfEq6Gm",
+          "title": "Tableau Lab Tasks.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1-ddASpOP-cir9cqy1dX9ujtCcRfEq6Gm/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPREwFNhDMevjz_KlC6SRNbkMMMo95-NzLUaS3WzwckUP1Wj5nu2kJtOrXHO4a5TlyD1Bxc5QhLh5MthMqlUzOSN_y4hCWUsbn5NWMG1uw-gk4\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1plSIz6gvlgpl5P7GzmQ7rF63x4zVK-eF",
+          "title": "Customer_Info.csv",
+          "alternateLink": "https://drive.google.com/file/d/1plSIz6gvlgpl5P7GzmQ7rF63x4zVK-eF/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOfE7R_arhOuxovmTdE7LPaeG_5CnCrkFZD7oXnfZ8qYTmNEyePLokWNlnjfQHYzDbD25HEqVfndV5KaaJDj45CDn-1H5xgrKapp-BoFkowJcY\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1_PflcILXBN70Ma-nPnYev7T5w57uRDGy",
+          "title": "Retail_Store.csv",
+          "alternateLink": "https://drive.google.com/file/d/1_PflcILXBN70Ma-nPnYev7T5w57uRDGy/view?usp\u003ddrive_web"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab 12",
+      "description": "PFA",
+      "descriptionHtml": "\u003cdiv\u003ePFA\u003c/div\u003e",
+      "dueTime": "2024-11-29T07:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1QkiXZjj-Qd2LvOev8fAJqSijqNtApxJw",
+              "title": "l200961 Tableau Lab Task.docx",
+              "alternateLink": "https://drive.google.com/file/d/1QkiXZjj-Qd2LvOev8fAJqSijqNtApxJw/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPQJX1DpBCVzcrGTyF0wogALcioeyWxDTRpwz67IIc3G8Hq-Usc96mf7Xg8Jwb_DzGXAV2AUsu9u-62owpSHWnvD-UpObYLt6Mf1VtvRo55XmE\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Usman Anwer"
+      }
+    },
+    "creationTime": "2024-11-22T05:32:50.018Z",
+    "updateTime": "2024-11-22T07:24:04.410Z",
+    "publicationTime": "2024-11-22T06:28:56.198Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Quizzes"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1CAoIEPT4Lhudu6AEESKbwyEz_uI-1Epw",
+          "title": "Quiz_1_DAV_Lab_.ipynb",
+          "alternateLink": "https://drive.google.com/file/d/1CAoIEPT4Lhudu6AEESKbwyEz_uI-1Epw/view?usp\u003ddrive_web"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "15GnMK083H0e8BUokWtDUNw5A1VEnEuCw",
+          "title": "img_cat.jpg",
+          "alternateLink": "https://drive.google.com/file/d/15GnMK083H0e8BUokWtDUNw5A1VEnEuCw/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN_PbFf75M0taDyrfS0VUTb48mSVt2nIrcDv3MxRtLojPjsQT_4i9wVBs0U-PtklDY0QIJ10B1Z5lHkx8-BhQVGuV7FiGzQ0aYIrEubo6jAzhk\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1VpOu8EuXgZEbtEho3MhCrS-G0k2jfMIR",
+          "title": "img_cat1.jpg",
+          "alternateLink": "https://drive.google.com/file/d/1VpOu8EuXgZEbtEho3MhCrS-G0k2jfMIR/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOoHNL5EI-F-no8DFMWypq_Z2HICrF91YC6lx6dtsWZSTXmCOgD6-7-u-x-Us0-NPWnoc8ORDbSJohQ6MPNWeCxkUED7mRlktqgqPOo004zGtw\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Quiz 1",
+      "description": "a) Read the ipynb file because both questions are given in the same file. \nb) Internet/Notes are not allowed in the quiz. Anyone found, will be awarded with ZERO marks + 2 absents.\nc) Total time is 50 minutes. \nd) Submit your quiz till 12:30 PM. No extra time will be given. \ne) Use Google colab/Jupyter to compile your code. \nGood LUCK",
+      "descriptionHtml": "\u003cdiv\u003ea) Read the ipynb file because both questions are given in the same file. \u003cbr\u003eb) Internet/Notes are not allowed in the quiz. Anyone found, will be awarded with ZERO marks + 2 absents.\u003cbr\u003ec) Total time is 50 minutes. \u003cbr\u003ed) Submit your quiz till 12:30 PM. No extra time will be given. \u003cbr\u003ee) Use Google colab/Jupyter to compile your code. \u003cbr\u003eGood LUCK\u003c/div\u003e",
+      "dueTime": "2024-11-22T07:25:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1bMGZrafUq6O376c5P9jUWvG-n6QH6RFW",
+              "title": "l200961_Quiz_1_DAV_Lab_.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1bMGZrafUq6O376c5P9jUWvG-n6QH6RFW/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Mateen Fatima VF 2024"
+      },
+      "emailAddress": "mateenfatima.visiting2024@lhr.nu.edu.pk"
+    },
+    "creationTime": "2024-11-22T05:19:51.333Z",
+    "updateTime": "2024-11-22T05:21:12.585Z",
+    "publicationTime": "2024-11-22T05:19:58.463Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1T9ZG91LBhjUWU1RkyyAWsk4IHdxQFFs9",
+          "title": "Plolty_lab.ipynb",
+          "alternateLink": "https://drive.google.com/file/d/1T9ZG91LBhjUWU1RkyyAWsk4IHdxQFFs9/view?usp\u003ddrive_web"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1Vo7rgAUwhDL2uC1brOJxuqZYXKZtg5FG",
+          "title": "Plotly_Example_.ipynb",
+          "alternateLink": "https://drive.google.com/file/d/1Vo7rgAUwhDL2uC1brOJxuqZYXKZtg5FG/view?usp\u003ddrive_web"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1HDbV5V4t_47FAFrZdSFoyBqsOphnRklF",
+          "title": "Tutorial_ What is Plotly.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1HDbV5V4t_47FAFrZdSFoyBqsOphnRklF/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNWEO8uIOZLPvZw-GH7wZxCuOb4FSxJqxNd1vzAgRcWiFjp9axonGbzGevohd8qVrbymYGExYxtooi0tz4-sGzSikxG-HDrb2EUCZv29cVpee8\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab-11",
+      "dueTime": "2024-11-22T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1PuvVrXh9kFQDevS3cUJySAwxahNrmHJh",
+              "title": "l200961 Plolty_lab.ipynb",
+              "alternateLink": "https://colab.research.google.com/drive/1PuvVrXh9kFQDevS3cUJySAwxahNrmHJh?ouid\u003d109311395302908517622"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Usman Anwer"
+      }
+    },
+    "creationTime": "2024-11-15T05:13:04.061Z",
+    "updateTime": "2024-11-15T05:14:18.325Z",
+    "publicationTime": "2024-11-15T05:14:17.922Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1IxDrgu5fAngIBAQ-Bmrzt9CnV3z1h1Mq",
+          "title": "Lab 10.docx",
+          "alternateLink": "https://drive.google.com/file/d/1IxDrgu5fAngIBAQ-Bmrzt9CnV3z1h1Mq/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN96vajxAMapjtT3SOhkiEvMl2SjWt7oTXTalKgtaBj_SOoIuFubwHocFskNy__6iaKJGkUYuzXu-PgGaxUvO_ZeQDde6eHds107uw3MgHg6PY\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab 10",
+      "description": "PFA",
+      "descriptionHtml": "\u003cdiv\u003ePFA\u003c/div\u003e",
+      "dueTime": "2024-11-15T07:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1iXgr40bAhiHu8tYRyNSXbdchHH7i_Szp",
+              "title": "l200961.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1iXgr40bAhiHu8tYRyNSXbdchHH7i_Szp/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Mateen Fatima VF 2024"
+      },
+      "emailAddress": "mateenfatima.visiting2024@lhr.nu.edu.pk"
+    },
+    "creationTime": "2024-11-08T05:30:30.765Z",
+    "updateTime": "2024-11-08T06:09:27.442Z",
+    "publicationTime": "2024-11-08T05:34:30.337Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1ZDOuNQGnF3b7dZP4z0s4GF8qkscdTuik",
+          "title": "DM-lab-09.docx",
+          "alternateLink": "https://drive.google.com/file/d/1ZDOuNQGnF3b7dZP4z0s4GF8qkscdTuik/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNm7qYYJwiZRX3X44sNJ9bm69xXl2elWhLY26Pik9TE91keojMz2eeUqMsYdaisSW-M4F0A8zRQKzNLfvZHM4IhDlD4Q-vkKQUM6zVXIOtHHlY\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1q2VKboEzLmWDdR0p2QSMEi63VEAu0RaX",
+          "title": "Lab_09_Exercise2.ipynb",
+          "alternateLink": "https://drive.google.com/file/d/1q2VKboEzLmWDdR0p2QSMEi63VEAu0RaX/view?usp\u003ddrive_web"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "lab-9",
+      "description": "You have to Submit 3 files\nExercise 1 code file (.ipynb)\nExercise 2 Updated code file\nExercise 2 doc file containing 2 paragraphs. In the first paragraph explain your understanding of the code provided in Ex 2, and in the second paragraph, report improved accuracies with changed parameters.",
+      "descriptionHtml": "\u003cdiv\u003eYou have to Submit 3 files\u003cbr\u003eExercise 1 code file (.ipynb)\u003cbr\u003eExercise 2 Updated code file\u003cbr\u003eExercise 2 doc file containing 2 paragraphs. In the first paragraph explain your understanding of the code provided in Ex 2, and in the second paragraph, report improved accuracies with changed parameters.\u003c/div\u003e",
+      "dueTime": "2024-11-08T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1uABIbRQm-rGcSmzyXIsBYmliv92jaQ2f",
+              "title": "l200961_lab_9.zip",
+              "alternateLink": "https://drive.google.com/file/d/1uABIbRQm-rGcSmzyXIsBYmliv92jaQ2f/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Usman Anwer"
+      }
+    },
+    "creationTime": "2024-11-01T05:19:27.788Z",
+    "updateTime": "2024-11-15T07:13:48.872Z",
+    "publicationTime": "2024-11-01T05:20:13.106Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "18qr0e5sNydijILcTXHFCNd7cKwNQGHd-",
+          "title": "lab7-dav.pdf",
+          "alternateLink": "https://drive.google.com/file/d/18qr0e5sNydijILcTXHFCNd7cKwNQGHd-/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNJJ8hEJO_RmVf2en1AxefV_Ry2UvpgoKYjn1p201A91W9ZrXQS1fqNyaK3oYuN4aCphr51mRw_-7gTLBz3FNndKA-FG0HeZvRDm8CgjETmFSs\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1BVhOp1QmQbk8CeAhWizambu9z5Ng5drv",
+          "title": "RNN.docx",
+          "alternateLink": "https://drive.google.com/file/d/1BVhOp1QmQbk8CeAhWizambu9z5Ng5drv/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM2wVTyhC3sR80ypmiLAZnfVv56qmAEh2wK22ElnppmwNZXiIMwU4s4SNGyUff9CPVn1-H1T1jxrg_6QTfaoTTIoKAUH682cPW7lSn_67vqS8Y\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1FOW2XWs7D58Dz8zkzOmbjNnoC5Sa6Ujg",
+          "title": "reddit-comments-2015-08.csv",
+          "alternateLink": "https://drive.google.com/file/d/1FOW2XWs7D58Dz8zkzOmbjNnoC5Sa6Ujg/view?usp\u003ddrive_web"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "11SysK_U4dQFL_MLp0g8vpJVJouLQvPMK",
+          "title": "cnn4.pdf",
+          "alternateLink": "https://drive.google.com/file/d/11SysK_U4dQFL_MLp0g8vpJVJouLQvPMK/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN9Y_n53DJQl3qnm1WM3u-ys6I1uQW5jp53IVBJRd9VX5OaArJsL30sH_zHixcS5P04SQw3VLx8EDNeRAKze32I8ZBgEFN7K_bhuUUzfuT6ePI\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1BHwDPefKrEYCuuqVr6ILt3qdNlqAGPpQ",
+          "title": "cnn3.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1BHwDPefKrEYCuuqVr6ILt3qdNlqAGPpQ/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNK1ukJy2tItLACIXHCb8GdbF6HqMfpeU_W_yWD6FEQbYr7_USIbfXY57c-q0NGRzxCs9HiGUhbv7PShJ5tFI3-ebA_b2gSATvCjr17BdLrGlc\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1GK-eptZrS_d0DQ7j4l23ma5P6MfEfWaS",
+          "title": "cnn2.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1GK-eptZrS_d0DQ7j4l23ma5P6MfEfWaS/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNTf9UkCnx8dx_ROxdCt6mQjlxKcrQ9hpCzLNw59mNixiLOwgh_-bPijSeTazl9K_YLXpW2fbhPlFe2T0MjWXvLm-UoWxYygxzYJ0jHmLAuP0A\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1c_2NQyhje_RY-sqFidSeLzCthOFFYmHb",
+          "title": "cnn1.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1c_2NQyhje_RY-sqFidSeLzCthOFFYmHb/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPrswUULPLnMuWNguvWdC47uYkiWt7akOCgDkooSZJMKAhqwyAl5RQ6XM6qp-gWcXbJTpbNT3Q-oL61SbvHl9mPqIGcCscDDAj-lSNWt6ChCjc\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1iZsHZ0ZNqIppy9AAsqy1ROcz1wfRuuqB",
+          "title": "ANN.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1iZsHZ0ZNqIppy9AAsqy1ROcz1wfRuuqB/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOi2Gz9ALtEau19yWz2mTFe8R5TD4hKc7Wuxe8pM53UTAncRYSshzkNnHvMhVI9e_aqvoY9rfk635gLO8DpgG6DWpA4C-UwvbvG7gxcl5x7Nmo\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab 8",
+      "description": "PFA",
+      "descriptionHtml": "\u003cdiv\u003ePFA\u003c/div\u003e",
+      "dueTime": "2024-11-15T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1yEYXsUy4W6aE9S0wpguBXGeM4S1DlVB5",
+              "title": "rnn.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1yEYXsUy4W6aE9S0wpguBXGeM4S1DlVB5/view?usp\u003ddrive_web"
+            }
+          }, {
+            "driveFile": {
+              "id": "1QaWqSe3SZT7QDdmykEkJMjck7JdFmO0X",
+              "title": "lab7(DAV).ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1QaWqSe3SZT7QDdmykEkJMjck7JdFmO0X/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Mateen Fatima VF 2024"
+      },
+      "emailAddress": "mateenfatima.visiting2024@lhr.nu.edu.pk"
+    },
+    "creationTime": "2024-10-11T05:11:17.603Z",
+    "updateTime": "2024-10-11T05:11:59.575Z",
+    "publicationTime": "2024-10-11T05:11:59.028Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1ietvQlxu-TwwCEZA6nxLjAE1_45Pk3Or",
+          "title": "textfile.txt",
+          "alternateLink": "https://drive.google.com/file/d/1ietvQlxu-TwwCEZA6nxLjAE1_45Pk3Or/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOUFxS20r3MYYcYyTAqjrrCNrjeeu4pP0nSmean1ss4s_kHvnsroiSiy0lDsYKDyGcOQhfprO6-p7tZrFvu7h24K_fWC8fGwPEF-gKTWdQOARY\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1RpdKwiIpfhDjO6VuQ3N1FFlqbadlgJ4L",
+          "title": "DAV_Naive bayes.ipynb",
+          "alternateLink": "https://drive.google.com/file/d/1RpdKwiIpfhDjO6VuQ3N1FFlqbadlgJ4L/view?usp\u003ddrive_web"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1ggPM_HKMTGSAEG9jhzYz3pQ8Nc5MwdHQ",
+          "title": "cosine_similarity.ipynb",
+          "alternateLink": "https://drive.google.com/file/d/1ggPM_HKMTGSAEG9jhzYz3pQ8Nc5MwdHQ/view?usp\u003ddrive_web"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1tZo4WgGgZjy-dVMFMnp1u8PrSl_Gma5m",
+          "title": "f3.txt",
+          "alternateLink": "https://drive.google.com/file/d/1tZo4WgGgZjy-dVMFMnp1u8PrSl_Gma5m/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM5GvrqbOcEFFv5-S6z6nkybchWI6GQW9X3OMloTUrCLulGStduUBAFAzs5kmCepgJEAABWhbv0gBHOKFDiAyGM3H4BPhkWUDGmaiPQBwIjYTk\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1Doi3px9E6CskfWfOxWY7v7FrdyxLU8z2",
+          "title": "f1.txt",
+          "alternateLink": "https://drive.google.com/file/d/1Doi3px9E6CskfWfOxWY7v7FrdyxLU8z2/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOr60ek66dgbD3HYjXox6L3o-3IXYH7qae6jovHpeDfC19qVqeW0lMu36jlfGtsA4KUzyOSKAQ4uX_VZTvBLl7QWMdNlM679oVK3LX5PGgGPc4\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1kf2pMNk4Lsck7_OADngKzvg5C_My2hQH",
+          "title": "f2.txt",
+          "alternateLink": "https://drive.google.com/file/d/1kf2pMNk4Lsck7_OADngKzvg5C_My2hQH/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNprL33z5m8Mu0f9DeZA3HQi55iugK5oV1W4lZJW-GTVEeRHQHruJiTPwHG1ZJvo58AYgLW1Ch7SlFCua1yHgy5ayX3IhPKW0_hFqfXyg8gFEw\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab 7",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "19AlW8au8GMPP5HPQNX6WuS3u4eZD21yb",
+              "title": "l200961_cosine_similarity.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/19AlW8au8GMPP5HPQNX6WuS3u4eZD21yb/view?usp\u003ddrive_web"
+            }
+          }, {
+            "driveFile": {
+              "id": "1yuTYopyKkS6zrihX6TtJrCMwJGOIytxe",
+              "title": "l200961_Naive_bayes.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1yuTYopyKkS6zrihX6TtJrCMwJGOIytxe/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Mateen Fatima VF 2024"
+      },
+      "emailAddress": "mateenfatima.visiting2024@lhr.nu.edu.pk"
+    },
+    "creationTime": "2024-10-04T04:50:25.034Z",
+    "updateTime": "2024-10-04T05:01:02.468Z",
+    "scheduledTime": "2024-10-04T05:00:00Z",
+    "publicationTime": "2024-10-04T05:01:02.314Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1UOmfG_tY5ZhOiLi6ir0_kgXSOvkbQBOO",
+          "title": "datset.txt",
+          "alternateLink": "https://drive.google.com/file/d/1UOmfG_tY5ZhOiLi6ir0_kgXSOvkbQBOO/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNfbYMEHq5YujdOK7KhcmrY-zz2Eft-wdxlSDvjYwD7llxc3KaFUGWdzjlLgZqC76S0w-rdWr24s-e2bxli1JQ-uJ2sLTVuiIeGJ2VAyvj8gII\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1Eg_uGYb_2APbHKQGSHlPqH0iwekzie6V",
+          "title": "Lab_NLP_lab.ipynb",
+          "alternateLink": "https://drive.google.com/file/d/1Eg_uGYb_2APbHKQGSHlPqH0iwekzie6V/view?usp\u003ddrive_web"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab 6",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "124Nywe_v16YFq9JTub1tmtCpwhQfEmj0",
+              "title": "l200961.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/124Nywe_v16YFq9JTub1tmtCpwhQfEmj0/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Mateen Fatima VF 2024"
+      },
+      "emailAddress": "mateenfatima.visiting2024@lhr.nu.edu.pk"
+    },
+    "creationTime": "2024-09-27T05:52:02.486Z",
+    "updateTime": "2024-09-27T05:52:26.412Z",
+    "publicationTime": "2024-09-27T05:52:25.858Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1bY-NEYuzdoHu_d4fs7ng4iu5uonMxVLB",
+          "title": "dog.webp",
+          "alternateLink": "https://drive.google.com/file/d/1bY-NEYuzdoHu_d4fs7ng4iu5uonMxVLB/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMdMvQJZgDe7da2ft4iF70v1CqUtIF-LTdhF5N4CxxRH9y1UJ6uiPHj9TB5tCJR9CMb2zeJDWQkD8vjXWZ77OpEjt40JWGfsw1nY3AgE5iBUoc\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "19Q0b73ww5jUO74v8d2M52D7idz6Tn-ZO",
+          "title": "parrot.jpg",
+          "alternateLink": "https://drive.google.com/file/d/19Q0b73ww5jUO74v8d2M52D7idz6Tn-ZO/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMiKTKiQszOvEpyrkSKfx_MM4Uw_wc5aUSpU5wiuyY-KIJLqqb6vSSPlTuyg1IkJT1-3V4MRr-EkvHPDaXEkcotwiNDYKS1qHEQA201CGJQALQ\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1IJ4JOIDaz-dgS0Ef05w2iGQMTbNBlmsH",
+          "title": "DAV_Lab_5_Image_Processing.ipynb",
+          "alternateLink": "https://drive.google.com/file/d/1IJ4JOIDaz-dgS0Ef05w2iGQMTbNBlmsH/view?usp\u003ddrive_web"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1pvI3Vj9SSOOD4LRwcSIyYC_twQ-FQt8u",
+          "title": "DAV_Lab_5_Image_Processing_help(1).ipynb",
+          "alternateLink": "https://drive.google.com/file/d/1pvI3Vj9SSOOD4LRwcSIyYC_twQ-FQt8u/view?usp\u003ddrive_web"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "LAb-05",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1A62oQpwFcfMX2a443cKVUrG1s7bv2pz9",
+              "title": "l200961.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1A62oQpwFcfMX2a443cKVUrG1s7bv2pz9/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Hassan Abbas"
+      },
+      "emailAddress": "hassan.abbas@lhr.nu.edu.pk"
+    },
+    "creationTime": "2024-09-19T11:06:47.297Z",
+    "updateTime": "2024-09-20T05:00:34.114Z",
+    "scheduledTime": "2024-09-20T05:00:00Z",
+    "publicationTime": "2024-09-20T05:00:33.925Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1snK0kGJrZB4pbcpJ3EubyxVnOct1KV5T",
+          "title": "aug_train.csv",
+          "alternateLink": "https://drive.google.com/file/d/1snK0kGJrZB4pbcpJ3EubyxVnOct1KV5T/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNR8Y0u9kci8SzqXnonYecQkqSN0DTdSBl0O33epYqTWX2ifNG-WJNAc-qq26GBifeK3ssjLvdSISz7JEZeQej4kuIVKpLCnsHLndLlxOxkJXA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1NMiKoOFc8JYtmd56thSygWhHKTXkp_Dn",
+          "title": "Bivariate_plotting_with_pandas_Tutorial.ipynb",
+          "alternateLink": "https://drive.google.com/file/d/1NMiKoOFc8JYtmd56thSygWhHKTXkp_Dn/view?usp\u003ddrive_web"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1DnXIIdlBf4zpZCWSY4gG28vXHvKNj6nE",
+          "title": "Lab4_tasks.ipynb",
+          "alternateLink": "https://drive.google.com/file/d/1DnXIIdlBf4zpZCWSY4gG28vXHvKNj6nE/view?usp\u003ddrive_web"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1z4kx--qHKAT1P2n2P5f9nYy2AK9lHE_w",
+          "title": "top-five-wine-score-counts.csv",
+          "alternateLink": "https://drive.google.com/file/d/1z4kx--qHKAT1P2n2P5f9nYy2AK9lHE_w/view?usp\u003ddrive_web"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1LP1urd-1OQiVD-9A3oF1bA-esTTjx6-z",
+          "title": "Univariate_plotting_with_pandas_Tutorial.ipynb",
+          "alternateLink": "https://drive.google.com/file/d/1LP1urd-1OQiVD-9A3oF1bA-esTTjx6-z/view?usp\u003ddrive_web"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1-DSrBMbUSMC4bLhgU4BcZZM2DK3x6bVQ",
+          "title": "winemag-data_first150k.csv",
+          "alternateLink": "https://drive.google.com/file/d/1-DSrBMbUSMC4bLhgU4BcZZM2DK3x6bVQ/view?usp\u003ddrive_web"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab 4 - EDA",
+      "dueTime": "2024-09-27T05:00:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1Sjaq6BK6pbRbLaNTYdz1XCmV4XOttZ8B",
+              "title": "l200961.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1Sjaq6BK6pbRbLaNTYdz1XCmV4XOttZ8B/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Hassan Abbas"
+      },
+      "emailAddress": "hassan.abbas@lhr.nu.edu.pk"
+    },
+    "creationTime": "2024-09-13T13:09:53.171Z",
+    "updateTime": "2025-01-12T15:07:45.370Z",
+    "publicationTime": "2024-09-13T13:11:18.828Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Bonus Assignment - Web Scrapping Certification (Not Compulsory) (2 Absolute Bonus Marks)",
+      "description": "https://cognitiveclass.ai/courses/web-scraping-for-python-using-beautiful-soup",
+      "descriptionHtml": "\u003cdiv\u003ehttps://cognitiveclass.ai/courses/web-scraping-for-python-using-beautiful-soup\u003c/div\u003e",
+      "dueTime": "2024-10-04T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "16--jKa7wbKBexBcYMjOWQZDmGmfNYQDw",
+              "title": "Screenshot_2024-09-16-13-17-38-82_40deb401b9ffe8e1df2f1cc5ba480b12.jpg",
+              "alternateLink": "https://drive.google.com/file/d/16--jKa7wbKBexBcYMjOWQZDmGmfNYQDw/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPIc1qQ6l0vxhi4oNswOgH0-6Ia1Bh7CbJfX0CoYFI8YuT2_yv0ha2NNfIXFuKVeAUrnZSABpq23FymD5fT1hQ31ttkhNa88vVhwMx_jz3LNA0\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Hassan Abbas"
+      },
+      "emailAddress": "hassan.abbas@lhr.nu.edu.pk"
+    },
+    "creationTime": "2024-09-12T11:11:09.148Z",
+    "updateTime": "2024-09-13T07:18:45.438Z",
+    "scheduledTime": "2024-09-13T05:30:00Z",
+    "publicationTime": "2024-09-13T05:34:52.327Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1Vf5yxPsfWRFqeRluR2vcgFnvFps9E-S1",
+          "title": "DAV Lab 3-Part 2-Scrapping.docx",
+          "alternateLink": "https://drive.google.com/file/d/1Vf5yxPsfWRFqeRluR2vcgFnvFps9E-S1/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNDuq5JdoS3Uhe8Vv-ERjY3dUTuUK1kiIPaU7u0QmEgNWXfbjNA6ey_odus3RaXWS5ELmpEw_CCv_joQAakoG5J_-jYDu7Um_Yg9tcu6pAnM30\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab 3 - Part 2 - Scrapping",
+      "dueTime": "2024-09-16T08:00:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1EBUg77krQ5FQ8zGXKzIWfxdzHKFwMXnd",
+              "title": "l200961_part_2.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1EBUg77krQ5FQ8zGXKzIWfxdzHKFwMXnd/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Hassan Abbas"
+      },
+      "emailAddress": "hassan.abbas@lhr.nu.edu.pk"
+    },
+    "creationTime": "2024-09-12T11:09:57.033Z",
+    "updateTime": "2024-09-13T05:00:56.566Z",
+    "scheduledTime": "2024-09-13T05:00:00Z",
+    "publicationTime": "2024-09-13T05:00:56.550Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "104m79j6KiWtEF9WRY_OK63yO0-1IpZ9E",
+          "title": "Lab 3-Part 1-Pandas Task.pdf",
+          "alternateLink": "https://drive.google.com/file/d/104m79j6KiWtEF9WRY_OK63yO0-1IpZ9E/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNPaa-NQcGjkTcRxUwCS8G6ScjVARb48wL_Q_4Kdn5vAcfxAxQMx34wpJplyj-8dHdWwgogvN-3ffsZiUQvAoPqZi8VkBu9Xkq8u5EGYXDPLFg\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1whuA70cUmFvdT0ydJiqD109ASSAT6Ulc",
+          "title": "Pandas_Basics.ipynb",
+          "alternateLink": "https://drive.google.com/file/d/1whuA70cUmFvdT0ydJiqD109ASSAT6Ulc/view?usp\u003ddrive_web"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "13H4_44xdof9GkMtsiYQS7LNz75jWyelj",
+          "title": "Task_automobile_data.xlsx",
+          "alternateLink": "https://drive.google.com/file/d/13H4_44xdof9GkMtsiYQS7LNz75jWyelj/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMPISn3_KHv6EjtQyzy5R3H9WtYADwhU19I54J9qw_zwynIHjehHWtDkBgx1s50salyjs4-sU5GWlA4yePjGz71y-Z7FKNMKfNjQ4cw5CiAjjs\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1QK7zPc11ZbjDPv43sSYUwRGkpw6KeX72",
+          "title": "top_selling_albums.csv",
+          "alternateLink": "https://drive.google.com/file/d/1QK7zPc11ZbjDPv43sSYUwRGkpw6KeX72/view?usp\u003ddrive_web"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab 3 - Part 1 (Pandas Basics)",
+      "dueTime": "2024-09-13T08:00:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1b1RuBBcCb8f14cPstyzSdURafif6Eso0",
+              "title": "l200961_part_1.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1b1RuBBcCb8f14cPstyzSdURafif6Eso0/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Hassan Abbas"
+      },
+      "emailAddress": "hassan.abbas@lhr.nu.edu.pk"
+    },
+    "creationTime": "2024-09-06T06:16:32.457Z",
+    "updateTime": "2024-10-11T05:14:15.718Z",
+    "publicationTime": "2024-09-06T06:17:21.739Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Assignment 1 (4 Absolute Marks (Tentative))",
+      "description": "Enroll in the following course with your fast ID. Submit your completion certificate . The certificate should have your full name on it. This is a very basic course that covers python basics.\n\nhttps://cognitiveclass.ai/courses/python-for-data-science",
+      "descriptionHtml": "\u003cdiv\u003eEnroll in the following course with your fast ID. Submit your completion certificate . The certificate should have your full name on it. This is a very basic course that covers python basics.\u003cbr\u003e\u003cbr\u003ehttps://cognitiveclass.ai/courses/python-for-data-science\u003c/div\u003e",
+      "dueTime": "2024-10-11T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1sxIoBiMnavYFMwk1cduRHNOrpBJ7-A3d",
+              "title": "IBM PY0101EN Certificate Cognitive Class.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1sxIoBiMnavYFMwk1cduRHNOrpBJ7-A3d/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPSWwz649OSs89LxDaUs0-lMejcbaFJoVL-zRygr5vMMnqp8N-f1GUFOUg4Ay5uXExoBMHmmL4h1o0ts01nCHCDIOw9P7BLgEyHojBZn_v6u-g\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Hassan Abbas"
+      },
+      "emailAddress": "hassan.abbas@lhr.nu.edu.pk"
+    },
+    "creationTime": "2024-09-06T06:00:25.981Z",
+    "updateTime": "2024-09-06T06:01:03.369Z",
+    "publicationTime": "2024-09-06T06:01:02.839Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Lab 2 Submission - 5A2",
+      "dueTime": "2024-09-06T08:00:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "18C9AjKb3T9Wzzpf6jKA4SuV5vYUSb73B",
+              "title": "Screenshot_6-9-2024_1128_pynative.com.jpeg",
+              "alternateLink": "https://drive.google.com/file/d/18C9AjKb3T9Wzzpf6jKA4SuV5vYUSb73B/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOsX4YzevEqmqXZ1x_UtKrj9wEReNMOAHFkZHASmxJa2-Fl5fzY7O7L3DlAg2b_SwWDEKMP49H3qbzqUEJIAvH5m04U-mjoFybyx-bzghPOiIM\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1pS2yUX202uo6-w7NGEh9URjLf5Y3DM7y",
+              "title": "Screenshot_6-9-2024_11179_pynative.com.jpeg",
+              "alternateLink": "https://drive.google.com/file/d/1pS2yUX202uo6-w7NGEh9URjLf5Y3DM7y/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMTwaGbJkDYi4jMMx7akgR2VWjhLtIYHyxd3ECgDauzjEdkjzmWJdwpzlh1eo7FQ7fA-t45XPXKoyWv_FjfzCBY8BuEUmm7gV2AX_Z_5stSgtU\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1Cv-DJ-hz0Qa_XqH-J7ygKPWloeTAS_5B",
+              "title": "Screenshot_6-9-2024_113656_pynative.com.jpeg",
+              "alternateLink": "https://drive.google.com/file/d/1Cv-DJ-hz0Qa_XqH-J7ygKPWloeTAS_5B/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMImQffJjJLYhqvgNCBrEmlh0yHwQupgVlV-ZFQUmY8HCt0YPpeXCfOvdMLIdpS0XsgrNyuo7XdTqJURE6HJfupzEVScTxZx30RzwTOlcl0Nh4\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Hassan Abbas"
+      },
+      "emailAddress": "hassan.abbas@lhr.nu.edu.pk"
+    },
+    "creationTime": "2024-09-06T05:58:25.324Z",
+    "updateTime": "2024-09-06T06:00:15.077Z",
+    "publicationTime": "2024-09-06T06:00:14.566Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Lab 2 Submission - 5A1",
+      "dueTime": "2024-09-06T08:00:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Hassan Abbas"
+      },
+      "emailAddress": "hassan.abbas@lhr.nu.edu.pk"
+    },
+    "creationTime": "2024-08-30T05:54:17.424Z",
+    "updateTime": "2024-08-30T07:23:50.882Z",
+    "publicationTime": "2024-08-30T05:56:30.338Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Lab 1 Submission - 5A2",
+      "dueTime": "2024-09-06T08:00:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "link": {
+              "url": "https://colab.research.google.com/drive/1y6BJnWogo-2BmCyNWL9sbSmuLe6xwf9F?usp\u003dsharing",
+              "title": "l200961.ipynb - Colab",
+              "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://colab.research.google.com/drive/1y6BJnWogo-2BmCyNWL9sbSmuLe6xwf9F?usp%3Dsharing"
+            }
+          }, {
+            "driveFile": {
+              "id": "12m8_9huEF90a2WR_3O1eonas1GomKG2d",
+              "title": "l200961.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/12m8_9huEF90a2WR_3O1eonas1GomKG2d/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Hassan Abbas"
+      },
+      "emailAddress": "hassan.abbas@lhr.nu.edu.pk"
+    },
+    "creationTime": "2024-08-30T05:52:42.884Z",
+    "updateTime": "2024-09-13T07:02:35.083Z",
+    "publicationTime": "2024-08-30T05:54:07.626Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Lab 1 Submission - 5A1",
+      "dueTime": "2024-08-30T08:00:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }]
+}

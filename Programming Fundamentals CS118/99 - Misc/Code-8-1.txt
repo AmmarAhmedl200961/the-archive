@@ -1,0 +1,31 @@
+#include "stdafx.h"
+#include <iostream>
+#include <math.h>
+
+using namespace std;
+
+int main()
+{
+	int x[]={1,2,3,4,5,8,9,7,8,5,8};
+	 int tmp;
+	int size= sizeof(x)/sizeof(x[0]);
+	int start=0, end=size-1;
+	while(start<=end)
+	{
+		tmp=x[start];
+		x[start]=x[end];
+		x[end]=tmp;
+		end--;
+		start++;
+	}
+
+	for(int i=0; i<size; i++)
+	{
+		cout<<x[i]<<endl;
+
+		
+	}
+	system("pause");
+	return 0;
+}
+

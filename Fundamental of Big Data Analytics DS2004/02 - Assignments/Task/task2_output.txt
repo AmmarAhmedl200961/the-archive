@@ -1,0 +1,6 @@
+"behindtheskipper"	1
+"for"	1
+"pti"	3
+"supporter"	1
+"vote"	1
+"wins"	1

@@ -1,0 +1,349 @@
+{
+  "version": 1,
+  "name": "IDS - Fall 2023",
+  "section": "B, C",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroomd6baa475@group.calendar.google.com",
+  "videoCallUrl": "https://meet.google.com/jcq-sxax-cqq",
+  "courseFolder": {
+    "id": "1OtXZahE93FjVHFGo-YEmpzn6AbTNpzEqVhn-UMbmwx6l3oJmvqL7AJHzIeUriNRSGZLFA5Ip",
+    "name": "IDS - Fall 2023 B, C",
+    "openUrl": "https://drive.google.com/drive/folders/1OtXZahE93FjVHFGo-YEmpzn6AbTNpzEqVhn-UMbmwx6l3oJmvqL7AJHzIeUriNRSGZLFA5Ip"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/Chemistry.jpg",
+  "subject": "Intro to Data Science",
+  "courseState": "ARCHIVED",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Khuzaima Tofeeq BSDS 2020 FAST NU LHR"
+      },
+      "emailAddress": "l201304@lhr.nu.edu.pk"
+    },
+    "creationTime": "2023-11-26T12:30:10.456Z",
+    "updateTime": "2023-11-26T12:31:17.982Z",
+    "publicationTime": "2023-11-26T12:31:17.578Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1kzrqYlXtiZDmxHmAZsfyfpYINDDGawXz",
+          "title": "Intro To Data Science- Assignment 4.docx",
+          "alternateLink": "https://drive.google.com/file/d/1kzrqYlXtiZDmxHmAZsfyfpYINDDGawXz/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMaBzCoUB0eXh56e_8uVTyp3EmjkVZveTexEu_DBo8pwVAECkspa4_MviS6UcjYPn7hMXeSxCjZkHvXH-NZMo0Jh4AGaOMOVoYk1mgWXXzXiLI\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1CFSq2BbHm_Y8kEjxjyLx5K2H9iXdP87F",
+          "title": "my_iris.xlsx",
+          "alternateLink": "https://drive.google.com/file/d/1CFSq2BbHm_Y8kEjxjyLx5K2H9iXdP87F/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBO7wsvkdUto5V5uloWiUjwsh2v7F5BOkhbJoHTz5SLRsjAOxuGrMxMe8raOuwxUyZOzxZHbnm7_auFgh-txIYXZfpzcioMR_C1vHcmAzItD-EQ\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 4 ",
+      "dueTime": "2023-12-03T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1sbbkE72Ef4NhSNyFlzHHUCxGfd4gaGLr",
+              "title": "20L0961.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1sbbkE72Ef4NhSNyFlzHHUCxGfd4gaGLr/view?usp\u003ddrive_web"
+            }
+          }, {
+            "driveFile": {
+              "id": "1JKL0IiFMt-Vun6SUtqmZ4MhTKRni03nS",
+              "title": "kc_house_data.csv",
+              "alternateLink": "https://drive.google.com/file/d/1JKL0IiFMt-Vun6SUtqmZ4MhTKRni03nS/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Khuzaima Tofeeq BSDS 2020 FAST NU LHR"
+      },
+      "emailAddress": "l201304@lhr.nu.edu.pk"
+    },
+    "creationTime": "2023-10-30T08:26:15.598Z",
+    "updateTime": "2023-11-05T19:16:03.190Z",
+    "publicationTime": "2023-10-30T08:28:03.426Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1zTmfJSieVnMoYd7iQUZL0IYheDbOckwu",
+          "title": "IDS-A3.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1zTmfJSieVnMoYd7iQUZL0IYheDbOckwu/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBO5230_waDVvaj3HpUave-7Kw7j3m58goBN7wVvw_LZYAZ-bgsH5zlrw5XFETv9fySHXBQgosRDKxtV6zedUx7haqRCa9gyVsH6uphOg9G4BAE\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1DqaWWGnOKgc53FVjShkwG930akM_r5lw",
+          "title": "ex1data1.txt",
+          "alternateLink": "https://drive.google.com/file/d/1DqaWWGnOKgc53FVjShkwG930akM_r5lw/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMjkEjYVGc1oyMh6tx1T0runXKbRzNiAqZfB_yL3w4NX6nBQjipqXXEa1Zsu83jQfOj8M_FXlGVFpIgKCBOtRSTxpUoB-6AR3ExmS39PcgmF6A\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1lC4_T7Cva7bXchsPYSuj_5NU-b7liooq",
+          "title": "ex1data2.txt",
+          "alternateLink": "https://drive.google.com/file/d/1lC4_T7Cva7bXchsPYSuj_5NU-b7liooq/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPii8Z9xUNpU1Re-xWU3ExywVYYPvCA3Qqh_7zRep-gpmRzISjgLbrM2GtbObankhPEKKJ0zW7Wsfv_Dfmaz-A5tROU2PRFYYyOr7cMUy7WgOs\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1qNOLSFo1oKDYZYGwZ1tDSY-_OMwjtA_x",
+          "title": "coin_Bitcoin.xlsx",
+          "alternateLink": "https://drive.google.com/file/d/1qNOLSFo1oKDYZYGwZ1tDSY-_OMwjtA_x/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOUNyZjECLop4RdHpM2fUbiwkkN7b7SIUo1vCtz4lGwBp6_EYKyQIBLBmxzjHKu8RLybJrbdomSUzQKg08kM3czYoV84fSZzy9c7CeYaihhb2U\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment-3",
+      "dueTime": "2023-11-05T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1wI1GSndl3m5ccxxJtM859MM6yeR4Z0qo",
+              "title": "20L0961.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1wI1GSndl3m5ccxxJtM859MM6yeR4Z0qo/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Khuzaima Tofeeq BSDS 2020 FAST NU LHR"
+      },
+      "emailAddress": "l201304@lhr.nu.edu.pk"
+    },
+    "creationTime": "2023-09-23T19:23:24.600Z",
+    "updateTime": "2023-12-06T09:44:37.127Z",
+    "publicationTime": "2023-09-23T19:25:28.325Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1DYaWaTeKMn_puQTYmobirvMEgCcxSupY",
+          "title": "Iris.csv",
+          "alternateLink": "https://drive.google.com/file/d/1DYaWaTeKMn_puQTYmobirvMEgCcxSupY/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOLUL43CGjU0ifqp9KBQr0amV7MeNsvrPQhdBCiH3VmGnv4UCgaf5KbZg9h3ytMocHev1-4PEVdC6GZL3EINAqjediMXkXoHm2Kv_r_8PX3fjM\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1ngGok3SeSicEbCp3bsUg7tSjXcuhcsSr",
+          "title": "Housing.csv",
+          "alternateLink": "https://drive.google.com/file/d/1ngGok3SeSicEbCp3bsUg7tSjXcuhcsSr/view?usp\u003ddrive_web"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1tP_y-qDlIcpjQTQnbFIYyk0mBam1styv",
+          "title": "titanic.csv",
+          "alternateLink": "https://drive.google.com/file/d/1tP_y-qDlIcpjQTQnbFIYyk0mBam1styv/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBO_ldddk0f6AZtRoJQltwLWwXUoZuMWzxnNynuhlQRKGJ8jl7HFNKod-973FNQBMNTWqjrgXkq_K4SATow-d55S9TlzC0JeJ-w5LIn48K6KNWo\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "12KpG48aGOumALG9i465AfzIFdkHUMSjf",
+          "title": "Assignment 2.docx",
+          "alternateLink": "https://drive.google.com/file/d/12KpG48aGOumALG9i465AfzIFdkHUMSjf/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOnDiUmN09osFPIOSwYlGXCV_sbUs9_ipF0HYXPPwvSTdE5MzgHZa-lvKir9HLQahdxUW_mo3ccmONBIdMVa0VwTemHwWGll_Rh7thKIRjLxWA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment-2 ",
+      "dueTime": "2023-09-26T18:59:00Z",
+      "maxPoints": 25.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1s5m1IEfi6mwFGBq4V4BD9ldUBrEebiFm",
+              "title": "20L0961.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1s5m1IEfi6mwFGBq4V4BD9ldUBrEebiFm/view?usp\u003ddrive_web"
+            }
+          }, {
+            "driveFile": {
+              "id": "1tsSRMvRMi6R0P05ES7obAPeBcUNVYuH_",
+              "title": "20L0961.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1tsSRMvRMi6R0P05ES7obAPeBcUNVYuH_/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPGj9uAvPKQO6vuLTaf1wTKxs3tPSBqS-ba-SNNYjz2YGIQO41Yg5cZT9ZcUk3SkRR98wjp171J7FbZYpkZB3FPA7dn-KIeXG63jtsnQf2j9Go\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Khuzaima Tofeeq BSDS 2020 FAST NU LHR"
+      },
+      "emailAddress": "l201304@lhr.nu.edu.pk"
+    },
+    "creationTime": "2023-09-16T09:16:59.317Z",
+    "updateTime": "2023-10-15T19:16:04.964Z",
+    "publicationTime": "2023-09-16T09:22:47.657Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1QZAaZd2NrfzqHdPvdROLA0l7bDNYZrWJ",
+          "title": "RollNumber_01 (1).ipynb",
+          "alternateLink": "https://drive.google.com/file/d/1QZAaZd2NrfzqHdPvdROLA0l7bDNYZrWJ/view?usp\u003ddrive_web"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1Xw18m0QaSja5P3QW49B-x75tSzLVsu1R",
+          "title": "Text_File.txt",
+          "alternateLink": "https://drive.google.com/file/d/1Xw18m0QaSja5P3QW49B-x75tSzLVsu1R/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNh8O0Hm33C9vxb65_rdn52sWleyKbX8ll8PWQS6_dptujSoHtwrCb1v3JA3Jbuk9-A4nqrrS2NcaycoNHAZ_8XMyCtgQtGU-0hvBUD8krLgkU\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1CYRIgU0aqFm5DOUzotVb32JvFa6jcl_u",
+          "title": "countries.csv",
+          "alternateLink": "https://drive.google.com/file/d/1CYRIgU0aqFm5DOUzotVb32JvFa6jcl_u/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP-OS5dQAiLiZLWdwzWR4GcIWbsQOBazb5cdd7CC_z3PDk9oosgBgONvOuH3eudv9RMMkoIdUrlLsgxJgmfVZ8Ezk53nU3RxGgwivc2pUiqRZQ\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment-1",
+      "description": "Submission: Submit your .ipynb notebook as ROLL_NUM_Section (e.g: 23L7532_B.ipynb). Submit .ipynb file on GCR within given deadline.\n\nPlagiarism: - Any form of academic dishonesty (e.g. plagiarism, copying code from other sources,\nsharing code with other students) is strictly prohibited and will result in disciplinary action. The\nindividuals involved will get zero in this assignment and 50% deductions in assignments to come.\n\nViva/Demo Evaluation: - Students should be prepared to present their code and answer questions about their\nimplementation during the viva evaluation. The viva evaluation will focus on your program logic and\nconcepts used.\n\nNOTE: There would be a quiz in Wedensday\u0027s class related to this assignment.",
+      "descriptionHtml": "\u003cdiv\u003eSubmission: Submit your .ipynb notebook as ROLL_NUM_Section (e.g: 23L7532_B.ipynb). Submit .ipynb file on GCR within given deadline.\u003cbr\u003e\u003cbr\u003ePlagiarism: - Any form of academic dishonesty (e.g. plagiarism, copying code from other sources,\u003cbr\u003esharing code with other students) is strictly prohibited and will result in disciplinary action. The\u003cbr\u003eindividuals involved will get zero in this assignment and 50% deductions in assignments to come.\u003cbr\u003e\u003cbr\u003eViva/Demo Evaluation: - Students should be prepared to present their code and answer questions about their\u003cbr\u003eimplementation during the viva evaluation. The viva evaluation will focus on your program logic and\u003cbr\u003econcepts used.\u003cbr\u003e\u003cbr\u003eNOTE: There would be a quiz in Wedensday\u0026#39;s class related to this assignment.\u003c/div\u003e",
+      "dueTime": "2023-09-20T05:00:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1wtj8MtRd0P5NSCNmnflx5-jnMhDO-Hi3",
+              "title": "20L0961_C.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1wtj8MtRd0P5NSCNmnflx5-jnMhDO-Hi3/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Dr.Asma Ahmad"
+      },
+      "emailAddress": "asma.ahmad@lhr.nu.edu.pk"
+    },
+    "creationTime": "2023-09-11T04:20:27.258Z",
+    "updateTime": "2023-09-11T04:20:56.938Z",
+    "publicationTime": "2023-09-11T04:20:56.669Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Week 4 - Task 1"
+    }],
+    "courseWork": {
+      "title": "Task 1",
+      "dueTime": "2023-09-11T09:00:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }]
+}

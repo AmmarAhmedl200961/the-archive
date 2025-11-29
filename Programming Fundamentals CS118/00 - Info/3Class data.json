@@ -1,0 +1,249 @@
+{
+  "version": 1,
+  "name": "Programming Fundamentals (BDS-1B)",
+  "section": "BDS-1B",
+  "room": "CE-1",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom97194377@group.calendar.google.com",
+  "videoCallUrl": "https://meet.google.com/fay-nbuy-eyz",
+  "courseFolder": {
+    "id": "1fUgujrrgXAkmN49gkIQfpQYWpdrrVhmxRXCcV2C1sK8obzDvH-SG9GemMML1Q0wWlm3phiEv",
+    "name": "Programming Fundamentals (BDS-1B) BDS-1B",
+    "openUrl": "https://drive.google.com/drive/folders/1fUgujrrgXAkmN49gkIQfpQYWpdrrVhmxRXCcV2C1sK8obzDvH-SG9GemMML1Q0wWlm3phiEv"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_reachout.jpg",
+  "subject": "Programming Fundamentals",
+  "courseState": "ACTIVE",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "waqas manzoor"
+      },
+      "emailAddress": "waqas.manzoor@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-12-10T19:21:00.358Z",
+    "updateTime": "2021-12-15T14:08:58.003Z",
+    "publicationTime": "2021-12-10T19:22:04.290Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "12-nJBd8TJGzLXS8jlgYavHmgC_ZVDVZX",
+          "title": "Assignment2 Arrays.docx",
+          "alternateLink": "https://drive.google.com/file/d/12-nJBd8TJGzLXS8jlgYavHmgC_ZVDVZX/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMNM--deTKaAC93XOLOE0UT6JsMQ_hGU1gpv5ITa4UmiKSYT5fxYfuI1eWXUtHOt1-6Ib4EsvnyB4EadulZTRMhjC-8uSbJh7F1o5M7RcFKxg\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1YSoYRPWT63yp2FnZbB3qOB6CK9Q2apfh",
+          "title": "main_q3.cpp",
+          "alternateLink": "https://drive.google.com/file/d/1YSoYRPWT63yp2FnZbB3qOB6CK9Q2apfh/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOPYBGWkIJXX4QKWq94qs7_UzG1hKJ0PJoXvms7eoB6PWQJbYUY3WwddIcwuDgVv2Oa8GBUAN-ehTInWuUjFjFjj9SsjoZVh4AspiVaWdnYQA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "191LATgqpfQ0jo667d3oNKfNrYSFvQB1M",
+          "title": "main_q4.cpp",
+          "alternateLink": "https://drive.google.com/file/d/191LATgqpfQ0jo667d3oNKfNrYSFvQB1M/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMZClLe5cKfhCOtwmCbxF-3QNyuz6dKMDhZ0OkZjf7YP8X2WocwQJCJXddh8uw8o-gxf0MmB4ALBMvlx9S9nEdxpMjjKMa4UoDJxJ36m-3qXQ\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "AssignmentII",
+      "dueTime": "2021-12-18T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1D2tPQWbhQ37_hmwTbhR0lqoq-crvBHgZ",
+              "title": "20L-0961_Q1.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1D2tPQWbhQ37_hmwTbhR0lqoq-crvBHgZ/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNV8LEZxazTyxkl2Ewdo-Pst7J9wCczFwJk6qP9xTam9V-YXdSbiMTNjF0c58JoIsJ1yS16tDp4SuzvF5D3-W9Cdc0jgZfcwdSlWUMUxt_EurM\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1u-FBcSHaX0eNplTEfPuVeXXdesJ3Jm8k",
+              "title": "20L-0961_Q2.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1u-FBcSHaX0eNplTEfPuVeXXdesJ3Jm8k/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMUTuyNcYyZn2giKp3vOsApJJfenZJmqu4X5yegu9zG5rRFiTQJ8N9Acumchq5f_LRrXgMlxXZSqlI6puNi4sXTU4gLFF_PxjrEP3yiHnOKeJ8\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1j-BeEiD_FD5egmSUQAn-R68qqGp5uYBd",
+              "title": "20L-0961_Q3.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1j-BeEiD_FD5egmSUQAn-R68qqGp5uYBd/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOQJtI83ofG9DWLFDTI12i62elD7m9SnBrkoyFTfgrLHctb65Fjpzw4-2tsF0fFpc0WEJP9-RrwcDo0TxU49MsQpVZyYm61lm85ZJ2Qojm0Txk\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1bhft7U1FoamfvkdnXDKtFn1Q4ZqP1jxm",
+              "title": "20L-0961_Q4.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1bhft7U1FoamfvkdnXDKtFn1Q4ZqP1jxm/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOZmvGaW_gEdDpfOrWULeDFuXC_-UchCPr_pwlI58lhfR_PockrTOf5IW89NzGLzssVRujKdQGjK1YrTRG34N9NI_P_uf9DupgyVqKBx1xB4bQ\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "waqas manzoor"
+      },
+      "emailAddress": "waqas.manzoor@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-12-07T17:08:02.034Z",
+    "updateTime": "2022-01-06T11:13:28.810Z",
+    "publicationTime": "2021-12-07T17:08:00.672Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1jgaZeztSRi_zZCdh5a38l1FIVl8CxMpu",
+          "title": "Project.docx",
+          "alternateLink": "https://drive.google.com/file/d/1jgaZeztSRi_zZCdh5a38l1FIVl8CxMpu/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMd4oT5e7KqqLpTSVpjAi29KIRgpKLSSKu1fuBfGB_eCi-XIOdnOawYhnC2v2-hkYuEMSrGp5yIn6bKg_XtEzEFYnwNp46rxr--Expq6Z9I5Q\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Project",
+      "dueTime": "2022-01-07T02:00:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "waqas manzoor"
+      },
+      "emailAddress": "waqas.manzoor@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-11-06T08:50:24.070Z",
+    "updateTime": "2021-11-12T07:40:17.032Z",
+    "publicationTime": "2021-11-06T08:50:22.963Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1wBun4yBvEkufw7e0JtNsVhUytNj88ZZf",
+          "title": "Assignment1.docx",
+          "alternateLink": "https://drive.google.com/file/d/1wBun4yBvEkufw7e0JtNsVhUytNj88ZZf/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN6haFcqq5MUIy6mRq2vA0DxEuhH_L3qIlU9yaTFORtXnYzTeT1pA0Pdo_XadSn2V9RQwd5wg9GF71XNAnEL9N_tVleZmrDok6Vr40lvg1OOg\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 1",
+      "dueTime": "2021-11-14T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1NpzJgABPR3sorpIJb-qYphLQHg5pXAKO",
+              "title": "20L-0961_Q07.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1NpzJgABPR3sorpIJb-qYphLQHg5pXAKO/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNyIuobSrUBNKNxtHv8cg6xusYwMlEKNYPs5A7FBHvqXfDpVszc0oHy_N-EScA8Kc0e3pM_Q3HZ4JdrJcN_HgnSHrGdchZ0_grlOquY7Tx3e_4\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1Mbo3Jl8ODFxlqq0x0rY3rT5LfhSksKDF",
+              "title": "20L-0961_Q08.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1Mbo3Jl8ODFxlqq0x0rY3rT5LfhSksKDF/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNl91WbDNSF8k4Gciwvk575rjCsqntEe0ube3FhBxiq5Wai9KJAiH62qDY9j-uliN0CyyyGr8noPKjRKpoOr4NeN2K_1ZO_J_BKZvVVP6zkNo8\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1KRnlfxZmeXhYQA4UKG6yLzLd1V6XC5Ux",
+              "title": "20L-0961_Q01.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1KRnlfxZmeXhYQA4UKG6yLzLd1V6XC5Ux/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMciWOZX41iMoHJNwfyVxPZIs9fCzhitX19BmNWeKYUdc6Zfr2Wb_oBshIX1VwRyGJ72evT1B7fr_kIwWRMySyn3nSxZ2wqiuZwO9rcwffBiaw\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1WJ_f74c1GDk52v39yvgGgvPoNiKueRrT",
+              "title": "20L-0961_Q02.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1WJ_f74c1GDk52v39yvgGgvPoNiKueRrT/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOeOnf6Rl4OPDFLNWQ-uf-hn4UfFBbFrTZkkuByugdR65-LtN02frlXw87I4OqIDQvm4mQzFB6fi0tJVY75KtTD72tkUY2ZHERc_ExpSdC2IvE\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1Cmm89lhnjv7Tr5BFgVTlhM68zL9d_rNm",
+              "title": "20L-0961_Q03.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1Cmm89lhnjv7Tr5BFgVTlhM68zL9d_rNm/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNJWeii9drunwqSAO6ESpVKAASvtZsNO9g3pUxX_4h4S29LD1trBUDWhVEigZOc8Z5Y_4At83-TN3l--jPFwBAKCxjWL0rkfwx6_bqJTmUVjo4\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1rasKHnmutqai7LnOAzHBJE2FRuj9Iw0-",
+              "title": "20L-0961_Q04.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1rasKHnmutqai7LnOAzHBJE2FRuj9Iw0-/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMJjLX7v4PSyefk1g4i6dwbcZSp1vHWbqml_l8-qDZNZFAjWoZZWfZogihj-j-A13UvuJTsn1h3blJyEPIVNh1NxeDAwQ0pLp5W0HdMjrMhic8\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "16vAs8IHN9W5eZYC7Y8_xWU27fg940r1d",
+              "title": "20L-0961_Q05.cpp",
+              "alternateLink": "https://drive.google.com/file/d/16vAs8IHN9W5eZYC7Y8_xWU27fg940r1d/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOdR7VL0v_MFgjKeIUrF_kSrhXPTVnz1B7gYCyRLygWOJR_bGaqsbyaiuQ3ziWxvCEPIjLUo2Y64GKXE1-yw8YZAawV-R8F7SvNEoOI3CbULhI\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1hs_zHhTT5R5XMy1wDCZ1Xy0fbGqg1a9N",
+              "title": "20L-0961_Q06.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1hs_zHhTT5R5XMy1wDCZ1Xy0fbGqg1a9N/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBO9qmjrg1Ahpl8pkDqn7Y39AfjmogTGTCHSf2VxItxZDjKAdm07iGqePTzx8woEFP_szbJaljOQkVNEEmYHIe3atlrb1OFNl1goVTxxFIrGJQ0\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }]
+}

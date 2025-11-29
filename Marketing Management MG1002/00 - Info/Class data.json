@@ -1,0 +1,162 @@
+{
+  "version": 1,
+  "name": "Marketing Management",
+  "section": "BDS-6A",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroomd2587c50@group.calendar.google.com",
+  "videoCallUrl": "https://meet.google.com/njb-bozh-sjp",
+  "courseFolder": {
+    "id": "171bZjiHpvTG34k3RQSB3FotEZCwzaR3Xqh89pbGmfI9jrtsa8EEzAsa64C0I1DB5xQtNLYdC",
+    "name": "Marketing Management BDS-6A",
+    "openUrl": "https://drive.google.com/drive/folders/171bZjiHpvTG34k3RQSB3FotEZCwzaR3Xqh89pbGmfI9jrtsa8EEzAsa64C0I1DB5xQtNLYdC"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_code.jpg",
+  "subject": "Marketing Management",
+  "courseState": "ARCHIVED",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Saquib Bhatti"
+      },
+      "emailAddress": "saquib.bhatti@lhr.nu.edu.pk"
+    },
+    "creationTime": "2023-05-16T10:07:25.165Z",
+    "updateTime": "2023-05-16T10:09:02.194Z",
+    "publicationTime": "2023-05-16T10:07:59.386Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Reference Groups and their Influences"
+    }],
+    "courseWork": {
+      "title": "Reference Group Influence",
+      "description": "Write a note on how different types of Reference Groups have influenced your choices, preferences and consumption, with an example from each of the four sub-types.",
+      "descriptionHtml": "\u003cdiv\u003eWrite a note on how different types of Reference Groups have influenced your choices, preferences and consumption, with an example from each of the four sub-types.\u003c/div\u003e",
+      "dueTime": "2023-05-18T18:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1zc5J7I4iF1xXxg1dh2IC_7eL_KeGSBeZo0NZA_wuM1w",
+              "title": "Ammar Ahmed 20L-0961 - Reference Group Influence",
+              "alternateLink": "https://docs.google.com/document/d/1zc5J7I4iF1xXxg1dh2IC_7eL_KeGSBeZo0NZA_wuM1w/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBOF01tmwdkeW4Eho2ReWp6Ozywxm-focZAh5aUYbsGUljBo6vUs1Wyyr9SsPunhzrk2eQUuKC071G6rhqhNZinKOeGQktJMme3dItkul2f02_Cd4O9sLC15WdvTbYau8EcYjsU\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Saquib Bhatti"
+      },
+      "emailAddress": "saquib.bhatti@lhr.nu.edu.pk"
+    },
+    "creationTime": "2023-03-05T08:39:45.132Z",
+    "updateTime": "2023-03-10T09:49:11.986Z",
+    "publicationTime": "2023-03-05T08:49:06.322Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Macro-Environment Analysis"
+    }],
+    "courseWork": {
+      "title": "Assignment # 2",
+      "description": "You are required to conduct an in-depth macro-environment analysis of the Product/ Brand that you have chosen to work on as your course project. This is a group assignment, and will be treated as part of your term project.\n\nObjective of this part of \"Market Opportunity Analysis\" is to identify the opportunities and threats that are being created for our business as a result of any major or minor changes, or expected changes, in any of the macro-environment factors. Please note that all elements of macro-environment might not be at play in any given industry. Only those that are relevant are to be identified, and their positive or  negative impacts are to be studied.\n    \nThe facts and figures used to build your arguments must be supported with references from authentic sources. No \"ifs\" and \"buts\" please.\n\nInclusion and active participation of all group members is strongly suggested please.",
+      "descriptionHtml": "\u003cdiv\u003eYou are required to conduct an in-depth macro-environment analysis of the Product/ Brand that you have chosen to work on as your course project. This is a group assignment, and will be treated as part of your term project.\u003cbr\u003e\u003cbr\u003eObjective of this part of \u0026quot;Market Opportunity Analysis\u0026quot; is to identify the opportunities and threats that are being created for our business as a result of any major or minor changes, or expected changes, in any of the macro-environment factors. Please note that all elements of macro-environment might not be at play in any given industry. Only those that are relevant are to be identified, and their positive or  negative impacts are to be studied.\u003cbr\u003e    \u003cbr\u003eThe facts and figures used to build your arguments must be supported with references from authentic sources. No \u0026quot;ifs\u0026quot; and \u0026quot;buts\u0026quot; please.\u003cbr\u003e\u003cbr\u003eInclusion and active participation of all group members is strongly suggested please.\u003c/div\u003e",
+      "dueTime": "2023-03-13T09:29:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1Mih9bSCo9B8VfBsjIhiC3nQGN4RVsCcsL1kZ7aATb5s",
+              "title": "Macroenvironment Analysis - Marketing Management - Assignment # 2",
+              "alternateLink": "https://docs.google.com/document/d/1Mih9bSCo9B8VfBsjIhiC3nQGN4RVsCcsL1kZ7aATb5s/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBPtBNyC-I8L6rkSyWT8mdVhOSDnIkxoJyMcH0wlFAyP-cP9EPglIUSE17Wst0kkUnHLrLLl2eF4m4KwD2Aoay2lYRFCQ5lZd5iFB0nCsOLne0KV-6OPVXVaLNKCsl45J6h8IP8\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2023-03-06T18:05:12.625Z",
+          "updateTime": "2023-03-06T18:05:12.490Z",
+          "comment": "I hope this message finds you well.I want to seek \nyour approval for our marketing project, which focuses on the Riyayat Discount App. App will provide customers latest discounts and sales offered by their favorite brands. \nOur target audience is the working classOur app\u0027s main competitor is the Savyour app. \nEssentialy Riyayat Discount App simplifies the shopping experience for customers by providing all discounts and sales in one place. \nI would appreciate \nyour approval to proceed with it. \n(Detailed information was mailed to you earlier)\nAmmar Ahmed (BDS-6A Marketing Management)\n20L-0961",
+          "commentHtml": "\u003cdiv\u003eI hope this message finds you well.I want to seek \u003cbr\u003eyour approval for our marketing project, which focuses on the Riyayat Discount App. App will provide customers latest discounts and sales offered by their favorite brands. \u003cbr\u003eOur target audience is the working classOur app\u0026#39;s main competitor is the Savyour app. \u003cbr\u003eEssentialy Riyayat Discount App simplifies the shopping experience for customers by providing all discounts and sales in one place. \u003cbr\u003eI would appreciate \u003cbr\u003eyour approval to proceed with it. \u003cbr\u003e(Detailed information was mailed to you earlier)\u003cbr\u003eAmmar Ahmed (BDS-6A Marketing Management)\u003cbr\u003e20L-0961\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Saquib Bhatti"
+      },
+      "emailAddress": "saquib.bhatti@lhr.nu.edu.pk"
+    },
+    "creationTime": "2023-02-18T13:55:44.949Z",
+    "updateTime": "2023-02-22T12:09:36.822Z",
+    "publicationTime": "2023-02-18T14:03:02.498Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Difference between Advertising \u0026 Public Relations"
+    }],
+    "courseWork": {
+      "title": "Assignment # 1 ",
+      "description": "Advertising \u0026 Public Relations are two of the five ways available for a Marketer to Promote his/ her Brand. What is common between the two is that both are Mass-mediated ways of communication. What\u0027s the difference between the two?\n\nThere is no minimum word count. Please try to write a precise, concise and to-the-point answer to the question without missing out on any important dimension. No need of unnecessarily dragging your answer.\n\nPlease keep the submission deadline in mind. Any late submissions will result in deduction of marks.\n\nBest of luck!",
+      "descriptionHtml": "\u003cdiv\u003eAdvertising \u0026amp; Public Relations are two of the five ways available for a Marketer to Promote his/ her Brand. What is common between the two is that both are Mass-mediated ways of communication. What\u0026#39;s the difference between the two?\u003cbr\u003e\u003cbr\u003eThere is no minimum word count. Please try to write a precise, concise and to-the-point answer to the question without missing out on any important dimension. No need of unnecessarily dragging your answer.\u003cbr\u003e\u003cbr\u003ePlease keep the submission deadline in mind. Any late submissions will result in deduction of marks.\u003cbr\u003e\u003cbr\u003eBest of luck!\u003c/div\u003e",
+      "dueTime": "2023-02-22T16:00:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1GHVlFIwjHOzyonZ4PxAVI58Y9AN_LYyTfaLpKw7E1q8",
+              "title": "20L-0961 Ammar Ahmed - Assignment # 1  Marketing Management",
+              "alternateLink": "https://docs.google.com/document/d/1GHVlFIwjHOzyonZ4PxAVI58Y9AN_LYyTfaLpKw7E1q8/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBMJZWBPGJ7iVFthgVRZExZdsuQ79isXf1x4QLRaFF8BB_K-sGyLdkqP6FkCg2phsZGcuajoE6OFnrslbRGkurjL868VssaWvAPh-TNy5ZXJsTUClLqBZOBv_pS6RYw7e2plF2M\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }]
+}

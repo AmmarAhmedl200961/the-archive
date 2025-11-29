@@ -1,0 +1,109 @@
+{
+  "version": 1,
+  "name": "Intro to Cloud Computing",
+  "section": "Fall 2024 | BDS-7B",
+  "room": "F-302",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom7959fcdf@group.calendar.google.com",
+  "videoCallUrl": "https://meet.google.com/zfz-kven-nkh",
+  "courseFolder": {
+    "id": "1npHpUu0mOsxgC7Jb5Y35f_J3ojE_5vFVEiqfXPZqs2AcPnNZgtb6g75ZrBjnNUVTUI4qCOE8",
+    "name": "Intro to Cloud Computing BDS-7B",
+    "openUrl": "https://drive.google.com/drive/folders/1npHpUu0mOsxgC7Jb5Y35f_J3ojE_5vFVEiqfXPZqs2AcPnNZgtb6g75ZrBjnNUVTUI4qCOE8"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_bookclub.jpg",
+  "subject": "Intro to Cloud Computing",
+  "courseState": "ACTIVE",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Kanz Ul Eeman BSCS 2021 FAST NU LHR"
+      },
+      "emailAddress": "l215469@lhr.nu.edu.pk"
+    },
+    "creationTime": "2024-12-03T18:26:44.100Z",
+    "updateTime": "2024-12-04T16:42:14.553Z",
+    "publicationTime": "2024-12-03T18:26:43.558Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Presentations",
+      "description": "Submit you slides.",
+      "descriptionHtml": "\u003cdiv\u003eSubmit you slides.\u003c/div\u003e",
+      "dueTime": "2024-12-06T18:59:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1tWEkyH0Q7J_IubHPdivMhAg9gU_pSVo6",
+              "title": "Introduction to Azure Monitoring.pptx",
+              "alternateLink": "https://drive.google.com/file/d/1tWEkyH0Q7J_IubHPdivMhAg9gU_pSVo6/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBO_kiCpQD8Lj9fobiuSPUXNTF3P76j3yjhXCm_Zn2ru32Q5GYnFM8ansHuBHv-Tv084w7CURBQsjqXktfsBEUI26fnA3zei9Dhgf6vcKeIzr9o\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Saifullah Tanvir"
+      }
+    },
+    "creationTime": "2024-09-14T08:26:42.710Z",
+    "updateTime": "2024-09-27T09:56:58.636Z",
+    "publicationTime": "2024-09-14T08:27:36.439Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Assignment"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "16Gbx2-BsKWI6c3IBRLq-shh3DC2-bAse",
+          "title": "Intro to Cloud_Assignment # 1.pdf",
+          "alternateLink": "https://drive.google.com/file/d/16Gbx2-BsKWI6c3IBRLq-shh3DC2-bAse/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNjReVVWqMlmWcn2k9Q3_sVwFUEevaky1voZcRzs0IT5xOdcbdGCDEQ17QExynMEY_xzhGaAzfbUW1NpZLDFjP9ikxW5qeiyIlOcytBHTPXxQ\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment # 1",
+      "dueTime": "2024-09-30T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1mlHN_PjtVurMY6TajzhiUYJW94eqw0yg",
+              "title": "20L-0961 A1 - ICC.docx",
+              "alternateLink": "https://drive.google.com/file/d/1mlHN_PjtVurMY6TajzhiUYJW94eqw0yg/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMRHYSHe_X9pDKN4SrZRxmbNyHt3klQaPdk9lZFoIpPxYfNMftNAYJeXgdr_u5txOtf9fnpubuacMKqIBp2-upmlG6gt1cdQYUOmbqBeYvWpUg\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }]
+}

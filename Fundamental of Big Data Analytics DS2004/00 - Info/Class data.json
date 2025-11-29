@@ -1,0 +1,371 @@
+{
+  "version": 1,
+  "name": "F. of Big Data",
+  "section": "BDS-4B",
+  "room": "NB-208",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classrooma5d4b26e@group.calendar.google.com",
+  "courseFolder": {
+    "id": "1gTAl-p3__S-Q66WsqTnLzXGv6zjKOZ4yNioOoOajzzcqhkRzOKMicW0bYU0uCmOsNjv3gmAR",
+    "name": "F. of Big Data BDS-4B",
+    "openUrl": "https://drive.google.com/drive/folders/1gTAl-p3__S-Q66WsqTnLzXGv6zjKOZ4yNioOoOajzzcqhkRzOKMicW0bYU0uCmOsNjv3gmAR"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_breakfast.jpg",
+  "courseState": "ACTIVE",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Asbah Khalid"
+      }
+    },
+    "creationTime": "2024-05-10T07:09:50.332Z",
+    "updateTime": "2024-05-10T07:10:19.340Z",
+    "publicationTime": "2024-05-10T07:10:19.002Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Project",
+      "description": "Submit your notebook and research paper. ",
+      "descriptionHtml": "\u003cdiv\u003eSubmit your notebook and research paper.\u003c/div\u003e",
+      "dueTime": "2024-06-01T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1RmeYGLcW-ilQNAodfahYh9R71_26e-Av",
+              "title": "Film Reccomendation System.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1RmeYGLcW-ilQNAodfahYh9R71_26e-Av/view?usp\u003ddrive_web"
+            }
+          }, {
+            "driveFile": {
+              "id": "1br9h4B-vjcZ5HQFeknS9uuiZvvTkP2O3",
+              "title": "Research_Paper___Film_Reccomendation_System.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1br9h4B-vjcZ5HQFeknS9uuiZvvTkP2O3/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNhkOx7HNbCLh36HfpOONaI_cgv89b8J1dFkG341y9Aui5RQ6aheKJJpc-v-aHrpaAgs83dBBz232aj45F-gMHxIcGYoB0Ur0ZvsC7fJ1hGzLk\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Asbah Khalid"
+      }
+    },
+    "creationTime": "2024-05-10T07:08:25.440Z",
+    "updateTime": "2024-05-10T07:09:14.238Z",
+    "publicationTime": "2024-05-10T07:09:14.051Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1E_I9XKyPsBR97-rWXY6S-5LRKmRLCDGL01uOmBbCMeE",
+          "title": "Project BDS-4B",
+          "alternateLink": "https://docs.google.com/spreadsheets/d/1E_I9XKyPsBR97-rWXY6S-5LRKmRLCDGL01uOmBbCMeE/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBO0VT-BjeDncOG86P5LRjS3OMpza8dpH-9hl5-cLF6ysYLp5gN-X8LUnJQZUE0FsBC2Gr1f4NNOlpQMlv5CqKpfA4dj2E-mFFue4GZd8FDgwhP8IoMZZ7Px9GOUsx6T8R07nQ\u003ds200"
+        },
+        "shareMode": "EDIT"
+      }
+    }],
+    "courseWork": {
+      "title": "Project Proposal",
+      "description": "Add Your Project Name and Group Members Information in the attached sheet. And submit your proposal by today.",
+      "descriptionHtml": "\u003cdiv\u003eAdd Your Project Name and Group Members Information in the attached sheet. And submit your proposal by today.\u003c/div\u003e",
+      "dueTime": "2024-05-13T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1KQ7Lh7-_985Iny1NpjoYcgkKXwHlgNvf",
+              "title": "FBDA_PROPOSAL.docx",
+              "alternateLink": "https://drive.google.com/file/d/1KQ7Lh7-_985Iny1NpjoYcgkKXwHlgNvf/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOXpnbkuc9nQCuMprn31HbUI-hpaW3yJUNQABtVjebf3XTm5UwjZjd6-AW1OP4VMuUx3QtLDiPSzRVnd2c22INBztHr8E44U9MSea3s5nX6BXI\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Asbah Khalid"
+      }
+    },
+    "creationTime": "2024-04-23T03:41:11.602Z",
+    "updateTime": "2024-04-23T03:44:28.419Z",
+    "publicationTime": "2024-04-23T03:44:28.097Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1bPjbkaHwQxWafiOynWgB2F2uTFfHX8Jl",
+          "title": "Movies.csv.xlsx",
+          "alternateLink": "https://drive.google.com/file/d/1bPjbkaHwQxWafiOynWgB2F2uTFfHX8Jl/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPEyITXfu7y9LzCz12BZ2JF95mJLsS3qMfShL2_qhHmQsNfZ2v6EtuyGQX_-y3MZlh4qYNEARI5P9RRjg0fAEAlcC5-G-iFRV9cQ0kbhP9raA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1Q8qMmBBZWBKn_2iZcATmepAIjJsiimpD",
+          "title": "spark data frames practice.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1Q8qMmBBZWBKn_2iZcATmepAIjJsiimpD/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNagfDYDlTSr_cI8t6QZt_U-ZZBHGl7F8lReQtx5q77-O4MU6vjxJVH6ZK69ehjXCL6kRCy8H70pT_HI81jwvAFE2tQ7KstcFFmvASQgEDvHw\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Class Activity ",
+      "description": "In case of cheating, 0 marks will be given and no attendance will be marked. If content is taken from chatgpt, student will bear the penalty.   ",
+      "descriptionHtml": "\u003cdiv\u003eIn case of cheating, 0 marks will be given and no attendance will be marked. If content is taken from chatgpt, student will bear the penalty.\u003c/div\u003e",
+      "dueTime": "2024-04-23T04:50:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1lkxsqA4MjVBClf4-OhXpuMgKg4V4H6cF",
+              "title": "l200961classactivityf.ofbigdata.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1lkxsqA4MjVBClf4-OhXpuMgKg4V4H6cF/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOGbXpxgR5kUAzuxl6Zt6U_UQERHX3vrUNRm3mqHn2cbO5dqCo6v7yNCnQm-piOIGN1lcK4giony97wsshyKNKvx7ERll2f1JPPSubE37kT5fM\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Asbah Khalid"
+      }
+    },
+    "creationTime": "2024-04-22T03:54:56.138Z",
+    "updateTime": "2024-04-22T03:55:41.397Z",
+    "publicationTime": "2024-04-22T03:55:41.088Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1HlxMgIDFGxhn7EG6ZWiLdJFm5DSf_XPX",
+          "title": "Assignment 3 p.02.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1HlxMgIDFGxhn7EG6ZWiLdJFm5DSf_XPX/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOfoaT4r9Tk-uT2D3bBiS5NA6VJTE2DgdAedopEIzSM4eaHvYndGqaiKINz5ZaXTNytc-NrJ59ZyImQDNWv5eHY0b31CzX-2X8fmqF-Jgz1-A\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Sentiment Analysis on Twitter data using Apache Spark Part#02",
+      "dueTime": "2024-04-27T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1gIiTCsX6roO8Us-RvOLuflwDuf1k-1Fb",
+              "title": "report.md",
+              "alternateLink": "https://drive.google.com/file/d/1gIiTCsX6roO8Us-RvOLuflwDuf1k-1Fb/view?usp\u003ddrive_web"
+            }
+          }, {
+            "driveFile": {
+              "id": "1vMNoEf2HVr0xyCIo9XFkkze0WiHwMn_n",
+              "title": "l200961_p2.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1vMNoEf2HVr0xyCIo9XFkkze0WiHwMn_n/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Asbah Khalid"
+      }
+    },
+    "creationTime": "2024-04-15T09:02:56.461Z",
+    "updateTime": "2024-04-15T09:07:16.064Z",
+    "publicationTime": "2024-04-15T09:07:15.853Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1mPdSgkOthwD2oLBiPUCVqBGwj4M7Holx",
+          "title": "Assignment 3 p.01.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1mPdSgkOthwD2oLBiPUCVqBGwj4M7Holx/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOw6vPngLePlV3rbHjZoha4jRcYWJszfnxUugrAcu4SROVq2E1qkShUwmOPmhtP3p68UZ4HMEHO3Urwv6x-otMax4_sygIXB4BFDIk3EVnZBA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Sentiment Analysis on Twitter Data using Apache Spark",
+      "description": "This assignment has 2 parts. 2nd part will be uploaded after the completion of 1st one. so make sure your code must be in extendable format",
+      "descriptionHtml": "\u003cdiv\u003eThis assignment has 2 parts. 2nd part will be uploaded after the completion of 1st one. so make sure your code must be in extendable format\u003c/div\u003e",
+      "dueTime": "2024-04-20T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1rkpDyE1sDllolk2juWOmSHnfpsgwSlcs",
+              "title": "l200961.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1rkpDyE1sDllolk2juWOmSHnfpsgwSlcs/view?usp\u003ddrive_web"
+            }
+          }, {
+            "driveFile": {
+              "id": "1abG25xluU9V3LEhU8obTCPxqyP8VYbNE",
+              "title": "result.md",
+              "alternateLink": "https://drive.google.com/file/d/1abG25xluU9V3LEhU8obTCPxqyP8VYbNE/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Asbah Khalid"
+      }
+    },
+    "creationTime": "2024-04-01T09:00:25.194Z",
+    "updateTime": "2024-04-01T09:01:12.193Z",
+    "publicationTime": "2024-04-01T09:01:12.148Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1TWuDjeNS20Dme8yKi7rX-98fgFtPupC9",
+          "title": "ASSIGNMENT#02 Spark.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1TWuDjeNS20Dme8yKi7rX-98fgFtPupC9/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNtVHTz1QrGCRd8sp4_qDU8u0i3QWKpOrqpORfS4KO0cukBvlMlANMyqW8nRUBTneMlTDkqEffxzTrjySfr3HO6HpN_F3QuggeJf57jpDrv2w\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment#02",
+      "description": "Deadline for the assignment is Sunday 07-2024.",
+      "descriptionHtml": "\u003cdiv\u003eDeadline for the assignment is Sunday 07-2024.\u003c/div\u003e",
+      "dueTime": "2024-04-07T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "17Gd6_VtEAwOCXUOmfl_zx3fDum2VQ008",
+              "title": "l200961.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/17Gd6_VtEAwOCXUOmfl_zx3fDum2VQ008/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Asbah Khalid"
+      }
+    },
+    "creationTime": "2024-02-19T06:27:02.048Z",
+    "updateTime": "2024-02-19T06:27:20.717Z",
+    "publicationTime": "2024-02-19T06:27:20.464Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Get total word count on Twitter Example. Input should be the output of the task1 discussed in the last class.",
+      "dueTime": "2024-02-21T18:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "14ed6ZCSFW6Vs4CLOmg31h3oehfWNQfks",
+              "title": "l200961taskfbda.pdf",
+              "alternateLink": "https://drive.google.com/file/d/14ed6ZCSFW6Vs4CLOmg31h3oehfWNQfks/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMdA83Qrlf4rA_8PH430Ie0lbgaaOEm2mfFieje4F0oEvwVDVrALMoQoe_0Fmuwv1sFYoz_BZQIhgJHxn7b5_jKWgvbrtwdla-T4oaWUgDztfY\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }]
+}

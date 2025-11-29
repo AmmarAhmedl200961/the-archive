@@ -1,0 +1,1 @@
+Get total word count on Twitter Example. Input should be the output of the task1 discussed in the last class.

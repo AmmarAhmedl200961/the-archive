@@ -1,0 +1,5 @@
+L20-4305 Course:BigData Sem:Spring2020 Login:12-03-20-12:45 Logout:12-03-20-2:45 Accessed: stream, assignment
+L20-1111 Course:DataMining Sem:Spring2020 Login:12-03-20-11:00 Logout:12-03-20-12:00 Accessed: quiz, material, assignment
+L20-4305 Course:DataMining Sem:Spring2020 Login:12-03-20-12:00 Logout:12-03-20-2:00 Accessed: quiz, material, assignment
+L20-1111 Course:DataMining Sem:Spring2020 Login:12-03-20-2:00 Logout:12-03-20-3:00 Accessed: quiz, material, assignment
+L20-4305 Course:BigData Sem:Spring2020 Login:12-03-20-12:00 Logout:12-03-20-1:00 Accessed: quiz, material, assignment

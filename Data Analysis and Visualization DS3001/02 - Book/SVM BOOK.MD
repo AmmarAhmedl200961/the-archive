@@ -1,0 +1,1 @@
+[Data Mining Book (Chapter 21) SVM](https://dataminingbook.info/book_html/chap21/book.html?authuser=0)

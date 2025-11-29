@@ -1,0 +1,86 @@
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
+
+import pandas as pd
+import numpy as np
+import time
+
+# Set the path to your Chrome driver executable
+driver_path ='C:/Users/ahmad/Downloads/chromedriver-win64/chromedriver.exe'
+
+# Initialize the Chrome service and driver
+service = Service(executable_path=driver_path)
+options = webdriver.ChromeOptions()
+options.add_experimental_option("detach", True)
+driver = webdriver.Chrome(service=service, options=options)
+
+
+# URL to scrape
+url = 'https://www.youtube.com/@UnfoldDataScience'
+
+# Load the webpage and maximize the window
+driver.get(url)
+driver.maximize_window()
+time.sleep(2)
+videos_button = driver.find_element(By.XPATH,'//*[@id="tabsContent"]/tp-yt-paper-tab[2]/div/div[1]')
+videos_button.click()
+
+print(driver.title)
+
+for _ in range(20):
+    driver.find_element(By.TAG_NAME, 'body').send_keys(Keys.END)
+    time.sleep(2)
+
+count=0
+videos = driver.find_elements(By.CLASS_NAME, "style-scope ytd-rich-grid-media")
+link_array = []
+video_data = []
+for video in videos:
+    title = video.find_element(by=By.XPATH, value='.//*[@id="video-title"]').text
+    views = video.find_element(by=By.XPATH, value='.//*[@id="metadata-line"]/span[1]').text
+    upload_date = video.find_element(by=By.XPATH, value='.//*[@id="metadata-line"]/span[2]').text
+    link = video.find_element(by=By.XPATH, value='.//*[@id="video-title-link"]').get_attribute('href')
+    print(count, title,views,upload_date,link)
+    count=count+1
+    # Append the link to the link_array
+    link_array.append(link)
+    video_data.append({
+        "Title": title,
+        "Views": views,
+        "Upload Date": upload_date,
+        "Link": link
+    })
+
+# Save the DataFrame to a CSV file
+df = pd.DataFrame(video_data)
+df.to_csv('youtube_data.csv', index=False)
+    # print("Comments:", comments)
+#num=1
+for link in link_array:
+    #print(num,link)
+    #num=num+1
+    # Open each video link in a new tab
+    driver.execute_script("window.open('', '_blank');")
+    driver.switch_to.window(driver.window_handles[-1])
+    driver.get(link)
+
+    # Wait for the video page to load (you may need to adjust the sleep time)
+    time.sleep(2)
+
+    # Scrape the likes and comments
+    likes_count = driver.find_element(By.XPATH, './/*[@id="segmented-like-button"]').text
+    #comments_count = driver.find_all('span', class_="style-scope yt-formatted-string").text
+
+    # Print or store the likes and comments
+    print("Link:", link,"Likes Count:", likes_count)
+
+    driver.close()
+    # Close the video tab
+
+
+    # Switch back to the main tab
+    driver.switch_to.window(driver.window_handles[0])
+# Close the WebDriver
+driver.quit()

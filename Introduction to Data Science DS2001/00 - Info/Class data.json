@@ -1,0 +1,394 @@
+{
+  "version": 1,
+  "name": "Introduction to Data Science",
+  "section": "A, B, C",
+  "room": "TBD",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom8bf6d3a4@group.calendar.google.com",
+  "courseFolder": {
+    "id": "12meLSoZhzF5q648PxG5wlXQT23H7dNbfZHgs33HSaD16MeQBgThfxn1G-Nr2zngkNWuzLc-f",
+    "name": "Introduction to Data Science A, B, C",
+    "openUrl": "https://drive.google.com/drive/folders/12meLSoZhzF5q648PxG5wlXQT23H7dNbfZHgs33HSaD16MeQBgThfxn1G-Nr2zngkNWuzLc-f"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/Chemistry.jpg",
+  "subject": "Data Science Intro",
+  "courseState": "ARCHIVED",
+  "posts": [{
+    "creationTime": "2022-11-25T12:23:47.792Z",
+    "updateTime": "2022-12-05T05:52:19.788Z",
+    "publicationTime": "2022-11-25T12:24:17.038Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Assignments Sec B"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1u0I5B0YzzUJ2eFYYG6-v_WOpaiimLFmY",
+          "alternateLink": "https://drive.google.com/open?id\u003d1u0I5B0YzzUJ2eFYYG6-v_WOpaiimLFmY"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1I1JmhyFrbeWU7NZUOuomjSBqlRFDgkKf",
+          "alternateLink": "https://drive.google.com/open?id\u003d1I1JmhyFrbeWU7NZUOuomjSBqlRFDgkKf"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Mini Course Project (Section B)",
+      "description": "Dear Students\n\nPlease find the document Report.docx\n attached which contains the question rubric and instructions for your \nmini course project. You are required to write code in an .ipynb file \nand also fill out the report document with the required answers in the \nspaces provided. Save this report as as a pdf and submit it along with \nthe code.\n\nThe data-set needed to complete this is also attached as an Excel file named CollectedData.xlsx\n\n\nBest of Luck!",
+      "descriptionHtml": "\u003cdiv\u003eDear Students\u003cbr\u003e\u003cbr\u003ePlease find the document \u003cu\u003eReport.docx\u003c/u\u003e\u003cbr\u003e attached which contains the question rubric and instructions for your \u003cbr\u003emini course project. You are required to write code in an .ipynb file \u003cbr\u003eand also fill out the report document with the required answers in the \u003cbr\u003espaces provided. Save this report as as a pdf and submit it along with \u003cbr\u003ethe code.\u003cbr\u003e\u003cbr\u003eThe data-set needed to complete this is also attached as an Excel file named \u003cu\u003eCollectedData.xlsx\u003c/u\u003e\u003cbr\u003e\u003cu\u003e\u003cbr\u003e\u003c/u\u003e\u003cbr\u003eBest of Luck!\u003c/div\u003e",
+      "dueTime": "2022-12-04T18:59:00Z",
+      "maxPoints": 170.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 123.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "link": {
+              "url": "https://colab.research.google.com/drive/10x3XvpcXNhd8wOTNg5oo_jBmggpPv38Q?usp\u003dsharing",
+              "title": "Sign in - Google Accounts",
+              "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://colab.research.google.com/drive/10x3XvpcXNhd8wOTNg5oo_jBmggpPv38Q?usp%3Dsharing"
+            }
+          }, {
+            "driveFile": {
+              "id": "1GYzN79Wy7q3XwcuRVHyu7ctDU_s1BwEY",
+              "title": "l200961_report.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1GYzN79Wy7q3XwcuRVHyu7ctDU_s1BwEY/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPag4ZWVTe2xaJK47saTmi7UpxThOMFEQR7J-ZmOnxzPXnLrceqMm9hZ8nLhi9VXYcQ2ZvIFUzUuhQHd77zW7-1PoOgAUQ77Q5d-TWLrCYKnSg\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2022-12-05T15:37:01.184Z",
+          "updateTime": "2022-12-05T15:37:01.045Z",
+          "comment": "Why marks decrease ?",
+          "commentHtml": "\u003cdiv\u003eWhy marks decrease ?\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2022-12-07T05:02:17.525Z",
+          "updateTime": "2022-12-07T05:02:17.397Z",
+          "comment": "i had 139 marks after evaluation why marks have been decreased.",
+          "commentHtml": "\u003cdiv\u003ei had 139 marks after evaluation why marks have been decreased.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Dr.Asma Ahmad"
+      },
+      "emailAddress": "asma.ahmad@lhr.nu.edu.pk"
+    },
+    "creationTime": "2022-11-05T16:12:36.067Z",
+    "updateTime": "2022-11-05T16:13:35.877Z",
+    "publicationTime": "2022-11-05T16:13:35.533Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Assignments Sec B"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1e5mt-DbYAuuzG9HNCfjQ9x-n5fg895oW",
+          "title": "Task 2-1.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1e5mt-DbYAuuzG9HNCfjQ9x-n5fg895oW/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPK2vS-9bN2WtVMDRTfTJWdUinzpwGUbsQ8PdI2PP8pKO7vCVkuA-nlvJC_FIHt1OVkdqOggSsVbxG_JZ6esRiIZ_4QtNNx3ZzmHeEaZmwjqpA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Task 2 -B",
+      "dueTime": "2022-11-06T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1Lu9nAzIQhRkUkXiBL9V6rnOLTFWNqGmk",
+              "title": "task 2.zip",
+              "alternateLink": "https://drive.google.com/file/d/1Lu9nAzIQhRkUkXiBL9V6rnOLTFWNqGmk/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Dr.Asma Ahmad"
+      },
+      "emailAddress": "asma.ahmad@lhr.nu.edu.pk"
+    },
+    "creationTime": "2022-10-28T07:39:32.071Z",
+    "updateTime": "2022-10-28T07:39:48.629Z",
+    "publicationTime": "2022-10-28T07:39:48.424Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Assignments Sec B"
+    }],
+    "courseWork": {
+      "title": "Task sec B",
+      "dueTime": "2022-10-28T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1pHHuGcj0XixS1MpIXyeS8UXBWsKeeBUg",
+              "title": "l200961.zip",
+              "alternateLink": "https://drive.google.com/file/d/1pHHuGcj0XixS1MpIXyeS8UXBWsKeeBUg/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creationTime": "2022-10-14T18:28:48.535Z",
+    "updateTime": "2022-11-05T08:31:16.481Z",
+    "publicationTime": "2022-10-14T18:29:32.087Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Assignments Sec B"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1-TERRls0FPLAC5fUEi_RATsasqudoGKl",
+          "alternateLink": "https://drive.google.com/open?id\u003d1-TERRls0FPLAC5fUEi_RATsasqudoGKl"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 2 - Section B",
+      "description": "Please find .ipynb file attached which contains the questions and template for Assignment 2. Upload this file onto Google Colab to start working on it. Make sure you use the spaces provided in this file to write your code. Make sure you carefully read all the instructions before starting AND also after finishing your work.\n\nOnly submit your work to your section only - DO NOT PRESS \u0027TURN IN\u0027 on any other section.",
+      "descriptionHtml": "\u003cdiv\u003ePlease find .ipynb file attached which contains the questions and template for Assignment 2. Upload this file onto Google Colab to start working on it. Make sure you use the spaces provided in this file to write your code. Make sure you carefully read all the instructions before starting AND also after finishing your work.\u003cbr\u003e\u003cbr\u003eOnly submit your work to your section only - DO NOT PRESS \u0026#39;TURN IN\u0026#39; on any other section.\u003c/div\u003e",
+      "dueTime": "2022-10-23T18:59:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "link": {
+              "url": "https://colab.research.google.com/drive/1QbBkswk5pVeKkcBp20Tyt7n1eoSINu_z?usp\u003dsharing",
+              "title": "Sign in - Google Accounts",
+              "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://colab.research.google.com/drive/1QbBkswk5pVeKkcBp20Tyt7n1eoSINu_z?usp%3Dsharing"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Dr.Asma Ahmad"
+      },
+      "emailAddress": "asma.ahmad@lhr.nu.edu.pk"
+    },
+    "creationTime": "2022-09-16T03:57:04.154Z",
+    "updateTime": "2022-09-16T03:57:11.050Z",
+    "publicationTime": "2022-09-16T03:57:10.796Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Assignments - Sec C"
+    }],
+    "courseWork": {
+      "title": "Assignment 1 - Sec C",
+      "description": "Please see the following link for assignment: https://colab.research.google.com/drive/1bfcwwqCy7PSGMUwFwpF2fCrUDl0xrMTO?usp\u003dsharing#scrollTo\u003dTWWLTwYZorzC\n\nNote that the deadline is hard, and there will be a quiz from assignment on Tuesday (20th Sept)",
+      "descriptionHtml": "\u003cdiv\u003ePlease see the following link for assignment: https://colab.research.google.com/drive/1bfcwwqCy7PSGMUwFwpF2fCrUDl0xrMTO?usp\u003dsharing#scrollTo\u003dTWWLTwYZorzC\u003cbr\u003e\u003cbr\u003eNote that the deadline is hard, and there will be a quiz from assignment on Tuesday (20th Sept)\u003c/div\u003e",
+      "dueTime": "2022-09-18T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "RECLAIMED_BY_STUDENT",
+        "assignmentSubmission": {
+        },
+        "comments": [{
+          "creationTime": "2022-09-17T13:48:34.555Z",
+          "updateTime": "2022-09-17T13:48:34.274Z",
+          "comment": "Please click unsubmit on sections A and C. Your name is appearing in multiple lists and makes it hard for us to track assignment submission.",
+          "commentHtml": "\u003cdiv\u003ePlease click unsubmit on sections A and C. Your name is appearing in multiple lists and makes it hard for us to track assignment submission.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2022-09-17T14:02:58.628Z",
+          "updateTime": "2022-09-17T14:02:58.406Z",
+          "comment": "ok",
+          "commentHtml": "\u003cdiv\u003eok\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Dr.Asma Ahmad"
+      },
+      "emailAddress": "asma.ahmad@lhr.nu.edu.pk"
+    },
+    "creationTime": "2022-09-16T03:56:26.096Z",
+    "updateTime": "2022-09-25T12:47:42.613Z",
+    "publicationTime": "2022-09-16T03:56:33.950Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Assignments Sec B"
+    }],
+    "courseWork": {
+      "title": "Assignment 1 - Sec B",
+      "description": "Please see the following link for assignment: https://colab.research.google.com/drive/1bfcwwqCy7PSGMUwFwpF2fCrUDl0xrMTO?usp\u003dsharing#scrollTo\u003dTWWLTwYZorzC\n\nNote that the deadline is hard, and there will be a quiz from assignment on Tuesday (20th Sept)",
+      "descriptionHtml": "\u003cdiv\u003ePlease see the following link for assignment: https://colab.research.google.com/drive/1bfcwwqCy7PSGMUwFwpF2fCrUDl0xrMTO?usp\u003dsharing#scrollTo\u003dTWWLTwYZorzC\u003cbr\u003e\u003cbr\u003eNote that the deadline is hard, and there will be a quiz from assignment on Tuesday (20th Sept)\u003c/div\u003e",
+      "dueTime": "2022-09-18T18:59:00Z",
+      "maxPoints": 25.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 22.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1Q8_xRpgsqz2NPTeylJKZTODq6E5gvEqZ",
+              "title": "L200961.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1Q8_xRpgsqz2NPTeylJKZTODq6E5gvEqZ/view?usp\u003ddrive_web"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2022-09-16T14:49:17.815Z",
+          "updateTime": "2022-09-16T14:49:17.689Z",
+          "comment": "https://github.com/marrro1/L200961-Assignment1.git",
+          "commentHtml": "\u003cdiv\u003ehttps://github.com/marrro1/L200961-Assignment1.git\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Dr.Asma Ahmad"
+      },
+      "emailAddress": "asma.ahmad@lhr.nu.edu.pk"
+    },
+    "creationTime": "2022-09-16T03:38:22.203Z",
+    "updateTime": "2022-09-16T03:55:57.433Z",
+    "publicationTime": "2022-09-16T03:55:57.172Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Assignments Sec A"
+    }],
+    "courseWork": {
+      "title": "Assignment 1 - Sec A",
+      "description": "Please see the following link for assignment: https://colab.research.google.com/drive/1bfcwwqCy7PSGMUwFwpF2fCrUDl0xrMTO?usp\u003dsharing#scrollTo\u003dTWWLTwYZorzC\n\nNote that the deadline is hard, and there will be a quiz from assignment on Tuesday (20th Sept)",
+      "descriptionHtml": "\u003cdiv\u003ePlease see the following link for assignment: https://colab.research.google.com/drive/1bfcwwqCy7PSGMUwFwpF2fCrUDl0xrMTO?usp\u003dsharing#scrollTo\u003dTWWLTwYZorzC\u003cbr\u003e\u003cbr\u003eNote that the deadline is hard, and there will be a quiz from assignment on Tuesday (20th Sept)\u003c/div\u003e",
+      "dueTime": "2022-09-18T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "RECLAIMED_BY_STUDENT",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }]
+}

@@ -1,0 +1,102 @@
+{
+  "version": 1,
+  "name": "ICT",
+  "section": "BDS-B",
+  "room": "CS-8",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom2339391d@group.calendar.google.com",
+  "videoCallUrl": "https://meet.google.com/lookup/afptcvuy73",
+  "courseFolder": {
+    "id": "0B6lgnLfMnpqyfk9sWHlYc1UxZmN5Wmp4c1Q5ZEtsQXhueDh2c1hjbDRFWkpxRkp3SjdXTnc",
+    "name": "ICT BDS-B",
+    "openUrl": "https://drive.google.com/drive/folders/0B6lgnLfMnpqyfk9sWHlYc1UxZmN5Wmp4c1Q5ZEtsQXhueDh2c1hjbDRFWkpxRkp3SjdXTnc?resourcekey\u003d0-cBSgfiXSJT5ySH0blJ-58g"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_graduation.jpg",
+  "subject": "ICT",
+  "courseState": "ACTIVE",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Sarfraz Raza"
+      },
+      "emailAddress": "sarfraz.raza@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-10-13T05:31:32.123Z",
+    "updateTime": "2020-10-13T07:34:39.733Z",
+    "publicationTime": "2020-10-13T05:32:09.253Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Homework # 2 (OS-Activities)",
+      "description": "Submit the screenshots.",
+      "descriptionHtml": "\u003cdiv\u003eSubmit the screenshots.\u003c/div\u003e",
+      "dueTime": "2020-10-13T12:00:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1ZlUD1IK22lR0j8Z9KeJZsAN6KocxW3Q4",
+              "title": "ICT-homework-2.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1ZlUD1IK22lR0j8Z9KeJZsAN6KocxW3Q4/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN1D5AkvLtQur1WjNJ49ZiRH8ma76JUUmrtJXaUrwlvhhe9I2fUasCTLgd6gGW2CCHnWnxTC6i_CpYlbbrFewzSLlZkvc6D8u1pmLxg_SnrmaU\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Sarfraz Raza"
+      },
+      "emailAddress": "sarfraz.raza@lhr.nu.edu.pk"
+    },
+    "creationTime": "2020-10-05T20:20:23.475Z",
+    "updateTime": "2020-10-05T20:30:58.587Z",
+    "publicationTime": "2020-10-05T20:23:37.679Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Numbers System"
+    }],
+    "courseWork": {
+      "title": "Number System ",
+      "description": "Submit your ACTIVITY here... Take the photos of your work and convert it into one PDF document or word document... and submit it.",
+      "descriptionHtml": "\u003cdiv\u003eSubmit your ACTIVITY here... Take the photos of your work and convert it into one PDF document or word document... and submit it.\u003c/div\u003e",
+      "dueTime": "2020-10-07T10:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "15HMy_CIACiXgFbhbvaj4oSYi7E7hHY-r",
+              "title": "ICT-homework-1.pdf",
+              "alternateLink": "https://drive.google.com/file/d/15HMy_CIACiXgFbhbvaj4oSYi7E7hHY-r/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP6Tngq41OAbmsFbhoYrutDmgmkwbp7wlhk1tFWwh9TXhceoo8ng9QowwJwfIdR2joVMvuL2xIak9gGepZ7sxrpORt9Sm0NoOI9TrU01Gflhz8\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }]
+}

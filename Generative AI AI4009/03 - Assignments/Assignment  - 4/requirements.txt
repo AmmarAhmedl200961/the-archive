@@ -1,0 +1,51 @@
+# Core libraries
+numpy>=1.24.3
+pandas>=2.0.3
+matplotlib>=3.7.2
+scipy>=1.11.1
+
+# Deep Learning & NLP
+torch>=2.0.0
+transformers>=4.34.0
+datasets>=2.14.0
+peft>=0.5.0  # For LoRA fine-tuning
+accelerate>=0.21.0
+bitsandbytes>=0.40.0  # For quantization
+trl>=0.7.1
+evaluate>=0.4.0
+
+# Text processing and evaluation
+nltk>=3.8.1
+rouge-score>=0.1.2
+bert-score>=0.3.13
+
+# Academic search APIs
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+pypdf>=3.15.0
+python-dotenv>=1.0.0
+arxiv>=1.4.7
+semanticscholar>=0.4.0
+pymed>=0.8.9
+
+# LangChain & LangGraph
+langchain>=0.1.0
+langchain-core>=0.1.0
+langchain-openai>=0.0.1
+langgraph>=0.0.19
+langsmith>=0.0.63
+
+# Vector database
+chromadb>=0.4.6
+
+# API clients
+together>=0.1.5  # For Together.ai API
+openai>=1.1.0  # As a fallback
+
+# Web UI
+streamlit>=1.27.0
+gradio>=3.40.0
+plotly>=5.15.0
+
+# Utilities
+dotenv>=0.9.9

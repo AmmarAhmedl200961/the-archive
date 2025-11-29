@@ -1,0 +1,3 @@
+Advertising & Public Relations are two of the five ways available for a Marketer to Promote his/ her Brand. What is common between the two is that both are Mass-mediated ways of communication. What's the difference between the two?
+
+There is no minimum word count. Please try to write a precise, concise and to-the-point answer to the question without missing out on any important dimension. No need of unnecessarily dragging your answer

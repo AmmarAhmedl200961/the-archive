@@ -1,0 +1,57 @@
+AI powered
+Q1.(Detecting and Handling Outliers)
+You are given the following dataset of employee performance scores:
+
+Employee_lD	Age	Experience (Years)	Salary (in $)	Performance Score
+1	25	2	40000	75
+2	30	5	55000	80
+3	35	8	60000	85
+4	40	10	120000	90
+5	45	20	130000	95
+6	50	25	200000	70
+7	28	3	45000	82
+8	60	30	300000	60
+9	55	27	250000	78
+10	32	7	85000	88
+
+a. Identify outliers in the Salary column using the Interquartile Range (IQR) method. (4 Marks)
+
+IQR = Q3 - Q1
+Q1 = 1st quartile
+Q3 = 3rd quartile
+Outliers = Q1 - 1.5 * IQR or Q3 + 1.5 * IQR
+
+- Salaries in ascending order: array([ 40000,  45000,  55000,  60000,  85000, 120000, 130000, 200000,
+       250000, 300000])
+- Q1, Q3 = (55000, 200000)
+- IQR = 200000 - 55000 = 145000
+- Upper bound = 200000 + 1.5 * 145000 = 417500.0, Lower bound = 55000 - 1.5 * 145000 = -162500.0
+
+b. List the outliers you identified in the Salary column. (1 Marks)
+- Outliers: None, as all salaries are within the bounds.
+c. Remove the outliers from the Salary column and compute the mean salary both before and after removing the outliers.(4 Marks)
+Mean Salary (before removing outliers): $128,500
+Mean Salary (after removing outliers): $128,500
+Since no outliers were identified, the mean salary remains unchanged.
+
+d. Discuss how removing the outliers affects the overall dataset, especially in terms of data distribution and quality.
+there were no outliers in the Salary column, removing them had no impact on the dataset. However, if outliers were present and removed, the following effects would be typical:
+
+Data Distribution: Removing extreme values would make the dataset more representative of the majority of employees, potentially reducing skewness or making the distribution more normal.
+Data Quality: By removing outliers, the dataset becomes cleaner and more reliable, especially when outliers result from data entry errors or represent rare, unusual cases that may distort the overall analysis.
+Central Tendency Measures: If outliers were removed, metrics like mean and standard deviation would be less influenced by extreme values, providing a more accurate reflection of the data's central tendencies.
+
+(Data Normalization)
+Given the following dataset of student scores in different subjects:
+Student ID	Math	Science	English
+1	80	90	85
+2	75	88	92
+3	89	94	76
+4	90	85	88
+5	82	78	80
+
+FOR ANSWERS REfer to scratch file
+a. Normalize the scores in each subject using Min-Max normalization so that the scores are between 0 and 1(3 Marks)
+b. Perform Z-score normalization on the dataset.(3 Marks)
+c. Normalize the marks for each subject (Math, Physics, Chemistry) using the Decimal Scaling method. (3 Marks)
+

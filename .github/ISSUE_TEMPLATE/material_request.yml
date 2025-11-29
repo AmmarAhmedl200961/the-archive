@@ -1,0 +1,46 @@
+name: 📚 Material Request
+description: Request specific course materials or resources
+labels: ["enhancement", "request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Looking for something specific? Let me know!  📖
+
+  - type: input
+    id: course
+    attributes:
+      label: 📘 Course Name/Code
+      description: Which course is this for?
+      placeholder: "e. g., Data Structures CS2001"
+    validations:
+      required: true
+
+  - type: textarea
+    id: request
+    attributes:
+      label: 📝 What are you looking for?
+      description: Describe the materials you need
+      placeholder: "e.g., Midterm solutions, specific lab code, lecture slides for Topic X..."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: material-type
+    attributes:
+      label: 🏷️ Material Type
+      options:
+        - Lecture slides/notes
+        - Lab materials
+        - Quiz/Exam papers
+        - Solutions
+        - Textbook/Reference
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: 💬 Additional Context
+      description: Any other helpful details

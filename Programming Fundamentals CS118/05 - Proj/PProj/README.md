@@ -1,0 +1,1 @@
+Please note a slight change in the project requirement. The project statement says that aliens will move side to side, and gradually down towards bottom of the screen. You do not need to implement side to side motion for the aliens. You can design your game so that aliens only move downwards towards the bottom of the screen.

@@ -1,0 +1,288 @@
+{
+  "version": 1,
+  "name": "Data Analysis \u0026 Visualization (Fall 24)",
+  "section": "DS 5A",
+  "room": "NB 208",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroomed2436d3@group.calendar.google.com",
+  "videoCallUrl": "https://meet.google.com/wsr-mbyv-zdg",
+  "courseFolder": {
+    "id": "1VJK2tdeK4Gx9Wnj6QrGDA50OavVKu2DB21Gx-ElnPzbniMPRDtgRUsguazZe9gSlD5bl7fhs",
+    "name": "Data Analysis \u0026 Visualization (Fall 24) DS 5A",
+    "openUrl": "https://drive.google.com/drive/folders/1VJK2tdeK4Gx9Wnj6QrGDA50OavVKu2DB21Gx-ElnPzbniMPRDtgRUsguazZe9gSlD5bl7fhs"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/Psychology.jpg",
+  "subject": "DAV",
+  "courseState": "ACTIVE",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Alaiba Nawaz BSDS 2021 FAST NU LHR"
+      },
+      "emailAddress": "l215650@lhr.nu.edu.pk"
+    },
+    "creationTime": "2024-11-01T06:34:20.276Z",
+    "updateTime": "2024-11-27T07:54:33.942Z",
+    "publicationTime": "2024-11-01T06:35:47.943Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Project"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1KsqLZHMVkzpY8pQS1hOGC5JSuAP2DrrW",
+          "title": "Project Deliverable 3.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1KsqLZHMVkzpY8pQS1hOGC5JSuAP2DrrW/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM1n5a96Z_TAMbjJozBfDh3VvSw_t0yOG0KRH40YOfS-fYt1Kk732JbKrQmHX-sTZs8MGqTY4zHcPQfcoavdiYYIBXwfVEh-Va9w5zjA_JXs1k\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Project Deliverable 3",
+      "dueTime": "2024-12-01T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1D_9Q23VlUR_kKtzUKF-EoMX-RGoR59tg",
+              "title": "DAV_Phase_3.zip",
+              "alternateLink": "https://drive.google.com/file/d/1D_9Q23VlUR_kKtzUKF-EoMX-RGoR59tg/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Alaiba Nawaz BSDS 2021 FAST NU LHR"
+      },
+      "emailAddress": "l215650@lhr.nu.edu.pk"
+    },
+    "creationTime": "2024-10-08T16:38:39.091Z",
+    "updateTime": "2024-10-14T04:33:08.602Z",
+    "publicationTime": "2024-10-08T16:40:57.259Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Assignments"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1vB0A9IRFGrQdxdSRPrQrT9b6WiBF6olk",
+          "title": "DAV_Assignment_3.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1vB0A9IRFGrQdxdSRPrQrT9b6WiBF6olk/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPt5Dh--dBY5B5bkgC4jXYcFr9RSW6UpfR91H3puq2xdkd3c6LCRkm3li42yJXQOIui9kxqLP8_67RVvLoG2IpS-VrWK0c_qLiyeFmnqwEDiKI\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 3",
+      "description": "Make sure to read question properly and solve the questions.",
+      "descriptionHtml": "\u003cdiv\u003eMake sure to read question properly and solve the questions.\u003c/div\u003e",
+      "dueTime": "2024-10-15T18:59:00Z",
+      "maxPoints": 50.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1RyjAgXsnJlKVyv-FWc-FAB6Jaza6o9o5",
+              "title": "DAV-A3-20L-0961.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1RyjAgXsnJlKVyv-FWc-FAB6Jaza6o9o5/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNRdcy34OITpT5N-4e7qVM6KNugolICbPZ-Tyh63BKBYea07DJ-svZdeq3JQYEz_Yx5-7_RSqTGMqVhGDHWkjdFPg81TNlKVTog45D03ORMXQ\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Alaiba Nawaz BSDS 2021 FAST NU LHR"
+      },
+      "emailAddress": "l215650@lhr.nu.edu.pk"
+    },
+    "creationTime": "2024-09-21T12:30:22.172Z",
+    "updateTime": "2024-09-27T09:55:43.614Z",
+    "publicationTime": "2024-09-21T12:32:37.381Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Project"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1C-6XiF1Rgv0IAXIeJDDWZKQaLi8QoZ5P",
+          "title": "Project Deliverable 1.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1C-6XiF1Rgv0IAXIeJDDWZKQaLi8QoZ5P/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNAVuAv0nNurvts1vCLiKZQqc6rV3rlw8lzz99ZD-vzVDzq2ksBtjHEcYMI4JLyuq94g4yZtNNo9xdTJWMiemdYG6VopBXq27anB9fSuV3ZIgQ\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Project Deliverable 1",
+      "description": "Kindly make sure to submit all the required things mentioned in document and read the instructions carefully.",
+      "descriptionHtml": "\u003cdiv\u003eKindly make sure to submit all the required things mentioned in document and read the instructions carefully.\u003c/div\u003e",
+      "dueTime": "2024-10-06T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "121vQ2cfz6W7t9Mf3cowUaoD0O8iukfy2",
+              "title": "D-01.zip",
+              "alternateLink": "https://drive.google.com/file/d/121vQ2cfz6W7t9Mf3cowUaoD0O8iukfy2/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Alaiba Nawaz BSDS 2021 FAST NU LHR"
+      },
+      "emailAddress": "l215650@lhr.nu.edu.pk"
+    },
+    "creationTime": "2024-09-14T11:18:28.653Z",
+    "updateTime": "2024-09-14T11:19:57.454Z",
+    "publicationTime": "2024-09-14T11:19:57.240Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Assignments"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "14zggBWB6Z04Sj4c1IYrfferDhehLbMT4",
+          "title": "DAV_Assignment_2.pdf",
+          "alternateLink": "https://drive.google.com/file/d/14zggBWB6Z04Sj4c1IYrfferDhehLbMT4/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPRh4lVIDikv4LAqYM835se4_FIpMaf34Amud5zAl45-eGA74k1ZdSpcjasLVwsC4_ovz8652bgiX6Db5dswcWlWICNoIQE6J4wWtQeJS8LRlY\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 2",
+      "description": "Students here is your Assignment 2, make sure to read instructions carefully and submit it on time.\nSolve it mathematically do not code.",
+      "descriptionHtml": "\u003cdiv\u003eStudents here is your Assignment 2, make sure to read instructions carefully and submit it on time.\u003cbr\u003eSolve it mathematically do not code.\u003c/div\u003e",
+      "dueTime": "2024-09-27T18:59:00Z",
+      "maxPoints": 50.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1kq2dxTDkR_aUd8nUU0mDMazp7dVNDNC-",
+              "title": "DAV-A2-20L-0961(1).pdf",
+              "alternateLink": "https://drive.google.com/file/d/1kq2dxTDkR_aUd8nUU0mDMazp7dVNDNC-/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM6orm1f3kMbE17xovqib2miRb-KP15GNPBNoUFlt-pa6sV8HGMOZjl2xOREO67Xx58AcwEPH-oRcyNRLGjU6dat1iY0LbsNMRwfD-Wsq0LXQ\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Alaiba Nawaz BSDS 2021 FAST NU LHR"
+      },
+      "emailAddress": "l215650@lhr.nu.edu.pk"
+    },
+    "creationTime": "2024-09-05T19:07:38.134Z",
+    "updateTime": "2024-09-06T05:54:03.570Z",
+    "publicationTime": "2024-09-05T19:11:14.572Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Assignments"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1L2_PVQAMAakx0SU_shqsS_8Z1-ExCE0e",
+          "title": "Assignment_01.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1L2_PVQAMAakx0SU_shqsS_8Z1-ExCE0e/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM4e-IS3d7VnSDDPBxdksae2n5avV7is9YFHzdw0JLmM3fsvRZD_3_VEq3SwQu5ucp_SE1TUpbqEFCUBep8LlJIf1isIXq3DufcCO-iaxSmJ24\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 1",
+      "description": "Students here is your Assignment 1, make sure to read instructions carefully and submit it on time.\nSolve it mathematically do not code.",
+      "descriptionHtml": "\u003cdiv\u003eStudents here is your Assignment 1, make sure to read instructions carefully and submit it on time.\u003cbr\u003eSolve it mathematically do not code.\u003c/div\u003e",
+      "dueTime": "2024-09-13T18:59:00Z",
+      "maxPoints": 40.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1y1vcMlWfKYlX1Fk2KTU7POdZGaRmRPwd",
+              "title": "DAV-A1-20L-0961.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1y1vcMlWfKYlX1Fk2KTU7POdZGaRmRPwd/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPu3gLAaM3xmVWJog40e4NoFiz-GyEgcN3tDYOyrBG3Lk74l8VukLd4U8r4bkAj2mAG5SeF6QoHpMsEG4M_alpmNij6gF6lrLy8g-rJUavKXQ\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }]
+}

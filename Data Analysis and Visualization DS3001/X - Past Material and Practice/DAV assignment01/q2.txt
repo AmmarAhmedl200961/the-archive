@@ -1,0 +1,95 @@
+import requests 
+from bs4 import BeautifulSoup
+import pandas
+
+headers = {
+     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+ }
+
+urls=['https://www.imdb.com/search/title/?title_type=feature&num_votes=25000,&genres=animation&sort=user_rating,desc',
+      'https://www.imdb.com/search/title/?title_type=feature&num_votes=25000,&genres=animation&sort=user_rating,desc&start=51&ref_=adv_nxt',
+      'https://www.imdb.com/search/title/?title_type=feature&num_votes=25000,&genres=animation&sort=user_rating,desc&start=101&ref_=adv_nxt',
+      'https://www.imdb.com/search/title/?title_type=feature&num_votes=25000,&genres=animation&sort=user_rating,desc&start=151&ref_=adv_nxt',
+      'https://www.imdb.com/search/title/?title_type=feature&num_votes=25000,&genres=animation&sort=user_rating,desc&start=201&ref_=adv_nxt',
+      'https://www.imdb.com/search/title/?title_type=feature&num_votes=25000,&genres=animation&sort=user_rating,desc&start=251&ref_=adv_nxt']
+
+
+name_col = []
+year_col = []
+certificate_col = []
+runtime_col = []
+genre_col = []
+imdb_rating_col = []
+metascore_col = []
+votes_col = []
+gross_col = []
+director_col = []
+actor_col = []
+
+
+for url in urls:
+    response=requests.get(url,headers=headers)
+    html_soup=BeautifulSoup(response.text,'html.parser')
+    movie_containers=html_soup.find_all('div',class_='lister-item mode-advanced')
+
+      
+    for container in movie_containers:
+        
+
+        name=container.h3.a.text
+        name_col.append(name)
+
+        year=container.h3.find('span', class_='lister-item-year').text
+        year_col.append(year)
+
+        certificate=container.find('span', class_='certificate').text if container.find('span', class_='certificate') else '-'
+        certificate_col.append(certificate)
+
+        runtime=container.find('span', class_='runtime').text
+        runtime_col.append(runtime)
+
+        genre=container.find('span',class_='genre').text
+        genre_col.append(genre)
+
+        imdb_rating=float(container.strong.text)
+        imdb_rating_col.append(imdb_rating)
+
+        metascore=container.find('span', class_='metascore').text if container.find('span', class_='metascore') else '-'
+        metascore_col.append(metascore)
+
+        nv = container.find_all('span', attrs = {'name':'nv'})
+        vote=nv[0].text
+        votes_col.append(vote)
+
+        gross= nv[1].text if len(nv) > 1 else '-'
+        gross_col.append(gross)
+        
+        director = container.find('p', class_='').find_all('a')[0].text
+        director_col.append(director)
+
+        actor_col.append([actor.text for actor in container.find('p',class_='').find_all('a')[1:]])
+
+movie_dict = {'name':name_col,
+              'year':year_col,
+              'certificate':certificate_col,
+              'runtime':runtime_col,
+              'genre':genre_col,
+              'rating':imdb_rating_col,
+              'metascore':metascore_col,
+              'votes':votes_col,
+              'gross':gross_col,
+              'director':director_col,
+              'actors':actor_col
+              }
+
+df=pandas.DataFrame(movie_dict)
+df.to_csv('feature.csv',index = True)
+print('data saved')
+            
+            
+
+            
+
+            
+
+            

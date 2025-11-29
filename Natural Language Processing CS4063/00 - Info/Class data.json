@@ -1,0 +1,385 @@
+{
+  "version": 1,
+  "name": "NLP",
+  "section": "DS-6B",
+  "room": "NB 303",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom7daeb640@group.calendar.google.com",
+  "courseFolder": {
+    "id": "1AZAhrHSfYqRZbbMdZyzyG5s5TlLDqbYzz4rLIm381Vm-g23o77hv-BvJCAa4k2Ux9f9hmDs-",
+    "name": "NLP 6B",
+    "openUrl": "https://drive.google.com/drive/folders/1AZAhrHSfYqRZbbMdZyzyG5s5TlLDqbYzz4rLIm381Vm-g23o77hv-BvJCAa4k2Ux9f9hmDs-"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_bookclub.jpg",
+  "subject": "Natural Language Processing",
+  "courseState": "ACTIVE",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "hamad ulqudous"
+      }
+    },
+    "creationTime": "2024-05-01T08:32:05.718Z",
+    "updateTime": "2024-05-01T16:21:50.684Z",
+    "publicationTime": "2024-05-01T08:34:12.234Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Seq2Seq Paradigm"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1Afyo1VCCc_a9JtgdXqM-Ws7CJnKEF3tL",
+          "title": "Programming_Assignment_4_NLP.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1Afyo1VCCc_a9JtgdXqM-Ws7CJnKEF3tL/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBORJIZp7AyRfG4UwB6XTyTrMWiKgOVj6n1bUsiLT7okyfmzLuHRrLhf9voEbqnWJwuW2FjBG-zsDx41JSRRQ5boQR3WlUxpppOAopdve73ox34\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 4",
+      "description": "This assignment is designed for groups of two students. Your objective is to collaborate effectively to complete the task within the given timeframe. Ensure that both members contribute equally to the project, utilizing each other\u0027s strengths and skills to produce high-quality results.\n",
+      "descriptionHtml": "\u003cdiv\u003eThis assignment is designed for groups of two students. Your objective is to collaborate effectively to complete the task within the given timeframe. Ensure that both members contribute equally to the project, utilizing each other\u0026#39;s strengths and skills to produce high-quality results.\u003c/div\u003e",
+      "dueTime": "2024-05-17T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1Lv1sbQ6O5Bl3sg4yINMXqbbyMWyBeoWT",
+              "title": "NLP A4 21L-6246 20L-0961.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1Lv1sbQ6O5Bl3sg4yINMXqbbyMWyBeoWT/view?usp\u003ddrive_web"
+            }
+          }, {
+            "driveFile": {
+              "id": "1lvdKLMFu7R2L4fD18dmiq4me0yiz3nXv",
+              "title": "MedQuad QnA Model REPORT 21L-6246 20L-0961.docx",
+              "alternateLink": "https://drive.google.com/file/d/1lvdKLMFu7R2L4fD18dmiq4me0yiz3nXv/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNZ8DBmjBA6yzZ5VMek3Gf8wBJUd4vOpdOV6oczp9GjOrtaFFbMmVZcrAfBa-gLOCrJVPxMi31cUbx_4i4PHu5tWthjvQNFwyek4Y3SfPU19N4\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "hamad ulqudous"
+      }
+    },
+    "creationTime": "2024-03-25T07:25:55.025Z",
+    "updateTime": "2024-03-28T06:32:38.824Z",
+    "publicationTime": "2024-03-25T07:27:08.885Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Sequential Classifiers"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1iDgiL-6tx1Fy720KSf9Jdu99uYfrbbLg",
+          "title": "Written Assignment NLP DS.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1iDgiL-6tx1Fy720KSf9Jdu99uYfrbbLg/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP4RvsTTk4eoLtnC3Ggv8z8srqUIxUetGMy-XNqtEIX4xcSx7V1a70wX2wWC-tt05Mfwv6JxJ8ZSooK_OsVXb0_t6Y5sZ1WTQzPIVUXreZ6lVI\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 3 (Written Task)",
+      "description": "Note:   You must solve the problem manually and submit images of your solution in PDF format. Your score will be determined by the accuracy of your solution, with 30% of the marks awarded based on approximately 85% correctness, and the remaining 70% based on a quiz related to the assignment.",
+      "descriptionHtml": "\u003cdiv\u003eNote:   You must solve the problem manually and submit images of your solution in PDF format. Your score will be determined by the accuracy of your solution, with 30% of the marks awarded based on approximately 85% correctness, and the remaining 70% based on a quiz related to the assignment.\u003c/div\u003e",
+      "dueTime": "2024-03-31T18:59:00Z",
+      "maxPoints": 30.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1ra43dQpTJSaO5wcSnQdWNN6KcwbzvYsX",
+              "title": "l200961assignment3.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1ra43dQpTJSaO5wcSnQdWNN6KcwbzvYsX/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOEHkCuk6b25dPJR89DPz-p8DoDeXbM1NonCV2-tGI-EI91w-nYHCoqVGVj8ISqz_TffwJ1Kt9SF0FhIGcvl5CVrqe4FtcKE91UwZTRvaVXyKU\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "hamad ulqudous"
+      }
+    },
+    "creationTime": "2024-03-18T10:13:06.414Z",
+    "updateTime": "2024-03-26T04:38:04.136Z",
+    "publicationTime": "2024-03-18T10:14:01.094Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Sequential Classifiers"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1JBZ8XDlH2F1db__ITUqF3BlnHJG2FkVx",
+          "title": "NLP Assignment 3.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1JBZ8XDlH2F1db__ITUqF3BlnHJG2FkVx/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOfBjxnX4M0XBM1EFVhF8YT0HUFHspaeCbo4aYfvh-L9PvKKKhTDZWyedGXuXjcK46oCad4rmTMjhd_vdIa-UWzA2pC6QgZSUvG6uBZ1VOS19c\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 3",
+      "description": "Consider this deadline as a hard one. No submission after due date and time.",
+      "descriptionHtml": "\u003cdiv\u003eConsider this deadline as a hard one. No submission after due date and time.\u003c/div\u003e",
+      "dueTime": "2024-04-07T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1RJeC5_ti7jp-yicqz7nznImrtBntSvcX",
+              "title": "l200961.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1RJeC5_ti7jp-yicqz7nznImrtBntSvcX/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "hamad ulqudous"
+      }
+    },
+    "creationTime": "2024-03-03T01:57:11.110Z",
+    "updateTime": "2024-03-07T13:10:32.897Z",
+    "publicationTime": "2024-03-03T01:57:55.057Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Text Classification"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1eF1lFbxvoS6Hz_Mgfcdkvsc8saP2Vtmf",
+          "title": "Q1 WordSimilarity.ipynb",
+          "alternateLink": "https://drive.google.com/file/d/1eF1lFbxvoS6Hz_Mgfcdkvsc8saP2Vtmf/view?usp\u003ddrive_web"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1T7APqf0KHC1bhXNwvQVGM52wFwRIHLcK",
+          "title": "Q2 Sentiment Analysis Dataset.csv",
+          "alternateLink": "https://drive.google.com/file/d/1T7APqf0KHC1bhXNwvQVGM52wFwRIHLcK/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOhLT7zYPlP8r_7teGsv0Qlwu3UoFb78-hyEO-2rMNm-evVjTl3yJAEQ2pYoCeO6QQgdKxlPju050P6jUmh8zf_jKXVCiU2TuObVf98jCgXs6I\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1rKjL2QdfEsMW2DaV5ijmOFOjxqbsy9y2",
+          "title": "Assignment 2.docx",
+          "alternateLink": "https://drive.google.com/file/d/1rKjL2QdfEsMW2DaV5ijmOFOjxqbsy9y2/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOwvzUrr5TDRikB7Zhc8swlcRD2XpKJ_8JEzF-PQU_1WT9zjfJR2SZIFKiTTnsLWimt3jD8GonjJvIplikwdMIRZg8bpEyW8iJc2TU3WU-9FgA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1H-Cz9i3Ra-B7sJfB3CswHTZE4w2fAjsb",
+          "title": "Assignment 2 (1).pdf",
+          "alternateLink": "https://drive.google.com/file/d/1H-Cz9i3Ra-B7sJfB3CswHTZE4w2fAjsb/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMnHilmefOcxml-QchAtuCcXlYtDD_vPAU81vE8T5T8nPAXcHBkeUKwX60jgZXmLrCCb1hxrMTAamQ2Yx8RFiY2sfdG8kev6fOJscXPxIWLiuw\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 2",
+      "description": "You are allowed to utilize some other text normalization methods for string matching other than converting it to lower case. If desired results aren\u0027t achieved.\n\n\nNew deadline is a hard one. Not a single minute given after end time.\n\nGood Luck.",
+      "descriptionHtml": "\u003cdiv\u003eYou are allowed to utilize some other text normalization methods for string matching other than converting it to lower case. If desired results aren\u0026#39;t achieved.\u003cbr\u003e\u003cbr\u003e\u003cbr\u003eNew deadline is a hard one. Not a single minute given after end time.\u003cbr\u003e\u003cbr\u003eGood Luck.\u003c/div\u003e",
+      "dueTime": "2024-03-15T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1iK0czMbUTVtrzO-2fPYfK7FtNbnKl6jV",
+              "title": "l200961.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1iK0czMbUTVtrzO-2fPYfK7FtNbnKl6jV/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP3BFq1ibYX9fuuMxXHQ7vVM3BDQqpjAH5GrrKf_CByjTdlNK0gg2UAJgmyFoAqj0fgEp7ILpn56Sbb2q-uO-7GrKsuhgYje_458NgPHlrGQnk\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "hamad ulqudous"
+      }
+    },
+    "creationTime": "2024-02-21T14:09:35.850Z",
+    "updateTime": "2024-02-21T17:13:17.744Z",
+    "publicationTime": "2024-02-21T14:13:16.292Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "TF IDF"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "193DwUG2wdc2bqB-ar_KjoBD_Vn_AsGLs",
+          "title": "Homework 1 NLP.pdf",
+          "alternateLink": "https://drive.google.com/file/d/193DwUG2wdc2bqB-ar_KjoBD_Vn_AsGLs/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMKL-CuMVIXY3FQiq2kBmmfHiEAXQhkx78SzULcPVx42AsLiYuef94T_8Wn7yKzejkcUCUIat5iVot9-4dGSgNgTpfs011jl3QAaFZCPhqVSj0\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Homework 1",
+      "description": "Its a Bonus Activity and it has some weight as well around ~1 absolute mark. \nSubmission is not allowed after assigned time.\n\n*Also Compute Cosine Similarity between (D1,D4) (D1,D7) (D4,D7) \n\nNote: Only Hand Written Solution is allowed.",
+      "descriptionHtml": "\u003cdiv\u003eIts a Bonus Activity and it has some weight as well around ~1 absolute mark. \u003cbr\u003eSubmission is not allowed after assigned time.\u003cbr\u003e\u003cbr\u003e\u003cb\u003e*Also Compute Cosine Similarity between (D1,D4) (D1,D7) (D4,D7) \u003c/b\u003e\u003cbr\u003e\u003cbr\u003e\u003cb\u003e\u003cu\u003eNote:\u003c/u\u003e\u003c/b\u003e Only Hand Written Solution is allowed.\u003c/div\u003e",
+      "dueTime": "2024-02-23T18:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1m8WFUWQvakmNyOd3OCzHKimSweouqnMK",
+              "title": "NLPHW-120L-0961.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1m8WFUWQvakmNyOd3OCzHKimSweouqnMK/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOZFkZH9h4b4dQSVatYfVVnfk4ho9OCslmEqSR0MJJARZmLZmz67pacb_T0-9eT5P5v2eChTUOYxXOVI27UT9PCl7AfYLuF9kyRyz9sWvydFUg\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "hamad ulqudous"
+      }
+    },
+    "creationTime": "2024-01-31T05:35:13.622Z",
+    "updateTime": "2024-02-12T08:53:32.553Z",
+    "publicationTime": "2024-01-31T05:37:04.554Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "14HyQYf6fX3sFjxiQ8BveGqoBUZV0kAHx",
+          "title": "Assignment 1.docx",
+          "alternateLink": "https://drive.google.com/file/d/14HyQYf6fX3sFjxiQ8BveGqoBUZV0kAHx/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNir6ORGT8ViLm0Kh6Y2nhu3MrUMUffRMthaWYKTkgaGt8466ye4z-EyMuX5GeKdDS7fMmfdBVFPZY5Gl6zlwjWGDR4OHDNxpQxr7Hv7M9WxtE\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "11pqMIIWgTQ5UR6T-H6wYQfIQRm1_HeAa",
+          "title": "Assignment 1 Data and Code.rar",
+          "alternateLink": "https://drive.google.com/file/d/11pqMIIWgTQ5UR6T-H6wYQfIQRm1_HeAa/view?usp\u003ddrive_web"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 1",
+      "description": "Hard Deadline: 11-FEB-24 11:59 PM",
+      "descriptionHtml": "\u003cdiv\u003eHard Deadline: 11-FEB-24 11:59 PM\u003c/div\u003e",
+      "dueTime": "2024-02-11T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1pdSBSpxc_AsCyqEC3mQhzimFIU6J_Itt",
+              "title": "lm.py",
+              "alternateLink": "https://drive.google.com/file/d/1pdSBSpxc_AsCyqEC3mQhzimFIU6J_Itt/view?usp\u003ddrive_web"
+            }
+          }, {
+            "driveFile": {
+              "id": "18vrCPojbulqA_dtDd60zbExp0Vs_KqL5",
+              "title": "l200961_asm1_part1.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/18vrCPojbulqA_dtDd60zbExp0Vs_KqL5/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }]
+}

@@ -1,0 +1,376 @@
+{
+  "version": 1,
+  "name": "Gen AI",
+  "section": "Spring 2025 - BDS 8A \u0026 8B",
+  "description": "BDS 8A \u0026 8B",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroomcdac0c70@group.calendar.google.com",
+  "courseFolder": {
+    "id": "1VNaJEkN1b-2BvL0Dmv_yCP2dlydVvgE030cjM_NrsNh5a5v9OwV3QDbQNC_DP16mCxv1Obd6",
+    "name": "Gen AI Spring 2025 - BDS 8A \u0026 8B",
+    "openUrl": "https://drive.google.com/drive/folders/1VNaJEkN1b-2BvL0Dmv_yCP2dlydVvgE030cjM_NrsNh5a5v9OwV3QDbQNC_DP16mCxv1Obd6"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_code.jpg",
+  "courseState": "ARCHIVED",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Abdur Rehman MSDS 2023 FAST NU LHR"
+      },
+      "emailAddress": "abdurrehman.ta2025@lhr.nu.edu.pk"
+    },
+    "creationTime": "2025-05-16T08:59:15.408Z",
+    "updateTime": "2025-05-16T09:12:52.252Z",
+    "publicationTime": "2025-05-16T09:12:52.101Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Assignments evaluations Section B",
+      "description": "Dear section B Students,\n\n\nDue to time constraints and varying students schedules, we are offering the following options for the pending assignment 1234 VIVAs:\n\n \nOption 1: TA Evaluation Without VIVA\n\n\n\nThe TA will evaluate your assignments based on the submissions only.\n\nYou will have no objection to the assigned marks.\n\nNo individual VIVA will be conducted.\n\n\n\nOption 2: VIVA on Saturday (All Assignments Together)\n\n\n\nVIVA for all assignments will be conducted on Saturday 17May 10Am-4PM.\n\nYou can explain your work directly and clarify any doubts.\n\nThe majority decision will be followed by all.\n",
+      "descriptionHtml": "\u003cdiv\u003e\u003cb\u003eDear section B Students,\u003c/b\u003e\u003cbr\u003e\u003cbr\u003e\u003cbr\u003eDue to time constraints and varying students schedules, we are offering the following options for the pending \u003cb\u003eassignment 1234 VIVAs\u003c/b\u003e:\u003cbr\u003e\u003cbr\u003e \u003cbr\u003e\u003cb\u003eOption 1: TA Evaluation Without VIVA\u003c/b\u003e\u003cbr\u003e\u003cul\u003e\u003cli\u003e\u003cbr\u003e\u003c/li\u003e\u003cli\u003eThe TA will evaluate your assignments based on the submissions only.\u003cbr\u003e\u003c/li\u003e\u003cli\u003eYou will have \u003cb\u003eno objection to the assigned marks.\u003c/b\u003e\u003cbr\u003e\u003c/li\u003e\u003cli\u003eNo individual VIVA will be conducted.\u003cbr\u003e\u003c/li\u003e\u003c/ul\u003e\u003cbr\u003e\u003cbr\u003e\u003cb\u003eOption 2: VIVA on Saturday (All Assignments Together)\u003c/b\u003e\u003cbr\u003e\u003cul\u003e\u003cli\u003e\u003cbr\u003e\u003c/li\u003e\u003cli\u003eVIVA for all assignments will be conducted on \u003cb\u003eSaturday 17May 10Am-4PM.\u003c/b\u003e\u003cbr\u003e\u003c/li\u003e\u003cli\u003eYou can explain your work directly and clarify any doubts.\u003cbr\u003e\u003c/li\u003e\u003c/ul\u003e\u003cb\u003eThe majority decision will be followed by all.\u003c/b\u003e\u003c/div\u003e",
+      "dueTime": "2025-05-16T13:59:00Z",
+      "workType": "MULTIPLE_CHOICE_QUESTION",
+      "multipleChoiceQuestion": {
+        "choices": ["I don\u0027t want to give Viva due to time constraints, TA can Evaluate by himself I will have no Objection", "I want to give VIVA on Saturday of all assignments"]
+      },
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "multipleChoiceSubmission": {
+          "answer": "I don\u0027t want to give Viva due to time constraints, TA can Evaluate by himself I will have no Objection"
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Abdur Rehman MSDS 2023 FAST NU LHR"
+      },
+      "emailAddress": "abdurrehman.ta2025@lhr.nu.edu.pk"
+    },
+    "creationTime": "2025-04-28T15:34:15.738Z",
+    "updateTime": "2025-04-30T19:04:09.041Z",
+    "publicationTime": "2025-04-28T15:35:46.092Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Make up Class",
+      "description": "Announcement \n\nDue to the public holiday on May 1, there will be no class.\n\nKindly vote for a suitable time to schedule a make-up class, during which presentations will be conducted.",
+      "descriptionHtml": "\u003cdiv\u003e\u003cb\u003eAnnouncement\u003c/b\u003e \u003cbr\u003e\u003cbr\u003eDue to the public holiday on May 1, there will be no class.\u003cbr\u003e\u003cbr\u003eKindly vote for a suitable time to schedule a make-up class, during which presentations will be conducted.\u003c/div\u003e",
+      "dueTime": "2025-04-29T05:00:00Z",
+      "workType": "MULTIPLE_CHOICE_QUESTION",
+      "multipleChoiceQuestion": {
+        "choices": ["Next Tuesday \u0026 Thursday  5:30PM - 7:00PM along with your class", "Dead Week Any day Any time, Seperate Make-Up Class"]
+      },
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "multipleChoiceSubmission": {
+          "answer": "Dead Week Any day Any time, Seperate Make-Up Class"
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Abdur Rehman MSDS 2023 FAST NU LHR"
+      },
+      "emailAddress": "abdurrehman.ta2025@lhr.nu.edu.pk"
+    },
+    "creationTime": "2025-04-24T07:47:33.612Z",
+    "updateTime": "2025-04-24T07:49:07.650Z",
+    "publicationTime": "2025-04-24T07:49:07.463Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Assignments"
+    }],
+    "courseWork": {
+      "title": "Presentation submission folder",
+      "description": "Please submit your presentation here, 1 submission per group.\n\nhttps://drive.google.com/drive/folders/1YC8FV1XXbzP7DdLbc0VpcyQvXDVGgEsQ?usp\u003ddrive_link",
+      "descriptionHtml": "\u003cdiv\u003ePlease submit your presentation here, 1 submission per group.\u003cbr\u003e\u003cbr\u003ehttps://drive.google.com/drive/folders/1YC8FV1XXbzP7DdLbc0VpcyQvXDVGgEsQ?usp\u003ddrive_link\u003c/div\u003e",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "15Xvn3JiqNMtgodCwMzSl3yyjLEMCDmC_",
+              "title": "Long Chain-of-Thought (Long C___.pptx",
+              "alternateLink": "https://drive.google.com/file/d/15Xvn3JiqNMtgodCwMzSl3yyjLEMCDmC_/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP5LpAJbx5iCcfKYf4PTaP9mirnLoWzXPl6unzh1xy71yso3vvSRJLmDA9ugk6XiEYavJjWzIyq6yJ7zNCVwtQ7yAvkfs2mn22kEl8jf8ED5Q\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Abdur Rehman MSDS 2023 FAST NU LHR"
+      },
+      "emailAddress": "abdurrehman.ta2025@lhr.nu.edu.pk"
+    },
+    "creationTime": "2025-04-23T11:31:59.244Z",
+    "updateTime": "2025-05-19T23:52:42.220Z",
+    "publicationTime": "2025-04-23T11:31:58.518Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1PYlqp_iwh0WGXIsyAoEv0V-2hgYrv7YY",
+          "title": "GENAI-A4-2.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1PYlqp_iwh0WGXIsyAoEv0V-2hgYrv7YY/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBONFWY9aJCcHDEnIkTVspFaccFFy-FwsGoIUBbsuxah2MVGpRYVmC1mkplyMglo5RAUpIM8wv8Lva_b66bTgKxHVpNOo0VdDvcVQE-RpJDzDUo\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 4",
+      "description": "Start As soon as possible, As No extension will be given.\nThere could be a question from this Assignment in Final Exam.",
+      "descriptionHtml": "\u003cdiv\u003e\u003cb\u003eStart As soon as possible, As No extension will be given.\u003c/b\u003e\u003cbr\u003e\u003cb\u003eThere could be a question from this Assignment in Final Exam.\u003c/b\u003e\u003c/div\u003e",
+      "dueTime": "2026-05-10T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Abdur Rehman MSDS 2023 FAST NU LHR"
+      },
+      "emailAddress": "abdurrehman.ta2025@lhr.nu.edu.pk"
+    },
+    "creationTime": "2025-04-09T13:32:47.062Z",
+    "updateTime": "2025-04-22T14:25:27.630Z",
+    "publicationTime": "2025-04-09T13:32:46.022Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1qUFazpBPPfSGrebg0hnACb07K0aPK8Yg",
+          "title": "GENAI-A3-2.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1qUFazpBPPfSGrebg0hnACb07K0aPK8Yg/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMSKD3vA-xjuIqabZCK_74TOg-bh5riGb1TRmEG_QRzxQo0s9ngpnl6pZN94La5sWYxvZwAGOSiixWLAI0fpF9ufZPWUzrXTuFd2ah3tbT7048\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 3",
+      "dueTime": "2025-04-25T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "15Am3Tcmq5I826P_PVUC_aZV6c-9OROK5",
+              "title": "l200961_A3.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/15Am3Tcmq5I826P_PVUC_aZV6c-9OROK5/view?usp\u003ddrive_web"
+            }
+          }, {
+            "driveFile": {
+              "id": "1L4-MLiCbT1yw0hCfDGz3xk8wEB2YGTav",
+              "title": "PEFT_Report.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1L4-MLiCbT1yw0hCfDGz3xk8wEB2YGTav/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNEgBdkm_dluux--DJZtNY4tRcJJoN-JRyUSV6tcCjYTvbV5j82TJC8w_347dJp3EPdk7xYrBuh5RC_XLGyt-T8fXA3RdPJGX3WY_nXLh2ZSw\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Abdur Rehman MSDS 2023 FAST NU LHR"
+      },
+      "emailAddress": "abdurrehman.ta2025@lhr.nu.edu.pk"
+    },
+    "creationTime": "2025-03-04T08:50:50.775Z",
+    "updateTime": "2025-03-04T08:50:48.909Z",
+    "publicationTime": "2025-03-04T08:50:48.804Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "📢 Assignment 2 Change",
+      "description": "What would you like to do with assignment 2 ? ",
+      "descriptionHtml": "\u003cdiv\u003eWhat would you like to do with assignment 2 ?\u003c/div\u003e",
+      "dueTime": "2025-03-04T18:59:00Z",
+      "workType": "MULTIPLE_CHOICE_QUESTION",
+      "multipleChoiceQuestion": {
+        "choices": ["Reduce questions or complexity ", "Make it Group assignment max 2 persons"]
+      },
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "multipleChoiceSubmission": {
+          "answer": "Make it Group assignment max 2 persons"
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Abdur Rehman MSDS 2023 FAST NU LHR"
+      },
+      "emailAddress": "abdurrehman.ta2025@lhr.nu.edu.pk"
+    },
+    "creationTime": "2025-03-01T17:50:14.158Z",
+    "updateTime": "2025-05-25T01:35:37.311Z",
+    "publicationTime": "2025-03-01T17:50:39.144Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Assignments"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1bYtS-EB25CIGeaVpx4gjMt0Glup6wsYK",
+          "title": "GENAI-A2.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1bYtS-EB25CIGeaVpx4gjMt0Glup6wsYK/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPIo-G0Vc6PBgpt4vHWWo-JF-5oXO8dafapgE6Cw9egmNNGmv2nCBOn62iRpazuZEfrgl_Jm8Wvq-eNPEKLhnwyIwR1-MBzhkavXMJsbBWXrho\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 2",
+      "dueTime": "2025-03-16T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1gyeo3U8qs3tDOATsxMoAsv3m8vhuWxNd",
+              "title": "l200961_A2.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1gyeo3U8qs3tDOATsxMoAsv3m8vhuWxNd/view?usp\u003ddrive_web"
+            }
+          }, {
+            "driveFile": {
+              "id": "1edCq3sZxs0tZ3mzQ63Bh2rncOX6BtiQc",
+              "title": "l200961_A2_report.docx",
+              "alternateLink": "https://drive.google.com/file/d/1edCq3sZxs0tZ3mzQ63Bh2rncOX6BtiQc/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPkMnu2_uUXAWJBfXnQzyvxvZYIpOZ5AnqRakx8nog38KXio2-fBWW-zxmI6Szl3LQXz1hbP5ezPFuwt8-iNAPcDL9RZhL3CH6PxmmGk5-3eQ\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Abdur Rehman MSDS 2023 FAST NU LHR"
+      },
+      "emailAddress": "abdurrehman.ta2025@lhr.nu.edu.pk"
+    },
+    "creationTime": "2025-02-03T18:05:23.047Z",
+    "updateTime": "2025-02-18T17:18:38.280Z",
+    "publicationTime": "2025-02-03T18:05:44.662Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Assignments"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1UapnJIYAPlcGH0kuzCwaG8YRjyzzRpzb",
+          "title": "GENAI-A1.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1UapnJIYAPlcGH0kuzCwaG8YRjyzzRpzb/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN0rufBKVu_2zcCyP9xydhkVqOl_xWNYqyf1u5GX3hPtYm1F2aRN-HxtiQ18SWNQE0-tMcM0XYnK_W_lyMqC7fuWEpcjsrjbw9mGG6MgPTQ8to\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 1",
+      "dueTime": "2025-02-20T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "15p3qBdTuDsJCO2WlpQ2FvsQKC2ERxlpw",
+              "title": "l200961.zip",
+              "alternateLink": "https://drive.google.com/file/d/15p3qBdTuDsJCO2WlpQ2FvsQKC2ERxlpw/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }]
+}

@@ -1,0 +1,18 @@
+name: ❓ General Question
+description: Ask a question about the archive or its contents
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Have a question?  Ask away! 💬
+
+        > **Tip:** For discussions and community chat, consider using [Discussions](https://github.com/AmmarAhmedl200961/the-archive/discussions) instead! 
+
+  - type: textarea
+    id: question
+    attributes:
+      label: 📝 Your Question
+      description: What would you like to know?
+    validations:
+      required: true

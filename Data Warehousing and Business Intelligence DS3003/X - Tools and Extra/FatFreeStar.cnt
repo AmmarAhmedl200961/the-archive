@@ -1,0 +1,23 @@
+:Base FatFreeStar.hlp
+:Title Fat Free Star
+1 Introduction=INTRODUCTION
+1 Quick Start=QUICK_START
+1 Keyboard Shortcuts=KEYBOARD_SHORTCUTS
+1 Additional Features
+2 Additonal Features=ADDITIONAL_FEATURES
+2 Select and Connect Mode=CURSOR_MODE
+1 Menu and Toolbar
+2 Menu=MENU_BAR
+2 File Menu=FILE_MENU
+2 Edit Menu=EDIT_MENU
+2 View Menu=VIEW_MENU
+2 Insert Menut=INSERT_MENU
+2 Mode Menu=MODE_MENU
+2 Window Menu=WINDOW_MENU
+2 Help Menu=HELP_MENU
+1 Building a Diagram
+2 Building a Star Schema=BUILDING_DIAGRAM
+2 Fact Tables=FACT_DIALOG
+2 Dimension Tables=DIMENSION_TABLE
+2 Relationships=RELATIONSHIP_DIALOG
+2 Labels=LABEL_DIALOG

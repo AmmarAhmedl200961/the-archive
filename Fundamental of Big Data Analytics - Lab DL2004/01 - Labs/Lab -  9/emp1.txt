@@ -1,0 +1,51 @@
+emp_id,emp_name,emp_dept
+1,John,Digital Marketing
+2,Alice,Software Development
+3,Bob,Data Science
+4,Charlie,Human Resources
+5,Eve,Finance
+6,Michael,Software Development
+7,Olivia,Data Science
+8,Sophia,Finance
+9,Liam,Data Science
+10,Emily,Software Development
+11,James,Finance
+12,Benjamin,Digital Marketing
+13,Emma,Software Development
+14,Ava,Data Science
+15,Isabella,Human Resources
+16,Lucas,Finance
+17,Avery,Software Development
+18,Grace,Data Science
+19,Ethan,Human Resources
+20,Scarlett,Software Development
+21,Henry,Digital Marketing
+22,Amelia,Finance
+23,David,Software Development
+24,Chloe,Data Science
+25,Sebastian,Human Resources
+26,Samuel,Finance
+27,Evelyn,Software Development
+28,Jackson,Data Science
+29,Abigail,Digital Marketing
+30,Harper,Software Development
+31,Luna,Data Science
+32,William,Human Resources
+33,Addison,Finance
+34,Charlotte,Software Development
+35,Matthew,Data Science
+36,Mia,Human Resources
+37,Aubrey,Software Development
+38,Elizabeth,Finance
+39,Andrew,Data Science
+40,Sofia,Human Resources
+41,Grace,Software Development
+42,Ella,Data Science
+43,Daniel,Finance
+44,Luke,Software Development
+45,Victoria,Data Science
+46,Jack,Human Resources
+47,Julia,Software Development
+48,Jonathan,Finance
+49,John,Data Science
+50,Emma,Software Development

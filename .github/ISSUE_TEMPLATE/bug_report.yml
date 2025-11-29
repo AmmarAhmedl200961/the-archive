@@ -1,0 +1,47 @@
+name: 🐛 Bug / Problem Report
+description: Report broken links, corrupted files, or other issues
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve the-archive! 🙏
+
+  - type: textarea
+    id: description
+    attributes:
+      label: 📝 Description
+      description: What's the problem? 
+      placeholder: "e.g., The PDF for Quiz 3 in Data Structures is corrupted..."
+    validations:
+      required: true
+
+  - type: input
+    id: file-path
+    attributes:
+      label: 📁 File/Folder Path
+      description: Where is the problematic file located?
+      placeholder: "e. g., Data Structures CS2001/03 - Quizzes/Quiz 03. pdf"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: issue-type
+    attributes:
+      label: 🏷️ Issue Type
+      options:
+        - Corrupted/broken file
+        - Broken link
+        - Missing content
+        - Mislabeled/misplaced file
+        - Duplicate content
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: 💬 Additional Context
+      description: Any other details that might help
+      placeholder: "Screenshots, expected content, etc."

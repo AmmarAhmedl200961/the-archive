@@ -1,0 +1,7 @@
+Toothpaste - 250  
+Soap - 150  
+Shampoo - 500  
+Conditioner - 550
+Hand Sanitizer - 350
+Matches - 100  
+Candles - 250  

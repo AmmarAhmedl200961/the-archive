@@ -1,0 +1,1 @@
+use this tool to make star schema.

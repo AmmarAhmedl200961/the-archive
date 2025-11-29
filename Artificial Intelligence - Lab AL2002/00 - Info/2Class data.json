@@ -1,0 +1,622 @@
+{
+  "version": 1,
+  "name": "AI BDS 6B",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom1e18dae2@group.calendar.google.com",
+  "courseFolder": {
+    "id": "1nqa-CHjQpeCy3YUiBnuv5fhNIowfQ9g7YxyztS1zko6Msv_vIoGt3N-fpc0AyNe_TaxHa0oi",
+    "name": "AI BDS 6B",
+    "openUrl": "https://drive.google.com/drive/folders/1nqa-CHjQpeCy3YUiBnuv5fhNIowfQ9g7YxyztS1zko6Msv_vIoGt3N-fpc0AyNe_TaxHa0oi"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/Honors.jpg",
+  "courseState": "ACTIVE",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2023-05-11T09:39:25.483Z",
+    "updateTime": "2023-05-11T09:40:24.486Z",
+    "publicationTime": "2023-05-11T09:40:24.300Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1FxIvMQWfds21hxSPm46YsDkTrsj8lAX7",
+          "alternateLink": "https://drive.google.com/open?id\u003d1FxIvMQWfds21hxSPm46YsDkTrsj8lAX7"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1t7s8SGoz9fVuhphIZuKIgCMu5p2hZv6a",
+          "alternateLink": "https://drive.google.com/open?id\u003d1t7s8SGoz9fVuhphIZuKIgCMu5p2hZv6a"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab 13 (Regression)",
+      "dueTime": "2023-05-11T12:30:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1t-KR2TxUWL5HbvehNFmHDk1it9EeCoZE",
+              "title": "l200961.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1t-KR2TxUWL5HbvehNFmHDk1it9EeCoZE/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2023-05-04T09:47:40.028Z",
+    "updateTime": "2023-05-04T11:48:00.712Z",
+    "publicationTime": "2023-05-04T09:48:39.861Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1WHUochRYf4b2q7CaOTmqPGiZlxQDghfm",
+          "alternateLink": "https://drive.google.com/open?id\u003d1WHUochRYf4b2q7CaOTmqPGiZlxQDghfm"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab12 (Clustering) ",
+      "dueTime": "2023-05-04T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1OKMYrX_uqSshx7GekixQVD1JImrjt1U2",
+              "title": "l200961.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1OKMYrX_uqSshx7GekixQVD1JImrjt1U2/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2023-04-27T10:32:02.372Z",
+    "updateTime": "2023-04-27T10:33:44.834Z",
+    "publicationTime": "2023-04-27T10:33:44.664Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1PQMMWPsrJi5xe198Lt2YVkDuNtEKgzla",
+          "alternateLink": "https://drive.google.com/open?id\u003d1PQMMWPsrJi5xe198Lt2YVkDuNtEKgzla"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab11(Quiz)",
+      "dueTime": "2023-04-27T11:35:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1CWSvh7Wr1DCKqSBLkAqyBdS2z-R0Gl5G",
+              "title": "Untitled.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1CWSvh7Wr1DCKqSBLkAqyBdS2z-R0Gl5G/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2023-04-20T07:39:57.952Z",
+    "updateTime": "2023-04-20T07:42:40.047Z",
+    "publicationTime": "2023-04-20T07:42:39.722Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1hUaAgUiCzCgbTKevTcO73ytSSi0ySaFF",
+          "alternateLink": "https://drive.google.com/open?id\u003d1hUaAgUiCzCgbTKevTcO73ytSSi0ySaFF"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab 10 ( MLP, ROC, AUC)",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1Z6gryTOLyhjhZH8zBbeQs9gyvGjOP5C6",
+              "title": "l200961_Lab10.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1Z6gryTOLyhjhZH8zBbeQs9gyvGjOP5C6/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2023-04-13T06:12:05.593Z",
+    "updateTime": "2023-04-13T06:13:20.100Z",
+    "publicationTime": "2023-04-13T06:13:19.864Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "13i5Zd0Vs4JJRzuHz4XKD_1P4xJ97Ca13",
+          "alternateLink": "https://drive.google.com/open?id\u003d13i5Zd0Vs4JJRzuHz4XKD_1P4xJ97Ca13"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab 9(ANN)",
+      "dueTime": "2023-04-13T10:40:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "18u8n0jav0ttc635uLU9b1zicHiBL4HKQ",
+              "title": "l200961_Lab9.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/18u8n0jav0ttc635uLU9b1zicHiBL4HKQ/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2023-03-30T08:38:55.140Z",
+    "updateTime": "2023-04-13T10:50:26.574Z",
+    "publicationTime": "2023-03-30T08:40:18.437Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1eJO2CVlLl27ssR6MseZVPjQ0JgUi46W_",
+          "alternateLink": "https://drive.google.com/open?id\u003d1eJO2CVlLl27ssR6MseZVPjQ0JgUi46W_"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1G_XLNgg3akmaJcVpYBuRPUbMaoQA8w7J",
+          "alternateLink": "https://drive.google.com/open?id\u003d1G_XLNgg3akmaJcVpYBuRPUbMaoQA8w7J"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1F_0fBS-KvhFtNZGu1DQGbnwRT-uCC9H3",
+          "alternateLink": "https://drive.google.com/open?id\u003d1F_0fBS-KvhFtNZGu1DQGbnwRT-uCC9H3"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "AI Lab Midterm Exam",
+      "dueTime": "2023-03-30T10:00:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1EALdQsmBAvT2u0rK0_SjylR9s3syCQQS",
+              "title": "l200961.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1EALdQsmBAvT2u0rK0_SjylR9s3syCQQS/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2023-03-16T07:51:58.648Z",
+    "updateTime": "2023-03-16T09:33:28.157Z",
+    "scheduledTime": "2023-03-16T09:30:00Z",
+    "publicationTime": "2023-03-16T09:33:27.895Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1JpxY2X1wDTzetYLwGIl8noXWF891YV6A",
+          "alternateLink": "https://drive.google.com/open?id\u003d1JpxY2X1wDTzetYLwGIl8noXWF891YV6A"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "15COt2d97UXWE0nmKy2dUq4dgt5TaoTbP",
+          "alternateLink": "https://drive.google.com/open?id\u003d15COt2d97UXWE0nmKy2dUq4dgt5TaoTbP"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab Assignment 6(GA and ANN)",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1spLDEor2iXj-V2L0TVoI-QBIIrwGrql5",
+              "title": "l200961_Lab7_GA_and_ANN.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1spLDEor2iXj-V2L0TVoI-QBIIrwGrql5/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2023-03-09T05:51:11.353Z",
+    "updateTime": "2023-03-09T15:01:42.539Z",
+    "scheduledTime": "2023-03-09T09:30:00Z",
+    "publicationTime": "2023-03-09T09:32:07.699Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1G6RRuwHw56IasA0rePwJVNAfcpOBv6K2",
+          "alternateLink": "https://drive.google.com/open?id\u003d1G6RRuwHw56IasA0rePwJVNAfcpOBv6K2"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1aGyJNCgKZ5WF-iLTmarAiMnKDVyk10zk",
+          "alternateLink": "https://drive.google.com/open?id\u003d1aGyJNCgKZ5WF-iLTmarAiMnKDVyk10zk"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1AiPwTjyuIZTe_YiQ_cL9K1ULytuOEvN8",
+          "alternateLink": "https://drive.google.com/open?id\u003d1AiPwTjyuIZTe_YiQ_cL9K1ULytuOEvN8"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab Assignment 5",
+      "dueTime": "2023-03-09T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1hZjW9ElLMUxSaiHlWhRMvh_kNA4tPJMF",
+              "title": "l200961_Lab_6_Problem_Solving_by_Genetic_Algorithm.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1hZjW9ElLMUxSaiHlWhRMvh_kNA4tPJMF/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2023-03-06T17:03:51.477Z",
+    "updateTime": "2023-03-11T16:20:18.605Z",
+    "publicationTime": "2023-03-06T17:09:15.788Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "16g19i3Lg0pLNxtV-CxOTdyQHTBKM4T6-",
+          "alternateLink": "https://drive.google.com/open?id\u003d16g19i3Lg0pLNxtV-CxOTdyQHTBKM4T6-"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab Assignment 4",
+      "description": "Please submit it on Wednesday at 12:00 AM. No late submissions will be accepted.",
+      "descriptionHtml": "\u003cdiv\u003ePlease submit it on Wednesday at 12:00 AM. No late submissions will be accepted.\u003c/div\u003e",
+      "dueTime": "2023-03-12T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1gAxxfNJirDNaGUyvHkhO7pqQ277QU7TS",
+              "title": "l200961.py",
+              "alternateLink": "https://drive.google.com/file/d/1gAxxfNJirDNaGUyvHkhO7pqQ277QU7TS/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2023-02-23T06:09:07.401Z",
+    "updateTime": "2023-02-23T09:36:06.695Z",
+    "scheduledTime": "2023-02-23T09:35:00Z",
+    "publicationTime": "2023-02-23T09:36:06.488Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1JSD1zXgFJ_4_RE1BZdeW5Ft4C18lv_Cy",
+          "alternateLink": "https://drive.google.com/open?id\u003d1JSD1zXgFJ_4_RE1BZdeW5Ft4C18lv_Cy"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab 3 ( DFS, BFS, A*)",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1uN4IzoXnw0KaqiKDR2DB_DSiGIobroRc",
+              "title": "updated_l200961.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1uN4IzoXnw0KaqiKDR2DB_DSiGIobroRc/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2023-02-16T08:00:40.009Z",
+    "updateTime": "2023-02-16T09:35:11.286Z",
+    "scheduledTime": "2023-02-16T09:35:00Z",
+    "publicationTime": "2023-02-16T09:35:10.991Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1OWXGQjyUh6RNslgL6_CvD5UjuYZ3iJnJ",
+          "alternateLink": "https://drive.google.com/open?id\u003d1OWXGQjyUh6RNslgL6_CvD5UjuYZ3iJnJ"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1J2pXtwQQEPBFqogeB_SORUSMC7KlUbDN",
+          "alternateLink": "https://drive.google.com/open?id\u003d1J2pXtwQQEPBFqogeB_SORUSMC7KlUbDN"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab Assignment 2 ( Lists, Tuple , Dictionary)",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1re7lrgLOqa8dgdWGh1hZVBWILW43qT1w",
+              "title": "l200961.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/1re7lrgLOqa8dgdWGh1hZVBWILW43qT1w/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2023-02-09T09:37:36.146Z",
+    "updateTime": "2023-02-09T09:38:34.257Z",
+    "publicationTime": "2023-02-09T09:38:33.924Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1H3RkAgL5WajntRvxINWKApO9tc9fKmV_",
+          "alternateLink": "https://drive.google.com/open?id\u003d1H3RkAgL5WajntRvxINWKApO9tc9fKmV_"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab # 1",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "15TKVE7dkPcdnguv0WZl8C4KysEnc5pMq",
+              "title": "Untitled.ipynb",
+              "alternateLink": "https://drive.google.com/file/d/15TKVE7dkPcdnguv0WZl8C4KysEnc5pMq/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }]
+}

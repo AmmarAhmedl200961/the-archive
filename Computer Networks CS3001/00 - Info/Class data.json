@@ -1,0 +1,317 @@
+{
+  "version": 1,
+  "name": "Computer Networks (Spring 25)",
+  "section": "DS-8A",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom2ebbaf99@group.calendar.google.com",
+  "courseFolder": {
+    "id": "160hiO989UPNIcYW-TB2IPXucumJkIa11eAaIPd7ad_T2yI-cRxsxihmysK0oftFmT4kaSFaP",
+    "name": "Computer Networks DS-8A",
+    "openUrl": "https://drive.google.com/drive/folders/160hiO989UPNIcYW-TB2IPXucumJkIa11eAaIPd7ad_T2yI-cRxsxihmysK0oftFmT4kaSFaP"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_code.jpg",
+  "courseState": "ACTIVE",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Kanz Ul Eeman BSCS 2021 FAST NU LHR"
+      },
+      "emailAddress": "l215469@lhr.nu.edu.pk"
+    },
+    "creationTime": "2025-05-13T17:51:12.001Z",
+    "updateTime": "2025-05-13T17:52:27.304Z",
+    "publicationTime": "2025-05-13T17:52:27.028Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1n2AtoIbvR1BVmxC6AOEYrz1JnCnvQa5o",
+          "title": "CN_Assignment6.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1n2AtoIbvR1BVmxC6AOEYrz1JnCnvQa5o/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPywt7NLX5y9CYKG-vnGnLTNZjdZn9h5QduWkqhdrfjPXy4v7qjQkT_ejn-jkzr8EU_W4rzJmcfQ6JfBNoyTwm0Ma0SuKpwxYwHoGhntOWX2g\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 6",
+      "dueTime": "2025-05-16T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "158iD_t7B-tMIPcHpCC-eZI1Hi9yoOWQR",
+              "title": "CN-A6-20L-0961.pdf",
+              "alternateLink": "https://drive.google.com/file/d/158iD_t7B-tMIPcHpCC-eZI1Hi9yoOWQR/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMJC1Z0vc942WGihMIkjwGKKdNgZydo06QOvY5JZJEj8A3SY8Wvu1-nrtizJ8MBa9EltwlrEQuT7PrSM65xQo0HKxWwNORp-XJxNbMv5gnzQ2s\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Kanz Ul Eeman BSCS 2021 FAST NU LHR"
+      },
+      "emailAddress": "l215469@lhr.nu.edu.pk"
+    },
+    "creationTime": "2025-05-01T06:49:52.166Z",
+    "updateTime": "2025-05-01T06:51:52.017Z",
+    "publicationTime": "2025-05-01T06:51:51.700Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1V5r4RHeDRTHDjT196urNe3ZKTRI69im6",
+          "title": "CN_Assignment5.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1V5r4RHeDRTHDjT196urNe3ZKTRI69im6/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBO5MwZhr3UNYL9jjIQfjn1XRteIB56MIeJtm9D0sRYxO3Vfos51DLb2rtiQKzfe7gRYm-XoAtxBtDg80XV5lLD8ZeeWGeK_aUTgBoiXYrZXug\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 5",
+      "description": "Deadline: Thursday (May 8,2025)\n",
+      "descriptionHtml": "\u003cdiv\u003eDeadline: Thursday (May 8,2025)\u003c/div\u003e",
+      "dueTime": "2025-05-07T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1VYddyOCe5mnEYGHs9FhwjraPRZCVxbkU",
+              "title": "CN-A5-20L-0961.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1VYddyOCe5mnEYGHs9FhwjraPRZCVxbkU/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN6-U51eL8mKl4omoCLtb2W4abjQr9HVSMaQ54k5P_JEKMN_NssTDpP3XZxOBP8BwwR2rmIyulWY7D1jP6xi0ABi3H5arw47hPV9ObIIpwp7Q0\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Kanz Ul Eeman BSCS 2021 FAST NU LHR"
+      },
+      "emailAddress": "l215469@lhr.nu.edu.pk"
+    },
+    "creationTime": "2025-04-19T02:02:45.323Z",
+    "updateTime": "2025-04-19T02:08:06.057Z",
+    "publicationTime": "2025-04-19T02:08:05.778Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1bpdLudEFo2HJ4Fu9fD-R1Jju2zqyBkf3",
+          "title": "CN_Assignment4.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1bpdLudEFo2HJ4Fu9fD-R1Jju2zqyBkf3/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPjOoknYpSu_q134IL-7zA_9f5dXkegJxOFaTsP5GUb_lOz1yodctGiXN6uHrlGBXvUWyooqcSTtfp5fZ4riF1iSNLc4LIG2_SPXQNSdswF-Q\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 4",
+      "description": "Deadline: (Thursday) April 24,2025",
+      "descriptionHtml": "\u003cdiv\u003eDeadline: (Thursday) April 24,2025\u003c/div\u003e",
+      "dueTime": "2025-04-23T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1XGXXTV9_VJX7q1nwC22JUzhQfadip74g",
+              "title": "CN-A4-20L-0961.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1XGXXTV9_VJX7q1nwC22JUzhQfadip74g/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM9dn7CKqeT24HUBeFNcdccfCZ0DMGN4CMIQafQAYc6G4Kf5Hu_H10nhcRK6HncRnSfHM8_-CFQYoDmQf-iNCxlL7oytaS_NrLTeVQvRH__CFo\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Kanz Ul Eeman BSCS 2021 FAST NU LHR"
+      },
+      "emailAddress": "l215469@lhr.nu.edu.pk"
+    },
+    "creationTime": "2025-03-25T14:42:24.877Z",
+    "updateTime": "2025-03-25T14:42:23.462Z",
+    "publicationTime": "2025-03-25T14:42:23.253Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1bR3NCASrXesAle9YvSj6NZfIk5t-yr45",
+          "title": "CN_Assignment3.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1bR3NCASrXesAle9YvSj6NZfIk5t-yr45/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMHJHrO3RAqE9463EJOeXmiF5C8Vmj0oDP1M8Iq7dCZTz0jG9wxCVjR-mTejg-wzJwJQ7TDNzPCNNQvXNLBtWIKnwFVTLaH869_KzOPQchRcg\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 3",
+      "description": "Due Date: March 30,2025\nSubmission: Google Classroom ",
+      "descriptionHtml": "\u003cdiv\u003e\u003cb\u003eDue Date: March 30,2025\u003cbr\u003eSubmission: Google Classroom\u003c/b\u003e\u003c/div\u003e",
+      "dueTime": "2025-03-30T18:59:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1BeI0tl24P7ibUTvpxZ56JJgJE3kBMO5Z",
+              "title": "CN-A3-20L-0961.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1BeI0tl24P7ibUTvpxZ56JJgJE3kBMO5Z/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOa_UM7sfqq_ws9hhEpb1ZsB9QTThV3kVC8Xr7KmSdtrtqDQgfNCpBfjhsnBoo9vIRre3P_YyTilBzwqQ-YKGlfB5yLBQQ-qFEeK0MxQ4Gm04A\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Kanz Ul Eeman BSCS 2021 FAST NU LHR"
+      },
+      "emailAddress": "l215469@lhr.nu.edu.pk"
+    },
+    "creationTime": "2025-02-26T13:17:39.686Z",
+    "updateTime": "2025-02-26T13:17:42.187Z",
+    "publicationTime": "2025-02-26T13:17:41.833Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "19KZSZe1bgfh7_7snqbw5IbhbtSiU8_DI",
+          "title": "CN_Assignment2.pdf",
+          "alternateLink": "https://drive.google.com/file/d/19KZSZe1bgfh7_7snqbw5IbhbtSiU8_DI/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN-_O7E4x4l1yfzkdrPa49CvzgGhLlWC7AgkRHAqdx5fxM67ubBjPiKxbNO70EEtMZmFeZniYynoCBvoFptz2zgl6p23n_66jgFtz-w8nksAg\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment2",
+      "dueTime": "2025-03-05T18:59:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1MVDQCflfd3jRNkSJmZ4k8JnCQyv6qKCp",
+              "title": "CN-A2-20L-0961.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1MVDQCflfd3jRNkSJmZ4k8JnCQyv6qKCp/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPxcwz3yVFdNLTgfFfl_aG7QT7GPKJNfMvuQHwSF6sLY5G6_OrR59v6q6djaGQkaRU8wMBszAQWq665jLv3evngCQMHzWwjYKU9erW7ztUeD8I\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Kanz Ul Eeman BSCS 2021 FAST NU LHR"
+      },
+      "emailAddress": "l215469@lhr.nu.edu.pk"
+    },
+    "creationTime": "2025-02-07T09:20:49.160Z",
+    "updateTime": "2025-02-07T09:20:47.441Z",
+    "publicationTime": "2025-02-07T09:20:47.163Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1oi0N9vDM5gUK_bXOZcIFzPlPAdJJHoOp",
+          "title": "CN_Assignment1.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1oi0N9vDM5gUK_bXOZcIFzPlPAdJJHoOp/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPlonhGa40C7wubuTBPk-eb1TGm7LGZ3sqI5n3eZXDRoJDI6AX1CQl997h_zXgPTa8mU3951te9DGyrSbFTiI2A5QTkpLTLvS4nhN2WXMq_KA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 1",
+      "dueTime": "2025-02-12T18:59:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1DgqALt8--wJyM6FC1WTPj4XxpFEckIMi",
+              "title": "CN-A1-20L-0961.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1DgqALt8--wJyM6FC1WTPj4XxpFEckIMi/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOdGkrdVSvxaLZXJWvdzMXPkAz2NhSbqigi95WaUs5RaFCJa042W8tGJDY1TJexXlhp-q95kaQtWYcaocX_FMEVtFtfPynKvJSl981Vglq5KG8\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }]
+}
